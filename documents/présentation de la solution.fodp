@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <office:document xmlns:anim="urn:oasis:names:tc:opendocument:xmlns:animation:1.0" xmlns:smil="urn:oasis:names:tc:opendocument:xmlns:smil-compatible:1.0" xmlns:presentation="urn:oasis:names:tc:opendocument:xmlns:presentation:1.0" xmlns:css3t="http://www.w3.org/TR/css3-text/" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:rpt="http://openoffice.org/2005/report" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:officeooo="http://openoffice.org/2009/office" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" office:version="1.3" office:mimetype="application/vnd.oasis.opendocument.presentation">
- <office:meta><meta:creation-date>2024-09-19T10:53:12.394225046</meta:creation-date><meta:editing-duration>PT1H17M53S</meta:editing-duration><meta:editing-cycles>74</meta:editing-cycles><meta:generator>LibreOffice/24.2.5.2$Linux_X86_64 LibreOffice_project/420$Build-2</meta:generator><dc:title>Blue Curve</dc:title><dc:date>2024-09-19T12:12:40.171790187</dc:date><meta:document-statistic meta:object-count="63"/></office:meta>
+ <office:meta><meta:creation-date>2024-09-19T10:53:12.394225046</meta:creation-date><meta:editing-duration>PT1H21M57S</meta:editing-duration><meta:editing-cycles>77</meta:editing-cycles><meta:generator>LibreOffice/24.2.6.2$Linux_X86_64 LibreOffice_project/420$Build-2</meta:generator><dc:title>Blue Curve</dc:title><dc:date>2024-10-08T16:01:38.551189282</dc:date><meta:document-statistic meta:object-count="63"/></office:meta>
  <office:settings>
   <config:config-item-set config:name="ooo:view-settings">
    <config:config-item config:name="VisibleAreaTop" config:type="int">595</config:config-item>
@@ -35,10 +35,10 @@
      <config:config-item config:name="IsClickChangeRotation" config:type="boolean">true</config:config-item>
      <config:config-item config:name="SlidesPerRow" config:type="short">4</config:config-item>
      <config:config-item config:name="EditMode" config:type="int">0</config:config-item>
-     <config:config-item config:name="VisibleAreaTop" config:type="int">-706</config:config-item>
-     <config:config-item config:name="VisibleAreaLeft" config:type="int">-419</config:config-item>
-     <config:config-item config:name="VisibleAreaWidth" config:type="int">28995</config:config-item>
-     <config:config-item config:name="VisibleAreaHeight" config:type="int">19139</config:config-item>
+     <config:config-item config:name="VisibleAreaTop" config:type="int">-244</config:config-item>
+     <config:config-item config:name="VisibleAreaLeft" config:type="int">-1013</config:config-item>
+     <config:config-item config:name="VisibleAreaWidth" config:type="int">30156</config:config-item>
+     <config:config-item config:name="VisibleAreaHeight" config:type="int">16289</config:config-item>
      <config:config-item config:name="GridCoarseWidth" config:type="int">2000</config:config-item>
      <config:config-item config:name="GridCoarseHeight" config:type="int">2000</config:config-item>
      <config:config-item config:name="GridFineWidth" config:type="int">500</config:config-item>
@@ -62,7 +62,7 @@
    <config:config-item config:name="DefaultTabStop" config:type="int">1250</config:config-item>
    <config:config-item config:name="IsPrintHandout" config:type="boolean">false</config:config-item>
    <config:config-item config:name="PrinterName" config:type="string">HLL2310D</config:config-item>
-   <config:config-item config:name="PrinterSetup" config:type="base64Binary">rAH+/0hMTDIzMTBEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQ1VQUzpITEwyMzEwRAAAAAAAAAAAAAAAAAAAAAAAAAAWAAMAmQAAAAAAAQAEAAhSAAAEdAAASm9iRGF0YSAxCnByaW50ZXI9SExMMjMxMEQKb3JpZW50YXRpb249UG9ydHJhaXQKY29waWVzPTEKY29sbGF0ZT1mYWxzZQptYXJnaW5hZGp1c3RtZW50PTAsMCwnMCwwCmNvbG9yZGVwdGg9MjQKY29sb3JkZXZpY2U9MApQUERDb250ZXh0RGF0YQpQYWdlU2l6ZTpBNAAAEgBDT01QQVRfRFVQTEVYX01PREUPAER1cGxleE1vZGU6Ok9mZgwAUFJJTlRFUl9OQU1FCABITEwyMzEwRAsARFJJVkVSX05BTUUNAENVUFM6SExMMjMxMEQ=</config:config-item>
+   <config:config-item config:name="PrinterSetup" config:type="base64Binary">yAH+/0hMTDIzMTBEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQ1VQUzpITEwyMzEwRAAAAAAAAAAAAAAAAAAAAAAAAAAWAAMAtQAAAAAAAQAEAAhSAAAEdAAASm9iRGF0YSAxCnByaW50ZXI9SExMMjMxMEQKb3JpZW50YXRpb249UG9ydHJhaXQKY29waWVzPTEKY29sbGF0ZT1mYWxzZQptYXJnaW5hZGp1c3RtZW50PTAsMCwnMCwwCmNvbG9yZGVwdGg9MjQKY29sb3JkZXZpY2U9MApQUERDb250ZXh0RGF0YQpEdXBsZXg6Tm9uZQBJbnB1dFNsb3Q6VFJBWTEAUGFnZVNpemU6QTQAABIAQ09NUEFUX0RVUExFWF9NT0RFDwBEdXBsZXhNb2RlOjpPZmYMAFBSSU5URVJfTkFNRQgASExMMjMxMEQLAERSSVZFUl9OQU1FDQBDVVBTOkhMTDIzMTBE</config:config-item>
    <config:config-item config:name="DashTableURL" config:type="string">$(brandbaseurl)/share/palette%3B$(user)/config/standard.sod</config:config-item>
    <config:config-item config:name="PageNumberFormat" config:type="int">4</config:config-item>
    <config:config-item-map-indexed config:name="ForbiddenCharacters">
@@ -173,7 +173,7 @@
   <draw:stroke-dash draw:name="Dashed_20__28_var_29__20_2" draw:display-name="Dashed (var) 2" draw:style="rect" draw:dots1="1" draw:dots1-length="0.02cm" draw:dots2="1" draw:dots2-length="0.02cm" draw:distance="0.02cm"/>
   <style:default-style style:family="graphic">
    <style:graphic-properties svg:stroke-color="#3465a4" draw:fill-color="#729fcf" fo:wrap-option="no-wrap" style:writing-mode="lr-tb"/>
-   <style:paragraph-properties style:text-autospace="none" style:punctuation-wrap="simple" style:line-break="strict" loext:tab-stop-distance="0cm" style:font-independent-line-spacing="false">
+   <style:paragraph-properties style:text-autospace="none" style:punctuation-wrap="simple" style:line-break="strict" loext:tab-stop-distance="0cm" style:writing-mode="lr-tb" style:font-independent-line-spacing="false">
     <style:tab-stops/>
    </style:paragraph-properties>
    <style:text-properties style:use-window-font-color="true" loext:opacity="0%" style:font-name="Liberation Sans" fo:font-size="24pt" fo:language="fr" fo:country="FR" style:font-name-asian="Noto Sans CJK JP:palt" style:font-size-asian="24pt" style:language-asian="zh" style:country-asian="CN" style:font-name-complex="Noto Sans1" style:font-size-complex="24pt" style:language-complex="hi" style:country-complex="IN"/>
@@ -230,7 +230,7 @@
    <style:graphic-properties svg:stroke-color="#009bdd" draw:fill="none"/>
   </style:style>
   <style:style style:name="Object_20_with_20_no_20_fill_20_and_20_no_20_line" style:display-name="Object with no fill and no line" style:family="graphic" style:parent-style-name="standard">
-   <style:graphic-properties draw:stroke="none" draw:fill="solid" draw:fill-color="#ffffff" draw:fill-gradient-name="Gradient_20_8" draw:fill-hatch-name="Red_20_90_20_Degrees_20_Crossed_20_1" draw:fill-image-name="Bitmap_20_1" draw:opacity="20%" draw:shadow-opacity="20%"/>
+   <style:graphic-properties draw:stroke="none" draw:fill="solid" draw:fill-color="#ffffff" draw:opacity="20%" draw:shadow-opacity="20%"/>
   </style:style>
   <style:style style:name="Text" style:family="graphic">
    <style:graphic-properties draw:stroke="solid" svg:stroke-color="#cccccc" draw:fill="solid" draw:fill-color="#eeeeee"/>
@@ -723,9 +723,6 @@
   <style:style style:name="dp4" style:family="drawing-page">
    <style:drawing-page-properties presentation:background-visible="true" presentation:background-objects-visible="true" presentation:display-footer="true" presentation:display-page-number="true" presentation:display-date-time="false"/>
   </style:style>
-  <style:style style:name="dp5" style:family="drawing-page">
-   <style:drawing-page-properties presentation:background-visible="true" presentation:background-objects-visible="true" presentation:display-footer="true" presentation:display-page-number="false" presentation:display-date-time="true"/>
-  </style:style>
   <style:style style:name="gr1" style:family="graphic" style:parent-style-name="standard">
    <style:graphic-properties draw:stroke="none" draw:fill="none" draw:fill-color="#ffffff" draw:auto-grow-height="false" fo:min-height="1.485cm" loext:decorative="false"/>
    <style:paragraph-properties style:writing-mode="lr-tb"/>
@@ -744,9 +741,12 @@
    <style:graphic-properties draw:textarea-vertical-align="middle" fo:min-height="1.754cm" fo:min-width="27.991cm" loext:decorative="false"/>
   </style:style>
   <style:style style:name="gr6" style:family="graphic" style:parent-style-name="Object_20_with_20_no_20_fill_20_and_20_no_20_line">
+   <style:graphic-properties draw:stroke="none" draw:fill="none" draw:textarea-horizontal-align="center" draw:textarea-vertical-align="middle" draw:color-mode="standard" draw:luminance="0%" draw:contrast="0%" draw:gamma="100%" draw:red="0%" draw:green="0%" draw:blue="0%" fo:clip="rect(0cm, 0cm, 0cm, 0cm)" draw:image-opacity="100%" style:mirror="none" loext:decorative="false"/>
+  </style:style>
+  <style:style style:name="gr7" style:family="graphic" style:parent-style-name="Object_20_with_20_no_20_fill_20_and_20_no_20_line">
    <style:graphic-properties draw:textarea-horizontal-align="center" draw:textarea-vertical-align="middle" draw:color-mode="standard" draw:luminance="0%" draw:contrast="0%" draw:gamma="100%" draw:red="0%" draw:green="0%" draw:blue="0%" fo:clip="rect(0cm, 0cm, 0cm, 0cm)" draw:image-opacity="100%" style:mirror="none" loext:decorative="false"/>
   </style:style>
-  <style:style style:name="gr7" style:family="graphic">
+  <style:style style:name="gr8" style:family="graphic">
    <style:graphic-properties style:protect="size" loext:decorative="false"/>
   </style:style>
   <style:style style:name="pr1" style:family="presentation" style:parent-style-name="Blue_5f_Curve-backgroundobjects">
@@ -773,35 +773,31 @@
    <style:graphic-properties draw:stroke="none" draw:fill="none" draw:fill-color="#ffffff" draw:textarea-vertical-align="bottom" draw:auto-grow-height="false" fo:min-height="1.485cm" loext:decorative="false"/>
    <style:paragraph-properties style:writing-mode="lr-tb"/>
   </style:style>
-  <style:style style:name="pr7" style:family="presentation" style:parent-style-name="Blue_5f_Curve-title">
-   <style:graphic-properties draw:auto-grow-height="true" fo:min-height="4.5cm" loext:decorative="false"/>
-   <style:paragraph-properties style:writing-mode="lr-tb"/>
-  </style:style>
-  <style:style style:name="pr8" style:family="presentation" style:parent-style-name="Blue_5f_Curve-notes">
+  <style:style style:name="pr7" style:family="presentation" style:parent-style-name="Blue_5f_Curve-notes">
    <style:graphic-properties draw:fill-color="#ffffff" draw:auto-grow-height="true" fo:min-height="14cm" loext:decorative="false"/>
    <style:paragraph-properties style:writing-mode="lr-tb"/>
   </style:style>
-  <style:style style:name="pr9" style:family="presentation" style:parent-style-name="Blue_5f_Curve1-title">
+  <style:style style:name="pr8" style:family="presentation" style:parent-style-name="Blue_5f_Curve1-title">
    <style:graphic-properties draw:auto-grow-height="true" fo:min-height="1.328cm" loext:decorative="false"/>
    <style:paragraph-properties style:writing-mode="lr-tb"/>
   </style:style>
-  <style:style style:name="pr10" style:family="presentation" style:parent-style-name="Blue_5f_Curve1-outline1">
+  <style:style style:name="pr9" style:family="presentation" style:parent-style-name="Blue_5f_Curve1-outline1">
    <style:graphic-properties fo:min-height="5.576cm" loext:decorative="false"/>
    <style:paragraph-properties style:writing-mode="lr-tb"/>
   </style:style>
-  <style:style style:name="pr11" style:family="presentation" style:parent-style-name="Blue_5f_Curve1-notes">
+  <style:style style:name="pr10" style:family="presentation" style:parent-style-name="Blue_5f_Curve1-notes">
    <style:graphic-properties draw:fill-color="#ffffff" draw:auto-grow-height="true" fo:min-height="14cm" loext:decorative="false"/>
    <style:paragraph-properties style:writing-mode="lr-tb"/>
   </style:style>
-  <style:style style:name="pr12" style:family="presentation" style:parent-style-name="Blue_5f_Curve1-title">
+  <style:style style:name="pr11" style:family="presentation" style:parent-style-name="Blue_5f_Curve1-title">
    <style:graphic-properties fo:min-height="1.328cm" loext:decorative="false"/>
    <style:paragraph-properties style:writing-mode="lr-tb"/>
   </style:style>
-  <style:style style:name="pr13" style:family="presentation" style:parent-style-name="Blue_5f_Curve1-outline1">
+  <style:style style:name="pr12" style:family="presentation" style:parent-style-name="Blue_5f_Curve1-outline1">
    <style:graphic-properties fo:min-height="10.001cm" loext:decorative="false"/>
    <style:paragraph-properties style:writing-mode="lr-tb"/>
   </style:style>
-  <style:style style:name="pr14" style:family="presentation" style:parent-style-name="Blue_5f_Curve1-notes">
+  <style:style style:name="pr13" style:family="presentation" style:parent-style-name="Blue_5f_Curve1-notes">
    <style:graphic-properties draw:fill-color="#ffffff" fo:min-height="14cm" loext:decorative="false"/>
    <style:paragraph-properties style:writing-mode="lr-tb"/>
   </style:style>
@@ -850,7 +846,8 @@
    <style:text-properties fo:font-size="14pt" style:font-size-asian="14pt" style:font-size-complex="14pt"/>
   </style:style>
   <style:style style:name="P12" style:family="paragraph">
-   <style:text-properties fo:font-weight="bold" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
+   <loext:graphic-properties draw:fill="none"/>
+   <style:paragraph-properties fo:text-align="center"/>
   </style:style>
   <style:style style:name="P13" style:family="paragraph">
    <loext:graphic-properties draw:fill-color="#ffffff"/>
@@ -866,9 +863,6 @@
    <style:text-properties fo:font-size="14pt" style:font-size-asian="14pt" style:font-size-complex="14pt"/>
   </style:style>
   <style:style style:name="T2" style:family="text">
-   <style:text-properties fo:font-weight="bold" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
-  </style:style>
-  <style:style style:name="T3" style:family="text">
    <style:text-properties fo:font-variant="normal" fo:text-transform="none" fo:color="#009bdd" loext:opacity="100%" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Liberation Sans" fo:font-size="24pt" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="normal" style:letter-kerning="true" fo:background-color="transparent" style:font-size-asian="24pt" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-size-complex="24pt" style:font-style-complex="normal" style:font-weight-complex="normal" style:text-emphasize="none" style:font-relief="none" style:text-overline-style="none" style:text-overline-color="font-color"/>
   </style:style>
   <text:list-style style:name="L1">
@@ -1035,7 +1029,6 @@
    <draw:page-thumbnail draw:layer="backgroundobjects" svg:width="8.999cm" svg:height="5.061cm" svg:x="11cm" svg:y="20.894cm"/>
   </style:handout-master>
   <style:master-page style:name="Blue_5f_Curve" style:display-name="Blue_Curve" style:page-layout-name="PM1" draw:style-name="dp1">
-   <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
    <loext:theme loext:name="Office">
     <loext:theme-colors loext:name="LibreOffice">
      <loext:color loext:name="dark1" loext:color="#000000"/>
@@ -1078,7 +1071,6 @@
     </draw:text-box>
    </draw:frame>
    <presentation:notes style:page-layout-name="PM0">
-    <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
     <draw:page-thumbnail presentation:style-name="Blue_5f_Curve-title" draw:layer="backgroundobjects" svg:width="17cm" svg:height="9.56cm" svg:x="2cm" svg:y="2.5cm" presentation:class="page"/>
     <draw:frame presentation:style-name="Blue_5f_Curve-notes" draw:layer="backgroundobjects" svg:width="17cm" svg:height="14cm" svg:x="2cm" svg:y="13cm" presentation:class="notes" presentation:placeholder="true">
      <draw:text-box/>
@@ -1106,7 +1098,6 @@
    </presentation:notes>
   </style:master-page>
   <style:master-page style:name="Blue_5f_Curve1" style:display-name="Blue_Curve1" style:page-layout-name="PM1" draw:style-name="dp1">
-   <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
    <loext:theme loext:name="Office">
     <loext:theme-colors loext:name="LibreOffice">
      <loext:color loext:name="dark1" loext:color="#000000"/>
@@ -1153,7 +1144,6 @@
     </draw:text-box>
    </draw:frame>
    <presentation:notes style:page-layout-name="PM0">
-    <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
     <draw:page-thumbnail presentation:style-name="Blue_5f_Curve1-title" draw:layer="backgroundobjects" svg:width="17cm" svg:height="9.56cm" svg:x="2cm" svg:y="2.5cm" presentation:class="page"/>
     <draw:frame presentation:style-name="Blue_5f_Curve1-notes" draw:layer="backgroundobjects" svg:width="17cm" svg:height="14cm" svg:x="2cm" svg:y="13cm" presentation:class="notes" presentation:placeholder="true">
      <draw:text-box/>
@@ -1185,7 +1175,7 @@
   <office:presentation><presentation:footer-decl presentation:name="ftr1">OpenHomeSystem</presentation:footer-decl>
    <draw:page draw:name="page1" draw:style-name="dp3" draw:master-page-name="Blue_5f_Curve" presentation:presentation-page-layout-name="AL1T19" presentation:use-footer-name="ftr1">
     <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
-    <draw:frame draw:style-name="gr6" draw:text-style-name="P10" draw:layer="layout" svg:width="28.873cm" svg:height="15.745cm" svg:x="0cm" svg:y="0.005cm">
+    <draw:frame draw:style-name="gr6" draw:text-style-name="P12" draw:layer="layout" svg:width="28.873cm" svg:height="15.745cm" svg:x="0cm" svg:y="0.005cm">
      <draw:image draw:mime-type="image/jpeg">
       <office:binary-data>/9j/4QAYRXhpZgAASUkqAAgAAAAAAAAAAAAAAP/sABFEdWNreQABAAQAAAAeAAD/4QOFaHR0
        cDovL25zLmFkb2JlLmNvbS94YXAvMS4wLwA8P3hwYWNrZXQgYmVnaW49Iu+7vyIgaWQ9Ilc1
@@ -3539,26 +3529,373 @@
       <text:p/>
      </draw:image>
     </draw:frame>
-    <draw:frame presentation:style-name="pr7" draw:text-style-name="P12" draw:layer="layout" svg:width="16.5cm" svg:height="4.5cm" svg:x="5cm" svg:y="5cm" presentation:class="title" presentation:user-transformed="true">
-     <draw:text-box>
-      <text:p text:style-name="P12"><text:span text:style-name="T2">OpenHomeSystem</text:span></text:p>
-     </draw:text-box>
+    <draw:frame draw:style-name="gr7" draw:text-style-name="P10" draw:layer="layout" svg:width="8.016cm" svg:height="9.34cm" svg:x="10.047cm" svg:y="3.23cm">
+     <draw:image draw:mime-type="image/png">
+      <office:binary-data>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
+       EKlJ40z5rAAAAABJRU5ErkJggg==
+      </office:binary-data>
+      <text:p/>
+     </draw:image>
     </draw:frame>
     <presentation:notes draw:style-name="dp2">
-     <draw:page-thumbnail draw:style-name="gr7" draw:layer="layout" svg:width="17cm" svg:height="9.56cm" svg:x="2cm" svg:y="2.5cm" draw:page-number="1" presentation:class="page"/>
-     <draw:frame presentation:style-name="pr8" draw:text-style-name="P13" draw:layer="layout" svg:width="17cm" svg:height="14cm" svg:x="2cm" svg:y="13cm" presentation:class="notes" presentation:placeholder="true">
+     <draw:page-thumbnail draw:style-name="gr8" draw:layer="layout" svg:width="17cm" svg:height="9.56cm" svg:x="2cm" svg:y="2.5cm" draw:page-number="1" presentation:class="page"/>
+     <draw:frame presentation:style-name="pr7" draw:text-style-name="P13" draw:layer="layout" svg:width="17cm" svg:height="14cm" svg:x="2cm" svg:y="13cm" presentation:class="notes" presentation:placeholder="true">
       <draw:text-box/>
      </draw:frame>
     </presentation:notes>
    </draw:page>
    <draw:page draw:name="page2" draw:style-name="dp4" draw:master-page-name="Blue_5f_Curve1" presentation:presentation-page-layout-name="AL2T1" presentation:use-footer-name="ftr1">
     <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
-    <draw:frame presentation:style-name="pr9" draw:layer="layout" svg:width="26cm" svg:height="1.328cm" svg:x="1cm" svg:y="0.5cm" presentation:class="title" presentation:user-transformed="true">
+    <draw:frame presentation:style-name="pr8" draw:layer="layout" svg:width="26cm" svg:height="1.328cm" svg:x="1cm" svg:y="0.5cm" presentation:class="title" presentation:user-transformed="true">
      <draw:text-box>
       <text:p>La problématique</text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:frame presentation:style-name="pr10" draw:layer="layout" svg:width="26cm" svg:height="10cm" svg:x="1cm" svg:y="3cm" presentation:class="outline" presentation:user-transformed="true">
+    <draw:frame presentation:style-name="pr9" draw:layer="layout" svg:width="26cm" svg:height="10cm" svg:x="1cm" svg:y="3cm" presentation:class="outline" presentation:user-transformed="true">
      <draw:text-box>
       <text:list text:style-name="L3">
        <text:list-item>
@@ -3582,20 +3919,20 @@
      </draw:text-box>
     </draw:frame>
     <presentation:notes draw:style-name="dp2">
-     <draw:page-thumbnail draw:style-name="gr7" draw:layer="layout" svg:width="17cm" svg:height="9.56cm" svg:x="2cm" svg:y="2.5cm" draw:page-number="2" presentation:class="page"/>
-     <draw:frame presentation:style-name="pr11" draw:text-style-name="P13" draw:layer="layout" svg:width="17cm" svg:height="14cm" svg:x="2cm" svg:y="13cm" presentation:class="notes" presentation:placeholder="true" presentation:user-transformed="true">
+     <draw:page-thumbnail draw:style-name="gr8" draw:layer="layout" svg:width="17cm" svg:height="9.56cm" svg:x="2cm" svg:y="2.5cm" draw:page-number="2" presentation:class="page"/>
+     <draw:frame presentation:style-name="pr10" draw:text-style-name="P13" draw:layer="layout" svg:width="17cm" svg:height="14cm" svg:x="2cm" svg:y="13cm" presentation:class="notes" presentation:placeholder="true" presentation:user-transformed="true">
       <draw:text-box/>
      </draw:frame>
     </presentation:notes>
    </draw:page>
    <draw:page draw:name="page3" draw:style-name="dp4" draw:master-page-name="Blue_5f_Curve1" presentation:presentation-page-layout-name="AL2T1" presentation:use-footer-name="ftr1">
     <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
-    <draw:frame presentation:style-name="pr12" draw:layer="layout" svg:width="26cm" svg:height="1.328cm" svg:x="1cm" svg:y="0.5cm" presentation:class="title">
+    <draw:frame presentation:style-name="pr11" draw:layer="layout" svg:width="26cm" svg:height="1.328cm" svg:x="1cm" svg:y="0.5cm" presentation:class="title">
      <draw:text-box>
       <text:p>La solution</text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:frame presentation:style-name="pr13" draw:layer="layout" svg:width="26cm" svg:height="10cm" svg:x="1cm" svg:y="3cm" presentation:class="outline">
+    <draw:frame presentation:style-name="pr12" draw:layer="layout" svg:width="26cm" svg:height="10cm" svg:x="1cm" svg:y="3cm" presentation:class="outline" presentation:user-transformed="true">
      <draw:text-box>
       <text:list text:style-name="L3">
        <text:list-item>
@@ -3622,21 +3959,20 @@
      </draw:text-box>
     </draw:frame>
     <presentation:notes draw:style-name="dp2">
-     <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
-     <draw:page-thumbnail draw:style-name="gr7" draw:layer="layout" svg:width="17cm" svg:height="9.56cm" svg:x="2cm" svg:y="2.5cm" draw:page-number="3" presentation:class="page"/>
-     <draw:frame presentation:style-name="pr14" draw:text-style-name="P13" draw:layer="layout" svg:width="17cm" svg:height="14cm" svg:x="2cm" svg:y="13cm" presentation:class="notes" presentation:placeholder="true">
+     <draw:page-thumbnail draw:style-name="gr8" draw:layer="layout" svg:width="17cm" svg:height="9.56cm" svg:x="2cm" svg:y="2.5cm" draw:page-number="3" presentation:class="page"/>
+     <draw:frame presentation:style-name="pr13" draw:text-style-name="P13" draw:layer="layout" svg:width="17cm" svg:height="14cm" svg:x="2cm" svg:y="13cm" presentation:class="notes" presentation:placeholder="true">
       <draw:text-box/>
      </draw:frame>
     </presentation:notes>
    </draw:page>
    <draw:page draw:name="page4" draw:style-name="dp4" draw:master-page-name="Blue_5f_Curve1" presentation:presentation-page-layout-name="AL2T1" presentation:use-footer-name="ftr1">
     <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
-    <draw:frame presentation:style-name="pr12" draw:layer="layout" svg:width="26cm" svg:height="1.328cm" svg:x="1cm" svg:y="0.5cm" presentation:class="title">
+    <draw:frame presentation:style-name="pr11" draw:layer="layout" svg:width="26cm" svg:height="1.328cm" svg:x="1cm" svg:y="0.5cm" presentation:class="title">
      <draw:text-box>
       <text:p>Comment OpenHEMS y réponds?</text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:frame presentation:style-name="pr13" draw:layer="layout" svg:width="26cm" svg:height="10cm" svg:x="1cm" svg:y="3cm" presentation:class="outline" presentation:user-transformed="true">
+    <draw:frame presentation:style-name="pr12" draw:layer="layout" svg:width="26cm" svg:height="10cm" svg:x="1cm" svg:y="3cm" presentation:class="outline" presentation:user-transformed="true">
      <draw:text-box>
       <text:list text:style-name="L3">
        <text:list-item>
@@ -3648,38 +3984,37 @@
         </text:list>
        </text:list-item>
        <text:list-item>
-        <text:p><text:span text:style-name="T3">Sans nécessiter internet</text:span></text:p>
+        <text:p><text:span text:style-name="T2">Sans nécessiter internet</text:span></text:p>
         <text:list>
          <text:list-item>
-          <text:p><text:span text:style-name="T3">Pas de risque pour la vie privée.</text:span></text:p>
+          <text:p><text:span text:style-name="T2">Pas de risque pour la vie privée.</text:span></text:p>
          </text:list-item>
          <text:list-item>
-          <text:p><text:span text:style-name="T3">Fonctionne en cas de coupure réseau (sans les appareils </text:span><text:span text:style-name="T3">dépendant)</text:span></text:p>
+          <text:p><text:span text:style-name="T2">Fonctionne en cas de coupure réseau (sans les appareils </text:span><text:span text:style-name="T2">dépendant)</text:span></text:p>
          </text:list-item>
         </text:list>
        </text:list-item>
        <text:list-item>
-        <text:p><text:span text:style-name="T3">Forte personnalisation et adaptation aux spécificités.</text:span></text:p>
+        <text:p><text:span text:style-name="T2">Forte personnalisation et adaptation aux spécificités.</text:span></text:p>
        </text:list-item>
       </text:list>
      </draw:text-box>
     </draw:frame>
     <presentation:notes draw:style-name="dp2">
-     <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
-     <draw:page-thumbnail draw:style-name="gr7" draw:layer="layout" svg:width="17cm" svg:height="9.56cm" svg:x="2cm" svg:y="2.5cm" draw:page-number="4" presentation:class="page"/>
-     <draw:frame presentation:style-name="pr14" draw:text-style-name="P13" draw:layer="layout" svg:width="17cm" svg:height="14cm" svg:x="2cm" svg:y="13cm" presentation:class="notes" presentation:placeholder="true">
+     <draw:page-thumbnail draw:style-name="gr8" draw:layer="layout" svg:width="17cm" svg:height="9.56cm" svg:x="2cm" svg:y="2.5cm" draw:page-number="4" presentation:class="page"/>
+     <draw:frame presentation:style-name="pr13" draw:text-style-name="P13" draw:layer="layout" svg:width="17cm" svg:height="14cm" svg:x="2cm" svg:y="13cm" presentation:class="notes" presentation:placeholder="true">
       <draw:text-box/>
      </draw:frame>
     </presentation:notes>
    </draw:page>
    <draw:page draw:name="page5" draw:style-name="dp4" draw:master-page-name="Blue_5f_Curve1" presentation:presentation-page-layout-name="AL2T1" presentation:use-footer-name="ftr1">
     <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
-    <draw:frame presentation:style-name="pr12" draw:layer="layout" svg:width="26cm" svg:height="1.328cm" svg:x="1cm" svg:y="0.5cm" presentation:class="title" presentation:user-transformed="true">
+    <draw:frame presentation:style-name="pr11" draw:layer="layout" svg:width="26cm" svg:height="1.328cm" svg:x="1cm" svg:y="0.5cm" presentation:class="title" presentation:user-transformed="true">
      <draw:text-box>
       <text:p>Open-Source</text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:frame presentation:style-name="pr13" draw:layer="layout" svg:width="26cm" svg:height="10cm" svg:x="1cm" svg:y="3cm" presentation:class="outline" presentation:user-transformed="true">
+    <draw:frame presentation:style-name="pr12" draw:layer="layout" svg:width="26cm" svg:height="10cm" svg:x="1cm" svg:y="3cm" presentation:class="outline" presentation:user-transformed="true">
      <draw:text-box>
       <text:list text:style-name="L3">
        <text:list-item>
@@ -3694,7 +4029,7 @@
         </text:list>
        </text:list-item>
        <text:list-item>
-        <text:p><text:span text:style-name="T3">Garantie de réparabilité/personnalisation</text:span></text:p>
+        <text:p><text:span text:style-name="T2">Garantie de réparabilité/personnalisation</text:span></text:p>
        </text:list-item>
        <text:list-item>
         <text:p text:style-name="P14">Communauté dynamique</text:p>
@@ -3705,22 +4040,21 @@
       </text:list>
      </draw:text-box>
     </draw:frame>
-    <presentation:notes draw:style-name="dp5">
-     <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
-     <draw:page-thumbnail draw:style-name="gr7" draw:layer="layout" svg:width="17cm" svg:height="9.56cm" svg:x="2cm" svg:y="2.5cm" draw:page-number="5" presentation:class="page"/>
-     <draw:frame presentation:style-name="pr14" draw:text-style-name="P15" draw:layer="layout" svg:width="17cm" svg:height="14cm" svg:x="2cm" svg:y="13cm" presentation:class="notes" presentation:placeholder="true">
+    <presentation:notes draw:style-name="dp2">
+     <draw:page-thumbnail draw:style-name="gr8" draw:layer="layout" svg:width="17cm" svg:height="9.56cm" svg:x="2cm" svg:y="2.5cm" draw:page-number="5" presentation:class="page"/>
+     <draw:frame presentation:style-name="pr13" draw:text-style-name="P15" draw:layer="layout" svg:width="17cm" svg:height="14cm" svg:x="2cm" svg:y="13cm" presentation:class="notes" presentation:placeholder="true">
       <draw:text-box/>
      </draw:frame>
     </presentation:notes>
    </draw:page>
    <draw:page draw:name="page6" draw:style-name="dp4" draw:master-page-name="Blue_5f_Curve1" presentation:presentation-page-layout-name="AL2T1" presentation:use-footer-name="ftr1">
     <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
-    <draw:frame presentation:style-name="pr12" draw:layer="layout" svg:width="26cm" svg:height="1.328cm" svg:x="1cm" svg:y="0.5cm" presentation:class="title">
+    <draw:frame presentation:style-name="pr11" draw:layer="layout" svg:width="26cm" svg:height="1.328cm" svg:x="1cm" svg:y="0.5cm" presentation:class="title">
      <draw:text-box>
       <text:p>2ème éffet Kiss Cool</text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:frame presentation:style-name="pr13" draw:layer="layout" svg:width="26cm" svg:height="10cm" svg:x="1cm" svg:y="3cm" presentation:class="outline" presentation:user-transformed="true">
+    <draw:frame presentation:style-name="pr12" draw:layer="layout" svg:width="26cm" svg:height="10cm" svg:x="1cm" svg:y="3cm" presentation:class="outline" presentation:user-transformed="true">
      <draw:text-box>
       <text:list text:style-name="L3">
        <text:list-item>
@@ -3741,27 +4075,25 @@
      </draw:text-box>
     </draw:frame>
     <presentation:notes draw:style-name="dp2">
-     <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
-     <draw:page-thumbnail draw:style-name="gr7" draw:layer="layout" svg:width="17cm" svg:height="9.56cm" svg:x="2cm" svg:y="2.5cm" draw:page-number="6" presentation:class="page"/>
-     <draw:frame presentation:style-name="pr14" draw:text-style-name="P13" draw:layer="layout" svg:width="17cm" svg:height="14cm" svg:x="2cm" svg:y="13cm" presentation:class="notes" presentation:placeholder="true">
+     <draw:page-thumbnail draw:style-name="gr8" draw:layer="layout" svg:width="17cm" svg:height="9.56cm" svg:x="2cm" svg:y="2.5cm" draw:page-number="6" presentation:class="page"/>
+     <draw:frame presentation:style-name="pr13" draw:text-style-name="P13" draw:layer="layout" svg:width="17cm" svg:height="14cm" svg:x="2cm" svg:y="13cm" presentation:class="notes" presentation:placeholder="true">
       <draw:text-box/>
      </draw:frame>
     </presentation:notes>
    </draw:page>
    <draw:page draw:name="page7" draw:style-name="dp4" draw:master-page-name="Blue_5f_Curve1" presentation:presentation-page-layout-name="AL2T1" presentation:use-footer-name="ftr1">
     <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
-    <draw:frame presentation:style-name="pr12" draw:layer="layout" svg:width="26cm" svg:height="1.328cm" svg:x="1cm" svg:y="0.5cm" presentation:class="title">
+    <draw:frame presentation:style-name="pr11" draw:layer="layout" svg:width="26cm" svg:height="1.328cm" svg:x="1cm" svg:y="0.5cm" presentation:class="title">
      <draw:text-box>
       <text:p>Questions</text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:frame presentation:style-name="pr13" draw:layer="layout" svg:width="26cm" svg:height="10cm" svg:x="1cm" svg:y="3cm" presentation:class="outline" presentation:placeholder="true" presentation:user-transformed="true">
+    <draw:frame presentation:style-name="pr12" draw:layer="layout" svg:width="26cm" svg:height="10cm" svg:x="1cm" svg:y="3cm" presentation:class="outline" presentation:placeholder="true" presentation:user-transformed="true">
      <draw:text-box/>
     </draw:frame>
     <presentation:notes draw:style-name="dp2">
-     <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
-     <draw:page-thumbnail draw:style-name="gr7" draw:layer="layout" svg:width="17cm" svg:height="9.56cm" svg:x="2cm" svg:y="2.5cm" draw:page-number="7" presentation:class="page"/>
-     <draw:frame presentation:style-name="pr14" draw:text-style-name="P13" draw:layer="layout" svg:width="17cm" svg:height="14cm" svg:x="2cm" svg:y="13cm" presentation:class="notes" presentation:placeholder="true">
+     <draw:page-thumbnail draw:style-name="gr8" draw:layer="layout" svg:width="17cm" svg:height="9.56cm" svg:x="2cm" svg:y="2.5cm" draw:page-number="7" presentation:class="page"/>
+     <draw:frame presentation:style-name="pr13" draw:text-style-name="P13" draw:layer="layout" svg:width="17cm" svg:height="14cm" svg:x="2cm" svg:y="13cm" presentation:class="notes" presentation:placeholder="true">
       <draw:text-box/>
      </draw:frame>
     </presentation:notes>

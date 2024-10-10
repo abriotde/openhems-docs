@@ -1,10 +1,33 @@
 
 prospects:
-  fauche:
-    email: mhulaud@fauche.com
-    name: Jpf Industries / Fauche
-    phone: 0296858888
-    address: Bd de Préval, 22100 Quévert
-    coord: 48.459123712918995, -2.0677724528278376
+  - fauche:
+		email: mhulaud@fauche.com
+		name: Jpf Industries / Fauche
+		phone: 0296858888
+		address: Bd de Préval
+		poscode: 22100
+		city: Quévert
+		coord: 48.459123712918995, -2.0677724528278376
+  - a:
+    	email: ndecouze@yahoo.fr
+  - Tricobat:
+  		email: geoffrey.lebris@tricobat.fr
+  - alvea-solaire:
+	    email: accueil@alvea-solaire.com
+	    web: https://www.alvea-solaire.com
+	    phone: 0299390840
+  - ArtiPro:
+		email: contact.artipro@icloud.com
+		phone: 0685666076
+		address: 36 rue des Veynettes
+		poscode: 35000
+		city: Rennes
 
-
+contact:
+  - nom: Frédéric Bazantay
+    linked: /in/fr%C3%A9d%C3%A9ric-bazantay-62a11165/
+    
+    https://www.tregor-energethiques.org/ ?
+    contact@alec-saint-brieuc.org
+    
+clb_prlgllsrgl_o-twxs-q26-3f2cb9400433eb9d409884d6e0ea9ed7@optout-feedback.com
