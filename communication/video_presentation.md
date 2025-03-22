@@ -12,32 +12,12 @@ Voici une petite vidéo pour vous présenter rapidement la prise en main
 Il sert a piloter automatiquement certains appareils électriques
  pour optimiser la consommation électrique.
  Cela rentre dans les champs d'applications
- de la domotique pour rendre la maison intelligente.
+ de la domotique pour rendre la maison "intelligente".
+
+Nous allons voir comment le configurer
 
 
-2. Implémentation chez moi
-
-Concrètement, Voici l'implémentation dans ma maison.
-
-C'est un écran Home-Assistant tout a fait classique que j'ai configuré simplement.
-
-On peut voir 
-
-* l'historique de ma consommation. On note la forte hausse la nuit.
-
-* A droite, la météo,
-
-* Le tarif EDF du jour car j'ai un contrat tempo
- (C'est un peu compliqué a configurer) mais c'est faisable,
- et Home-Assistant permet d'à peu près tout ajouter si l'on s'y penche un peu.
-
-* Et on voit que la charge de ma voiture est éteinte.
-
-* En dessous on a accès au widget OpenHEMS.
- Il me permet de demander à OpenHEMS de charger ma voiture.
- Par exemple, je peux lui demander 6h de charge.
- Je sauve mes modifications en clickant sur l'icone de disquette.
-
+2. Présentation de ma maison
 
 Qu'est-ce qu'on a pour faire ça d'un point de vue matériel?
 
@@ -55,26 +35,27 @@ Qu'est-ce qu'on a pour faire ça d'un point de vue matériel?
 * 2 prise connectées ZigBee que je peux piloter (Allumer ou éteindre a distance).
 
 
-3. Configuration
+2. Home-Assistant
 
-Maintenant voyons comment on configure l'appareil.
-
-a) 1ere étape: configurer Home-Assistant
+a) Ajouter nos appareils
 
 * Ajouter les appareils. Dans `Parametres`/`Appareils et services` click `Ajouter une integration`.
 
-* Ajouter les tableaux de bords `Parameters`/`Taleaux de botrd` click `Ajouter un tableau de bord`.
+b) Tableaux de bords
+
+* Ajouter les tableaux de bords `Parameters`/`Taleaux de bord` click `Ajouter un tableau de bord`.
+
+ * URL `Web page` "http://192.168.1.202:8000/".
+
+ * Tableau vide
 
  * `Tableau de bord Defaut` Tableau de bord complet avec tout.
 
- * Tableau de bord avec un component URL pour avoir la programmation des appareil : http://192.168.1.202:8000/?n=1
+ * Generate an Home-Assistant long_lived_token in Menu: User profile / Security / long lived token / Create token. Save it preciously, it's like a password for OpenHEMS access.
 
- * `Web page` "http://192.168.1.202:8000/".
-
-
-Generate an Home-Assistant long_lived_token in Menu: User profile / Security / long lived token / Create token. Save it preciously, it's like a password for OpenHEMS access.
-
-
+3. Configuration
+ 
+Maintenant voyons comment on configure l'appareil.
 
 
 b) 2ème étape configurer OpenHEMS
