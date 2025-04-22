@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <office:document xmlns:css3t="http://www.w3.org/TR/css3-text/" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:rpt="http://openoffice.org/2005/report" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:officeooo="http://openoffice.org/2009/office" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" office:version="1.3" office:mimetype="application/vnd.oasis.opendocument.text">
- <office:meta><meta:generator>LibreOffice/24.8.5.2$Linux_X86_64 LibreOffice_project/480$Build-2</meta:generator><meta:editing-duration>P2DT15H13M38S</meta:editing-duration><meta:editing-cycles>467</meta:editing-cycles><dc:title>Albéric - BusinessPlan</dc:title><meta:creation-date>2023-11-25T14:29:40.386157803</meta:creation-date><dc:date>2025-03-22T16:37:10.011942935</dc:date><meta:print-date>2024-09-05T10:31:32.381608360</meta:print-date><meta:printed-by>Fichiers PDF</meta:printed-by><meta:document-statistic meta:table-count="7" meta:image-count="1" meta:object-count="1" meta:page-count="9" meta:paragraph-count="106" meta:word-count="693" meta:character-count="4244" meta:non-whitespace-character-count="3673"/><meta:template xlink:type="simple" xlink:actuate="onRequest" xlink:title="Albéric - BusinessPlan" xlink:href="../../.config/libreoffice/4/user/template/Albéric%20-%20BusinessPlan.ott" meta:date="2023-11-25T14:29:39.768590378"/></office:meta>
+ <office:meta><meta:generator>LibreOffice/24.8.5.2$Linux_X86_64 LibreOffice_project/480$Build-2</meta:generator><meta:editing-duration>P2DT18H25M8S</meta:editing-duration><meta:editing-cycles>508</meta:editing-cycles><dc:title>Albéric - BusinessPlan</dc:title><meta:creation-date>2023-11-25T14:29:40.386157803</meta:creation-date><dc:date>2025-04-03T09:24:38.445111317</dc:date><meta:print-date>2025-03-25T09:13:24.783676524</meta:print-date><meta:document-statistic meta:table-count="7" meta:image-count="1" meta:object-count="1" meta:page-count="9" meta:paragraph-count="120" meta:word-count="843" meta:character-count="5203" meta:non-whitespace-character-count="4497"/><meta:template xlink:type="simple" xlink:actuate="onRequest" xlink:title="Albéric - BusinessPlan" xlink:href="../../.config/libreoffice/4/user/template/Albéric%20-%20BusinessPlan.ott" meta:date="2023-11-25T14:29:39.768590378"/></office:meta>
  <office:settings>
   <config:config-item-set config:name="ooo:view-settings">
-   <config:config-item config:name="ViewAreaTop" config:type="long">241124</config:config-item>
+   <config:config-item config:name="ViewAreaTop" config:type="long">221721</config:config-item>
    <config:config-item config:name="ViewAreaLeft" config:type="long">0</config:config-item>
-   <config:config-item config:name="ViewAreaWidth" config:type="long">40130</config:config-item>
-   <config:config-item config:name="ViewAreaHeight" config:type="long">17156</config:config-item>
+   <config:config-item config:name="ViewAreaWidth" config:type="long">18964</config:config-item>
+   <config:config-item config:name="ViewAreaHeight" config:type="long">16847</config:config-item>
    <config:config-item config:name="ShowRedlineChanges" config:type="boolean">true</config:config-item>
    <config:config-item config:name="InBrowseMode" config:type="boolean">false</config:config-item>
    <config:config-item-map-indexed config:name="Views">
     <config:config-item-map-entry>
      <config:config-item config:name="ViewId" config:type="string">view2</config:config-item>
-     <config:config-item config:name="ViewLeft" config:type="long">12104</config:config-item>
-     <config:config-item config:name="ViewTop" config:type="long">251234</config:config-item>
+     <config:config-item config:name="ViewLeft" config:type="long">3041</config:config-item>
+     <config:config-item config:name="ViewTop" config:type="long">224896</config:config-item>
      <config:config-item config:name="VisibleLeft" config:type="long">0</config:config-item>
-     <config:config-item config:name="VisibleTop" config:type="long">241124</config:config-item>
-     <config:config-item config:name="VisibleRight" config:type="long">40128</config:config-item>
-     <config:config-item config:name="VisibleBottom" config:type="long">258277</config:config-item>
+     <config:config-item config:name="VisibleTop" config:type="long">221721</config:config-item>
+     <config:config-item config:name="VisibleRight" config:type="long">18962</config:config-item>
+     <config:config-item config:name="VisibleBottom" config:type="long">238566</config:config-item>
      <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
      <config:config-item config:name="ViewLayoutColumns" config:type="short">1</config:config-item>
      <config:config-item config:name="ViewLayoutBookMode" config:type="boolean">false</config:config-item>
@@ -113,7 +113,7 @@
    <config:config-item config:name="CharacterCompressionType" config:type="short">0</config:config-item>
    <config:config-item config:name="IsLabelDocument" config:type="boolean">false</config:config-item>
    <config:config-item config:name="EmbedLatinScriptFonts" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="PrinterSetup" config:type="base64Binary">yAH+/0hMTDIzMTBEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQ1VQUzpITEwyMzEwRAAAAAAAAAAAAAAAAAAAAAAAAAAWAAMAtQAAAAAAAQAEAAhSAAAEdAAASm9iRGF0YSAxCnByaW50ZXI9SExMMjMxMEQKb3JpZW50YXRpb249UG9ydHJhaXQKY29waWVzPTEKY29sbGF0ZT1mYWxzZQptYXJnaW5hZGp1c3RtZW50PTAsMCwnMCwwCmNvbG9yZGVwdGg9MjQKY29sb3JkZXZpY2U9MApQUERDb250ZXh0RGF0YQpQYWdlU2l6ZTpBNABEdXBsZXg6Tm9uZQBJbnB1dFNsb3Q6VFJBWTEAABIAQ09NUEFUX0RVUExFWF9NT0RFDwBEdXBsZXhNb2RlOjpPZmYMAFBSSU5URVJfTkFNRQgASExMMjMxMEQLAERSSVZFUl9OQU1FDQBDVVBTOkhMTDIzMTBE</config:config-item>
+   <config:config-item config:name="PrinterSetup" config:type="base64Binary">yAH+/0hMTDIzMTBEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQ1VQUzpITEwyMzEwRAAAAAAAAAAAAAAAAAAAAAAAAAAWAAMAtQAAAAAAAQAEAAhSAAAEdAAASm9iRGF0YSAxCnByaW50ZXI9SExMMjMxMEQKb3JpZW50YXRpb249UG9ydHJhaXQKY29waWVzPTEKY29sbGF0ZT1mYWxzZQptYXJnaW5hZGp1c3RtZW50PTAsMCwnMCwwCmNvbG9yZGVwdGg9MjQKY29sb3JkZXZpY2U9MApQUERDb250ZXh0RGF0YQpQYWdlU2l6ZTpBNABJbnB1dFNsb3Q6VFJBWTEARHVwbGV4Ok5vbmUAABIAQ09NUEFUX0RVUExFWF9NT0RFDwBEdXBsZXhNb2RlOjpPZmYMAFBSSU5URVJfTkFNRQgASExMMjMxMEQLAERSSVZFUl9OQU1FDQBDVVBTOkhMTDIzMTBE</config:config-item>
    <config:config-item config:name="UseVariableWidthNBSP" config:type="boolean">false</config:config-item>
    <config:config-item config:name="EmbedOnlyUsedFonts" config:type="boolean">false</config:config-item>
    <config:config-item config:name="ApplyUserData" config:type="boolean">true</config:config-item>
@@ -141,7 +141,7 @@
    <config:config-item config:name="UseOldPrinterMetrics" config:type="boolean">false</config:config-item>
    <config:config-item config:name="RedlineProtectionKey" config:type="base64Binary"/>
    <config:config-item config:name="TabsRelativeToIndent" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="Rsid" config:type="int">7782048</config:config-item>
+   <config:config-item config:name="Rsid" config:type="int">8060853</config:config-item>
    <config:config-item config:name="UpdateFromTemplate" config:type="boolean">true</config:config-item>
    <config:config-item config:name="ProtectForm" config:type="boolean">false</config:config-item>
    <config:config-item config:name="MsWordCompMinLineHeightByFly" config:type="boolean">false</config:config-item>
@@ -898,97 +898,126 @@
   <style:style style:name="P17" style:family="paragraph" style:parent-style-name="Text_20_body" style:master-page-name="">
    <loext:graphic-properties draw:fill="none"/>
    <style:paragraph-properties fo:margin-left="0.7cm" fo:margin-right="0cm" fo:margin-top="0.198cm" fo:margin-bottom="0cm" style:contextual-spacing="false" fo:line-height="110%" fo:text-align="start" style:justify-single-word="false" fo:orphans="0" fo:widows="0" fo:text-indent="0cm" style:auto-text-indent="false" style:page-number="auto" fo:background-color="transparent" style:writing-mode="lr-tb"/>
-   <style:text-properties fo:color="#1c1d1b" loext:opacity="100%" officeooo:rsid="0028e941" officeooo:paragraph-rsid="0073b134"/>
+   <style:text-properties officeooo:rsid="0028e941" officeooo:paragraph-rsid="0079d98f"/>
   </style:style>
   <style:style style:name="P18" style:family="paragraph" style:parent-style-name="Text_20_body">
    <loext:graphic-properties draw:fill="none"/>
    <style:paragraph-properties fo:margin-left="0.7cm" fo:margin-right="0cm" fo:margin-top="0.198cm" fo:margin-bottom="0cm" style:contextual-spacing="false" fo:line-height="110%" fo:text-align="start" style:justify-single-word="false" fo:orphans="0" fo:widows="0" fo:text-indent="0cm" style:auto-text-indent="false" fo:background-color="transparent" style:writing-mode="lr-tb"/>
-   <style:text-properties officeooo:rsid="0028e941" officeooo:paragraph-rsid="0076bea0"/>
+   <style:text-properties officeooo:rsid="0028e941" officeooo:paragraph-rsid="0079d98f"/>
   </style:style>
-  <style:style style:name="P19" style:family="paragraph" style:parent-style-name="Standard">
+  <style:style style:name="P19" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <loext:graphic-properties draw:fill="none"/>
+   <style:paragraph-properties fo:margin-left="0.7cm" fo:margin-right="0cm" fo:margin-top="0.198cm" fo:margin-bottom="0cm" style:contextual-spacing="false" fo:line-height="110%" fo:text-align="start" style:justify-single-word="false" fo:orphans="0" fo:widows="0" fo:text-indent="0cm" style:auto-text-indent="false" fo:background-color="transparent" style:writing-mode="lr-tb"/>
+   <style:text-properties fo:color="#1c1d1b" loext:opacity="100%" officeooo:rsid="0028e941" officeooo:paragraph-rsid="0079d98f"/>
+  </style:style>
+  <style:style style:name="P20" style:family="paragraph" style:parent-style-name="Standard">
    <style:paragraph-properties fo:break-before="page"/>
    <style:text-properties officeooo:paragraph-rsid="007052e9"/>
   </style:style>
-  <style:style style:name="P20" style:family="paragraph" style:parent-style-name="Heading_20_1" style:list-style-name="">
+  <style:style style:name="P21" style:family="paragraph" style:parent-style-name="Heading_20_1" style:list-style-name="">
    <style:paragraph-properties fo:line-height="100%" fo:text-align="start" style:justify-single-word="false" fo:keep-together="always" fo:orphans="2" fo:widows="2" fo:break-before="page"/>
    <style:text-properties officeooo:rsid="0071cb41" officeooo:paragraph-rsid="0071cb41"/>
   </style:style>
-  <style:style style:name="P21" style:family="paragraph" style:parent-style-name="Heading_20_1">
+  <style:style style:name="P22" style:family="paragraph" style:parent-style-name="Heading_20_1">
    <style:paragraph-properties fo:break-before="page"/>
   </style:style>
-  <style:style style:name="P22" style:family="paragraph" style:parent-style-name="Table_20_Contents">
+  <style:style style:name="P23" style:family="paragraph" style:parent-style-name="Table_20_Contents">
    <style:text-properties officeooo:rsid="007052e9" officeooo:paragraph-rsid="007052e9"/>
   </style:style>
-  <style:style style:name="P23" style:family="paragraph" style:parent-style-name="Table_20_Contents">
-   <style:text-properties officeooo:paragraph-rsid="007052e9"/>
-  </style:style>
-  <style:style style:name="P24" style:family="paragraph" style:parent-style-name="Table_20_Contents" style:list-style-name="List_20_1">
+  <style:style style:name="P24" style:family="paragraph" style:parent-style-name="Table_20_Contents">
    <style:text-properties officeooo:paragraph-rsid="007052e9"/>
   </style:style>
   <style:style style:name="P25" style:family="paragraph" style:parent-style-name="Table_20_Contents" style:list-style-name="List_20_1">
-   <style:text-properties officeooo:rsid="007052e9" officeooo:paragraph-rsid="007052e9"/>
-  </style:style>
-  <style:style style:name="P26" style:family="paragraph" style:parent-style-name="Table_20_Contents" style:list-style-name="List_20_1">
-   <style:text-properties officeooo:rsid="007504e6" officeooo:paragraph-rsid="007504e6"/>
-  </style:style>
-  <style:style style:name="P27" style:family="paragraph" style:parent-style-name="Table_20_Contents" style:list-style-name="List_20_1">
-   <style:text-properties officeooo:rsid="007052e9" officeooo:paragraph-rsid="007504e6"/>
-  </style:style>
-  <style:style style:name="P28" style:family="paragraph" style:parent-style-name="Heading_20_1">
-   <style:text-properties officeooo:rsid="007052e9" officeooo:paragraph-rsid="007052e9"/>
-  </style:style>
-  <style:style style:name="P29" style:family="paragraph" style:parent-style-name="Standard">
    <style:text-properties officeooo:paragraph-rsid="007052e9"/>
   </style:style>
-  <style:style style:name="P30" style:family="paragraph" style:parent-style-name="Standard">
+  <style:style style:name="P26" style:family="paragraph" style:parent-style-name="Table_20_Contents" style:list-style-name="List_20_1">
    <style:text-properties officeooo:rsid="007052e9" officeooo:paragraph-rsid="007052e9"/>
   </style:style>
-  <style:style style:name="P31" style:family="paragraph" style:parent-style-name="Table_20_Contents" style:list-style-name="List_20_1">
-   <style:text-properties officeooo:rsid="0071cb41" officeooo:paragraph-rsid="0071cb41"/>
+  <style:style style:name="P27" style:family="paragraph" style:parent-style-name="Table_20_Contents" style:list-style-name="List_20_1">
+   <style:text-properties officeooo:rsid="007504e6" officeooo:paragraph-rsid="007504e6"/>
   </style:style>
-  <style:style style:name="P32" style:family="paragraph" style:parent-style-name="Standard">
-   <style:text-properties officeooo:rsid="007052e9" officeooo:paragraph-rsid="0071cb41"/>
+  <style:style style:name="P28" style:family="paragraph" style:parent-style-name="Table_20_Contents" style:list-style-name="List_20_1">
+   <style:text-properties officeooo:rsid="007052e9" officeooo:paragraph-rsid="007504e6"/>
+  </style:style>
+  <style:style style:name="P29" style:family="paragraph" style:parent-style-name="Heading_20_1">
+   <style:text-properties officeooo:rsid="007052e9" officeooo:paragraph-rsid="007052e9"/>
+  </style:style>
+  <style:style style:name="P30" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties officeooo:paragraph-rsid="007052e9"/>
+  </style:style>
+  <style:style style:name="P31" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties officeooo:rsid="007052e9" officeooo:paragraph-rsid="007052e9"/>
+  </style:style>
+  <style:style style:name="P32" style:family="paragraph" style:parent-style-name="Table_20_Contents" style:list-style-name="List_20_1">
+   <style:text-properties officeooo:rsid="0071cb41" officeooo:paragraph-rsid="0071cb41"/>
   </style:style>
   <style:style style:name="P33" style:family="paragraph" style:parent-style-name="Standard">
-   <style:text-properties officeooo:rsid="0071cb41" officeooo:paragraph-rsid="0071cb41"/>
+   <style:text-properties officeooo:rsid="007052e9" officeooo:paragraph-rsid="0071cb41"/>
   </style:style>
-  <style:style style:name="P34" style:family="paragraph" style:parent-style-name="Table_20_Contents">
+  <style:style style:name="P34" style:family="paragraph" style:parent-style-name="Standard">
    <style:text-properties officeooo:rsid="0071cb41" officeooo:paragraph-rsid="0071cb41"/>
   </style:style>
   <style:style style:name="P35" style:family="paragraph" style:parent-style-name="Table_20_Contents">
-   <style:text-properties officeooo:rsid="007052e9" officeooo:paragraph-rsid="0071cb41"/>
-  </style:style>
-  <style:style style:name="P36" style:family="paragraph" style:parent-style-name="Table_20_Contents">
-   <style:text-properties officeooo:rsid="007504e6" officeooo:paragraph-rsid="007504e6"/>
-  </style:style>
-  <style:style style:name="P37" style:family="paragraph" style:parent-style-name="Table_20_Contents">
-   <style:text-properties officeooo:paragraph-rsid="0071cb41"/>
-  </style:style>
-  <style:style style:name="P38" style:family="paragraph" style:parent-style-name="Heading_20_2">
-   <style:text-properties officeooo:rsid="007504e6" officeooo:paragraph-rsid="007504e6"/>
-  </style:style>
-  <style:style style:name="P39" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L1">
    <style:text-properties officeooo:rsid="0071cb41" officeooo:paragraph-rsid="0071cb41"/>
   </style:style>
+  <style:style style:name="P36" style:family="paragraph" style:parent-style-name="Table_20_Contents">
+   <style:text-properties officeooo:rsid="007052e9" officeooo:paragraph-rsid="0071cb41"/>
+  </style:style>
+  <style:style style:name="P37" style:family="paragraph" style:parent-style-name="Table_20_Contents">
+   <style:text-properties officeooo:rsid="007504e6" officeooo:paragraph-rsid="007504e6"/>
+  </style:style>
+  <style:style style:name="P38" style:family="paragraph" style:parent-style-name="Table_20_Contents">
+   <style:text-properties officeooo:paragraph-rsid="0071cb41"/>
+  </style:style>
+  <style:style style:name="P39" style:family="paragraph" style:parent-style-name="Heading_20_2">
+   <style:text-properties officeooo:rsid="007504e6" officeooo:paragraph-rsid="007504e6"/>
+  </style:style>
   <style:style style:name="P40" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L1">
-   <style:text-properties officeooo:rsid="0071cb41" officeooo:paragraph-rsid="0073b134"/>
+   <style:text-properties officeooo:rsid="0071cb41" officeooo:paragraph-rsid="0071cb41"/>
   </style:style>
   <style:style style:name="P41" style:family="paragraph" style:parent-style-name="Standard">
-   <style:text-properties officeooo:rsid="0071cb41" officeooo:paragraph-rsid="0073b134"/>
+   <style:text-properties fo:font-size="10pt" fo:font-style="italic" officeooo:rsid="007affb5" officeooo:paragraph-rsid="007affb5" style:font-size-asian="10pt" style:font-style-asian="italic" style:font-size-complex="10pt" style:font-style-complex="italic"/>
   </style:style>
   <style:style style:name="P42" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L1">
-   <style:text-properties officeooo:rsid="0073b134" officeooo:paragraph-rsid="0073b134"/>
+   <style:text-properties officeooo:rsid="0071cb41" officeooo:paragraph-rsid="0073b134"/>
   </style:style>
   <style:style style:name="P43" style:family="paragraph" style:parent-style-name="Standard">
-   <style:text-properties officeooo:rsid="0073b134" officeooo:paragraph-rsid="0073b134"/>
+   <style:text-properties fo:font-size="10pt" fo:font-style="italic" officeooo:rsid="0071cb41" officeooo:paragraph-rsid="0073b134" style:font-size-asian="10pt" style:font-style-asian="italic" style:font-size-complex="10pt" style:font-style-complex="italic"/>
   </style:style>
-  <style:style style:name="P44" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="Numbering_20_123">
-   <style:text-properties officeooo:rsid="007504e6" officeooo:paragraph-rsid="007504e6"/>
+  <style:style style:name="P44" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties officeooo:rsid="0071cb41" officeooo:paragraph-rsid="0073b134"/>
   </style:style>
-  <style:style style:name="P45" style:family="paragraph" style:parent-style-name="Standard">
-   <style:text-properties officeooo:rsid="007504e6" officeooo:paragraph-rsid="007504e6"/>
+  <style:style style:name="P45" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L1">
+   <style:text-properties officeooo:rsid="0073b134" officeooo:paragraph-rsid="00776973"/>
   </style:style>
   <style:style style:name="P46" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties officeooo:rsid="0073b134" officeooo:paragraph-rsid="0073b134"/>
+  </style:style>
+  <style:style style:name="P47" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L1">
+   <style:text-properties officeooo:rsid="0073b134" officeooo:paragraph-rsid="0073b134"/>
+  </style:style>
+  <style:style style:name="P48" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L1">
+   <style:text-properties officeooo:rsid="00776973" officeooo:paragraph-rsid="00776973"/>
+  </style:style>
+  <style:style style:name="P49" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties fo:font-style="italic" officeooo:rsid="007affb5" officeooo:paragraph-rsid="007affb5" style:font-style-asian="italic" style:font-style-complex="italic"/>
+  </style:style>
+  <style:style style:name="P50" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties fo:font-size="10pt" fo:font-style="italic" officeooo:rsid="00776973" officeooo:paragraph-rsid="00776973" style:font-size-asian="10pt" style:font-style-asian="italic" style:font-size-complex="10pt" style:font-style-complex="italic"/>
+  </style:style>
+  <style:style style:name="P51" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties officeooo:rsid="00776973" officeooo:paragraph-rsid="00776973"/>
+  </style:style>
+  <style:style style:name="P52" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties fo:font-size="10pt" fo:font-style="italic" officeooo:rsid="0073b134" officeooo:paragraph-rsid="0073b134" style:font-size-asian="10pt" style:font-style-asian="italic" style:font-size-complex="10pt" style:font-style-complex="italic"/>
+  </style:style>
+  <style:style style:name="P53" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="Numbering_20_123">
+   <style:text-properties officeooo:rsid="007504e6" officeooo:paragraph-rsid="007504e6"/>
+  </style:style>
+  <style:style style:name="P54" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties officeooo:rsid="007504e6" officeooo:paragraph-rsid="007504e6"/>
+  </style:style>
+  <style:style style:name="P55" style:family="paragraph" style:parent-style-name="Standard">
    <style:text-properties officeooo:rsid="007504e6"/>
   </style:style>
   <style:style style:name="T1" style:family="text">
@@ -1004,24 +1033,30 @@
    <style:text-properties loext:padding="0cm" loext:border="none"/>
   </style:style>
   <style:style style:name="T5" style:family="text">
-   <style:text-properties officeooo:rsid="006af3c9"/>
+   <style:text-properties officeooo:rsid="00776973"/>
   </style:style>
   <style:style style:name="T6" style:family="text">
    <style:text-properties fo:color="#1c1d1b" loext:opacity="100%" officeooo:rsid="002a414e"/>
   </style:style>
   <style:style style:name="T7" style:family="text">
-   <style:text-properties fo:color="#1c1d1b" loext:opacity="100%" officeooo:rsid="002de896"/>
+   <style:text-properties fo:color="#1c1d1b" loext:opacity="100%" officeooo:rsid="0079d98f"/>
   </style:style>
   <style:style style:name="T8" style:family="text">
-   <style:text-properties officeooo:rsid="007504e6"/>
+   <style:text-properties fo:color="#1c1d1b" loext:opacity="100%" officeooo:rsid="002de896"/>
   </style:style>
   <style:style style:name="T9" style:family="text">
-   <style:text-properties officeooo:rsid="0071cb41"/>
+   <style:text-properties officeooo:rsid="007504e6"/>
   </style:style>
   <style:style style:name="T10" style:family="text">
-   <style:text-properties officeooo:rsid="0073b134"/>
+   <style:text-properties officeooo:rsid="0071cb41"/>
   </style:style>
   <style:style style:name="T11" style:family="text">
+   <style:text-properties officeooo:rsid="007affb5"/>
+  </style:style>
+  <style:style style:name="T12" style:family="text">
+   <style:text-properties fo:font-size="10pt" fo:font-style="italic" style:font-size-asian="10pt" style:font-style-asian="italic" style:font-size-complex="10pt" style:font-style-complex="italic"/>
+  </style:style>
+  <style:style style:name="T13" style:family="text">
    <style:text-properties officeooo:rsid="0076bea0"/>
   </style:style>
   <style:style style:name="fr1" style:family="graphic" style:parent-style-name="Graphics">
@@ -1263,7 +1298,7 @@
     </table:table-row>
     <table:table-row>
      <table:table-cell table:style-name="Tableau2.A1" office:value-type="string">
-      <text:p text:style-name="P11"><text:span text:style-name="T5">17</text:span>/12/2023</text:p>
+      <text:p text:style-name="P11"><text:span text:style-name="T5">21/03</text:span>/202<text:span text:style-name="T5">5</text:span></text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Tableau2.A1" office:value-type="string">
       <text:p text:style-name="P12">0.1</text:p>
@@ -1378,9 +1413,11 @@
    </text:table-of-content>
    <text:p text:style-name="P13"/>
    <text:h text:style-name="P16" text:outline-level="1"><text:bookmark-start text:name="__RefHeading___Toc422_1008203239"/>Pitch<text:bookmark-end text:name="__RefHeading___Toc422_1008203239"/></text:h>
-   <text:p text:style-name="P17">Si vous n’avez rien à cacher, donnez-moi vos codes de cartes-bleu, sinon faites attention aux appareils connectés, bien souvent chinois, qui envahissent votre maison. Pour reprendre un peu le contrôle nous proposons des appareils open-source ou tout est transparents et vérifier par des experts.</text:p>
-   <text:p text:style-name="P18"><text:span text:style-name="T6">Dans les maisons ayant des panneaux solaires photovoltaïques, 30 à 50 % de la production des panneaux dépasse la consommation. Soit elle doit être stocké, soit elle est perdu, parfois revendu sur le réseau Enedis, dans tous les cas, cela représente une perte financière. Et ce alors qu’une partie significative de la consommation est décalable. </text:span><text:span text:style-name="T7">Il en est de même pour l</text:span><text:span text:style-name="T6">es heures creuses </text:span><text:span text:style-name="T7">qui </text:span><text:span text:style-name="T6">sont rentables à partir du moment ou 30% de la consommation est réalisé en heures creuses. OpenHEMS tente de résoudre ce problème en pilotant machine à laver, voiture électrique avec un appareil qui offre une grande garantie pour la vie privée et la réparabilité…</text:span></text:p>
-   <text:p text:style-name="P19"/>
+   <text:p text:style-name="P17"><text:span text:style-name="T6"/></text:p>
+   <text:p text:style-name="P18"><text:span text:style-name="T7">On entends souvent les gens dire, « Mais de toute façon, je n’ai rien à cacher » </text:span><text:span text:style-name="T6">Si vous n’avez rien à cacher, donnez-moi vos codes de cartes-bleu. </text:span><text:span text:style-name="T7">S</text:span><text:span text:style-name="T6">inon faites attention aux appareils connectés, bien souvent chinois </text:span><text:span text:style-name="T7">ou des GAFAM</text:span><text:span text:style-name="T6">, qui envahissent votre maison. Pour reprendre un peu le contrôle nous proposons </text:span><text:span text:style-name="T7">un</text:span><text:span text:style-name="T6"> appareil open-source ou tout est transparents et vérifié </text:span><text:span text:style-name="T7">p</text:span><text:span text:style-name="T6">ar des experts </text:span><text:span text:style-name="T7">totalement indépendant</text:span><text:span text:style-name="T6">.</text:span></text:p>
+   <text:p text:style-name="P18"><text:span text:style-name="T6">Dans les maisons ayant des panneaux solaires photovoltaïques, 30 à 50 % de la production des panneaux dépasse la consommation. Soit elle doit être stocké</text:span><text:span text:style-name="T7">e</text:span><text:span text:style-name="T6">, soit elle est perdu, parfois revendu sur le réseau Enedis, dans tous les cas, cela représente une perte financière. Et ce alors qu’une partie significative de la consommation est décalable. OpenHEMS tente de résoudre ce problème en pilotant </text:span><text:span text:style-name="T7">les appareils (m</text:span><text:span text:style-name="T6">achine à laver</text:span><text:span text:style-name="T7">,</text:span><text:span text:style-name="T6"> voiture</text:span><text:span text:style-name="T7">s</text:span><text:span text:style-name="T6"> électrique, </text:span><text:span text:style-name="T7">etc...)</text:span><text:span text:style-name="T6"> avec un appareil qui offre une grande garantie pour la vie privée et </text:span><text:span text:style-name="T7">la</text:span><text:span text:style-name="T6"> réparabilit</text:span><text:span text:style-name="T7">é contrairement à ses concurent. En outre il offre une interface et application mobile pour tous les appareils connectés. Il est aussi efficace si l’on a pas de panneaux solaire mais d</text:span><text:span text:style-name="T6">es heures creuses </text:span><text:span text:style-name="T8">qui </text:span><text:span text:style-name="T6">sont rentables à partir du moment ou </text:span><text:span text:style-name="T7">au moins </text:span><text:span text:style-name="T6">30% de la consommation est réalisé en heures creuses.</text:span></text:p>
+   <text:p text:style-name="P19"><text:span text:style-name="T6"/></text:p>
+   <text:p text:style-name="P20"/>
    <text:h text:style-name="Heading_20_1" text:outline-level="1"><text:bookmark-start text:name="__RefHeading___Toc303_1513591956"/>Arbre à produits<text:bookmark-end text:name="__RefHeading___Toc303_1513591956"/></text:h>
    <text:p text:style-name="Standard"/>
    <text:p text:style-name="Standard"/>
@@ -2054,8 +2091,8 @@
       </office:binary-data>
      </draw:image>
     </draw:frame></text:p>
-   <text:h text:style-name="P20" text:outline-level="1"><text:bookmark-start text:name="__RefHeading___Toc449_1513591956"/>Lean Canvas<text:bookmark-end text:name="__RefHeading___Toc449_1513591956"/></text:h>
-   <text:h text:style-name="P21" text:outline-level="1"><text:bookmark-start text:name="__RefHeading___Toc305_1513591956"/>SWOT<text:bookmark-end text:name="__RefHeading___Toc305_1513591956"/></text:h>
+   <text:h text:style-name="P21" text:outline-level="1"><text:bookmark-start text:name="__RefHeading___Toc449_1513591956"/>Lean Canvas<text:bookmark-end text:name="__RefHeading___Toc449_1513591956"/></text:h>
+   <text:h text:style-name="P22" text:outline-level="1"><text:bookmark-start text:name="__RefHeading___Toc305_1513591956"/>SWOT<text:bookmark-end text:name="__RefHeading___Toc305_1513591956"/></text:h>
    <table:table table:name="Tableau1" table:style-name="Tableau1">
     <table:table-column table:style-name="Tableau1.A"/>
     <table:table-column table:style-name="Tableau1.B"/>
@@ -2068,71 +2105,71 @@
       <text:p text:style-name="Table_20_Contents">En faveur de l’en<text:span text:style-name="T2">treprise</text:span></text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Tableau1.A1" office:value-type="string">
-      <text:p text:style-name="P22">En défaveur de l’entreprise</text:p>
+      <text:p text:style-name="P23">En défaveur de l’entreprise</text:p>
      </table:table-cell>
     </table:table-row>
     <table:table-row>
      <table:table-cell table:style-name="Tableau1.A1" office:value-type="string">
-      <text:p text:style-name="P22">Interne</text:p>
+      <text:p text:style-name="P23">Interne</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Tableau1.A1" office:value-type="string">
-      <text:p text:style-name="P23">Forces :</text:p>
+      <text:p text:style-name="P24">Forces :</text:p>
       <text:list text:style-name="List_20_1">
        <text:list-item>
-        <text:p text:style-name="P24">Open-source, vie-privée</text:p>
+        <text:p text:style-name="P25">Open-source, vie-privée</text:p>
        </text:list-item>
        <text:list-item>
-        <text:p text:style-name="P25">Simple, <text:span text:style-name="T8">bidouillable, adaptable</text:span></text:p>
+        <text:p text:style-name="P26">Simple, <text:span text:style-name="T9">bidouillable, adaptable</text:span></text:p>
        </text:list-item>
        <text:list-item>
-        <text:p text:style-name="P26">agnostique (indépendant des autres marques installées)</text:p>
+        <text:p text:style-name="P27">agnostique (indépendant des autres marques installées)</text:p>
        </text:list-item>
        <text:list-item>
-        <text:p text:style-name="P25">Innovant</text:p>
+        <text:p text:style-name="P26">Innovant</text:p>
        </text:list-item>
       </text:list>
      </table:table-cell>
      <table:table-cell table:style-name="Tableau1.A1" office:value-type="string">
-      <text:p text:style-name="P22">Faiblesses :</text:p>
+      <text:p text:style-name="P23">Faiblesses :</text:p>
       <text:list text:continue-numbering="true" text:style-name="List_20_1">
        <text:list-item>
-        <text:p text:style-name="P26">Produit pas encore bien fini.</text:p>
+        <text:p text:style-name="P27">Produit pas encore bien fini.</text:p>
        </text:list-item>
        <text:list-item>
-        <text:p text:style-name="P27">Complexe à installer <text:span text:style-name="T8">(configurer)</text:span></text:p>
+        <text:p text:style-name="P28">Complexe à installer <text:span text:style-name="T9">(configurer)</text:span></text:p>
        </text:list-item>
       </text:list>
      </table:table-cell>
     </table:table-row>
     <table:table-row>
      <table:table-cell table:style-name="Tableau1.A1" office:value-type="string">
-      <text:p text:style-name="P22">Externe</text:p>
+      <text:p text:style-name="P23">Externe</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Tableau1.A1" office:value-type="string">
-      <text:p text:style-name="P22">Opportunités :</text:p>
+      <text:p text:style-name="P23">Opportunités :</text:p>
       <text:list text:continue-numbering="true" text:style-name="List_20_1">
        <text:list-item>
-        <text:p text:style-name="P25">La vie-privée/<text:span text:style-name="T8">réparabilité</text:span> est un sujet qui interpelle et notamment concernant la maison.</text:p>
+        <text:p text:style-name="P26">La vie-privée/<text:span text:style-name="T9">réparabilité</text:span> est un sujet qui interpelle et notamment concernant la maison.</text:p>
        </text:list-item>
        <text:list-item>
-        <text:p text:style-name="P25">La domotique et l’autonomie énergétique <text:span text:style-name="T8">sont des domaines en croissance</text:span>.</text:p>
+        <text:p text:style-name="P26">La domotique et l’autonomie énergétique <text:span text:style-name="T9">sont des domaines en croissance</text:span>.</text:p>
        </text:list-item>
       </text:list>
      </table:table-cell>
      <table:table-cell table:style-name="Tableau1.A1" office:value-type="string">
-      <text:p text:style-name="P22">Menaces :</text:p>
-      <text:list xml:id="list163710375811726" text:continue-numbering="true" text:style-name="List_20_1">
+      <text:p text:style-name="P23">Menaces :</text:p>
+      <text:list xml:id="list134138004263150" text:continue-numbering="true" text:style-name="List_20_1">
        <text:list-item>
-        <text:p text:style-name="P25">Concurrence chinoise et autres peu cher</text:p>
+        <text:p text:style-name="P26">Concurrence chinoise et autres peu cher</text:p>
        </text:list-item>
        <text:list-item>
-        <text:p text:style-name="P25">Marché B2C <text:span text:style-name="T8">exigeant</text:span> et ultraconcurrentiel.</text:p>
+        <text:p text:style-name="P26">Marché B2C <text:span text:style-name="T9">exigeant</text:span> et ultraconcurrentiel.</text:p>
        </text:list-item>
       </text:list>
      </table:table-cell>
     </table:table-row>
    </table:table>
-   <text:h text:style-name="P28" text:outline-level="1"><text:bookmark-start text:name="__RefHeading___Toc307_1513591956"/>Matrice concurrentielle<text:bookmark-end text:name="__RefHeading___Toc307_1513591956"/></text:h>
+   <text:h text:style-name="P29" text:outline-level="1"><text:bookmark-start text:name="__RefHeading___Toc307_1513591956"/>Matrice concurrentielle<text:bookmark-end text:name="__RefHeading___Toc307_1513591956"/></text:h>
    <table:table table:name="Tableau4" table:style-name="Tableau4">
     <table:table-column table:style-name="Tableau4.A" table:number-columns-repeated="5"/>
     <table:table-row>
@@ -2154,7 +2191,7 @@
     </table:table-row>
     <table:table-row>
      <table:table-cell table:style-name="Tableau4.A1" office:value-type="string">
-      <text:p text:style-name="P22">Fonctionnalités</text:p>
+      <text:p text:style-name="P23">Fonctionnalités</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Tableau4.A1" office:value-type="string">
       <text:p text:style-name="Table_20_Contents"/>
@@ -2171,7 +2208,7 @@
     </table:table-row>
     <table:table-row>
      <table:table-cell table:style-name="Tableau4.A1" office:value-type="string">
-      <text:p text:style-name="P22">Simplicité de configuration</text:p>
+      <text:p text:style-name="P23">Simplicité de configuration</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Tableau4.A1" office:value-type="string">
       <text:p text:style-name="Table_20_Contents"/>
@@ -2188,7 +2225,7 @@
     </table:table-row>
     <table:table-row>
      <table:table-cell table:style-name="Tableau4.A1" office:value-type="string">
-      <text:p text:style-name="P22">Renomé/Visibilité</text:p>
+      <text:p text:style-name="P23">Renomé/Visibilité</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Tableau4.A1" office:value-type="string">
       <text:p text:style-name="Table_20_Contents"/>
@@ -2205,7 +2242,7 @@
     </table:table-row>
     <table:table-row>
      <table:table-cell table:style-name="Tableau4.A1" office:value-type="string">
-      <text:p text:style-name="P22">Marché visé</text:p>
+      <text:p text:style-name="P23">Marché visé</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Tableau4.A1" office:value-type="string">
       <text:p text:style-name="Table_20_Contents"/>
@@ -2222,7 +2259,7 @@
     </table:table-row>
     <table:table-row>
      <table:table-cell table:style-name="Tableau4.A1" office:value-type="string">
-      <text:p text:style-name="P22">Tarifs</text:p>
+      <text:p text:style-name="P23">Tarifs</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Tableau4.A1" office:value-type="string">
       <text:p text:style-name="Table_20_Contents"/>
@@ -2238,49 +2275,49 @@
      </table:table-cell>
     </table:table-row>
    </table:table>
-   <text:p text:style-name="P29"/>
-   <text:h text:style-name="P21" text:outline-level="1"><text:bookmark-start text:name="__RefHeading___Toc309_1513591956"/>Persona<text:bookmark-end text:name="__RefHeading___Toc309_1513591956"/></text:h>
    <text:p text:style-name="P30"/>
+   <text:h text:style-name="P22" text:outline-level="1"><text:bookmark-start text:name="__RefHeading___Toc309_1513591956"/>Persona<text:bookmark-end text:name="__RefHeading___Toc309_1513591956"/></text:h>
+   <text:p text:style-name="P31"/>
    <table:table table:name="Persona1" table:style-name="Persona1">
     <table:table-column table:style-name="Persona1.A" table:number-columns-repeated="3"/>
     <table:table-row>
      <table:table-cell table:style-name="Persona1.A1" office:value-type="string">
-      <text:p text:style-name="P30">J<text:span text:style-name="T9">ulien</text:span> Be<text:span text:style-name="T9">s</text:span>nard</text:p>
-      <text:p text:style-name="P30"/>
+      <text:p text:style-name="P31">J<text:span text:style-name="T10">ulien</text:span> Be<text:span text:style-name="T10">s</text:span>nard</text:p>
+      <text:p text:style-name="P31"/>
      </table:table-cell>
      <table:table-cell table:style-name="Persona1.A1" office:value-type="string">
-      <text:p text:style-name="P22">Il mange bio, <text:span text:style-name="T9">il est écolo RSE</text:span>, il est passionné d’informatique et de technologie, il a domotisé sa maison avec des solutions open-source. Son PC est sous Linux.</text:p>
+      <text:p text:style-name="P23">Il mange bio, <text:span text:style-name="T10">il est écolo RSE</text:span>, il est passionné d’informatique et de technologie, il a domotisé sa maison avec des solutions open-source. Son PC est sous Linux.</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Persona1.A1" office:value-type="string">
-      <text:p text:style-name="P22">But :</text:p>
+      <text:p text:style-name="P23">But :</text:p>
       <text:list text:continue-numbering="true" text:style-name="List_20_1">
        <text:list-item>
-        <text:p text:style-name="P25">Être moderne, connecté et tout optimiser.</text:p>
+        <text:p text:style-name="P26">Être moderne, connecté et tout optimiser.</text:p>
        </text:list-item>
        <text:list-item>
-        <text:p text:style-name="P31">Économiser au maximum l’énergie pour un impact écolo minimal.</text:p>
+        <text:p text:style-name="P32">Économiser au maximum l’énergie pour un impact écolo minimal.</text:p>
        </text:list-item>
       </text:list>
-      <text:p text:style-name="P22">Frustrations :</text:p>
+      <text:p text:style-name="P23">Frustrations :</text:p>
       <text:list text:continue-numbering="true" text:style-name="List_20_1">
        <text:list-item>
-        <text:p text:style-name="P25">Être aussi dépendant des <text:span text:style-name="T8">GAFAM</text:span></text:p>
+        <text:p text:style-name="P26">Être aussi dépendant des <text:span text:style-name="T9">GAFAM</text:span></text:p>
        </text:list-item>
        <text:list-item>
-        <text:p text:style-name="P25">La revente des données perso.</text:p>
+        <text:p text:style-name="P26">La revente des données perso.</text:p>
        </text:list-item>
       </text:list>
      </table:table-cell>
     </table:table-row>
     <table:table-row table:style-name="Persona1.2">
      <table:table-cell table:style-name="Persona1.A1" office:value-type="string">
-      <text:p text:style-name="P22">Age : 40 ans</text:p>
-      <text:p text:style-name="P22">Emploi : informaticien</text:p>
-      <text:p text:style-name="P22">Adresse : Rennes <text:span text:style-name="T9">proche centre.</text:span></text:p>
+      <text:p text:style-name="P23">Age : 40 ans</text:p>
+      <text:p text:style-name="P23">Emploi : informaticien</text:p>
+      <text:p text:style-name="P23">Adresse : Rennes <text:span text:style-name="T10">proche centre.</text:span></text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Persona1.A1" office:value-type="string">
-      <text:p text:style-name="P22">Personnalité :</text:p>
-      <text:p text:style-name="P22"/>
+      <text:p text:style-name="P23">Personnalité :</text:p>
+      <text:p text:style-name="P23"/>
      </table:table-cell>
      <table:table-cell table:style-name="Persona1.A1" office:value-type="string">
       <text:p text:style-name="Table_20_Contents"/>
@@ -2288,7 +2325,7 @@
     </table:table-row>
     <table:table-row table:style-name="Persona1.3">
      <table:table-cell table:style-name="Persona1.A1" office:value-type="string">
-      <text:p text:style-name="P22">Geek, <text:span text:style-name="T9">il aime jouer aux jeux vidéos.</text:span></text:p>
+      <text:p text:style-name="P23">Geek, <text:span text:style-name="T10">il aime jouer aux jeux vidéos.</text:span></text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Persona1.A1" office:value-type="string">
       <text:p text:style-name="Table_20_Contents"/>
@@ -2298,181 +2335,197 @@
      </table:table-cell>
     </table:table-row>
    </table:table>
-   <text:p text:style-name="P30"/>
-   <text:p text:style-name="P32"/>
+   <text:p text:style-name="P31"/>
+   <text:p text:style-name="P33"/>
    <table:table table:name="Tableau5" table:style-name="Tableau5">
     <table:table-column table:style-name="Tableau5.A" table:number-columns-repeated="3"/>
     <table:table-row>
      <table:table-cell table:style-name="Tableau5.A1" office:value-type="string">
-      <text:p text:style-name="P33">Tristan Lelouan</text:p>
+      <text:p text:style-name="P34">Tristan Lelouan</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Tableau5.A1" office:value-type="string">
-      <text:p text:style-name="P34">Il est de gauche et profondément anti-système. Pour cette raison, il est sensible à l’open-source <text:span text:style-name="T8">car il aime son modèle alternatif, </text:span><text:s/>même s’il n<text:span text:style-name="T8">e comprend pas parfaitement son fonctionnement</text:span>.</text:p>
+      <text:p text:style-name="P35">Il est de gauche et profondément anti-système. Pour cette raison, il est sensible à l’open-source <text:span text:style-name="T9">car il aime son modèle alternatif, </text:span><text:s/>même s’il n<text:span text:style-name="T9">e comprend pas parfaitement son fonctionnement</text:span>.</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Tableau5.A1" office:value-type="string">
-      <text:p text:style-name="P35">But :</text:p>
+      <text:p text:style-name="P36">But :</text:p>
       <text:list text:continue-numbering="true" text:style-name="List_20_1">
        <text:list-item>
-        <text:p text:style-name="P31">Économiser</text:p>
+        <text:p text:style-name="P32">Économiser</text:p>
        </text:list-item>
       </text:list>
-      <text:p text:style-name="P35">Frustrations :</text:p>
+      <text:p text:style-name="P36">Frustrations :</text:p>
       <text:list text:continue-numbering="true" text:style-name="List_20_1">
        <text:list-item>
-        <text:p text:style-name="P31"><text:span text:style-name="T8">Vie</text:span> <text:span text:style-name="T8">trop chère</text:span></text:p>
+        <text:p text:style-name="P32"><text:span text:style-name="T9">Vie</text:span> <text:span text:style-name="T9">trop chère</text:span></text:p>
        </text:list-item>
       </text:list>
      </table:table-cell>
     </table:table-row>
     <table:table-row>
      <table:table-cell table:style-name="Tableau5.A1" office:value-type="string">
-      <text:p text:style-name="P35">Age : <text:span text:style-name="T9">30</text:span> ans</text:p>
-      <text:p text:style-name="P35">Emploi : <text:span text:style-name="T8">Électricien</text:span></text:p>
-      <text:p text:style-name="P35">Adresse : <text:span text:style-name="T9">Campagne</text:span></text:p>
+      <text:p text:style-name="P36">Age : <text:span text:style-name="T10">30</text:span> ans</text:p>
+      <text:p text:style-name="P36">Emploi : <text:span text:style-name="T9">Électricien</text:span></text:p>
+      <text:p text:style-name="P36">Adresse : <text:span text:style-name="T10">Campagne</text:span></text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Tableau5.A1" office:value-type="string">
-      <text:p text:style-name="P35">Personnalité :</text:p>
-      <text:p text:style-name="P35"/>
+      <text:p text:style-name="P36">Personnalité :</text:p>
+      <text:p text:style-name="P36"/>
      </table:table-cell>
      <table:table-cell table:style-name="Tableau5.A1" office:value-type="string">
-      <text:p text:style-name="P36">Il achètera le produit surtout si on lui propose un leasing.</text:p>
+      <text:p text:style-name="P37">Il achètera le produit surtout si on lui propose un leasing.</text:p>
      </table:table-cell>
     </table:table-row>
     <table:table-row table:style-name="Tableau5.3">
      <table:table-cell table:style-name="Tableau5.A1" office:value-type="string">
-      <text:p text:style-name="P35"><text:span text:style-name="T9">Écolo</text:span> </text:p>
+      <text:p text:style-name="P36"><text:span text:style-name="T10">Écolo</text:span> </text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="Tableau5.A1" office:value-type="string">
+      <text:p text:style-name="P38"/>
      </table:table-cell>
      <table:table-cell table:style-name="Tableau5.A1" office:value-type="string">
       <text:p text:style-name="P37"/>
      </table:table-cell>
-     <table:table-cell table:style-name="Tableau5.A1" office:value-type="string">
-      <text:p text:style-name="P36"/>
-     </table:table-cell>
     </table:table-row>
    </table:table>
-   <text:p text:style-name="P32"/>
-   <text:p text:style-name="P32"/>
+   <text:p text:style-name="P33"/>
+   <text:p text:style-name="P33"/>
    <table:table table:name="Tableau6" table:style-name="Tableau6">
     <table:table-column table:style-name="Tableau6.A"/>
     <table:table-column table:style-name="Tableau6.B"/>
     <table:table-column table:style-name="Tableau6.C"/>
     <table:table-row>
      <table:table-cell table:style-name="Tableau6.A1" office:value-type="string">
-      <text:p text:style-name="P33">Jean-Pierre Perrin</text:p>
+      <text:p text:style-name="P34">Jean-Pierre Perrin</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Tableau6.A1" office:value-type="string">
-      <text:p text:style-name="P34">Il est religieux de droite.</text:p>
+      <text:p text:style-name="P35">Il est religieux de droite.</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Tableau6.A1" office:value-type="string">
-      <text:p text:style-name="P35">But :</text:p>
+      <text:p text:style-name="P36">But :</text:p>
       <text:list text:continue-numbering="true" text:style-name="List_20_1">
        <text:list-item>
-        <text:p text:style-name="P31">Être autonome énergétiquement</text:p>
+        <text:p text:style-name="P32">Être autonome énergétiquement</text:p>
        </text:list-item>
       </text:list>
-      <text:p text:style-name="P35">Frustrations :</text:p>
+      <text:p text:style-name="P36">Frustrations :</text:p>
       <text:list text:continue-numbering="true" text:style-name="List_20_1">
        <text:list-item>
-        <text:p text:style-name="P31">Peur du lendemain.</text:p>
+        <text:p text:style-name="P32">Peur du lendemain.</text:p>
        </text:list-item>
       </text:list>
      </table:table-cell>
     </table:table-row>
     <table:table-row>
      <table:table-cell table:style-name="Tableau6.A1" office:value-type="string">
-      <text:p text:style-name="P35">Age : <text:span text:style-name="T9">60</text:span> ans</text:p>
-      <text:p text:style-name="P35">Emploi : <text:span text:style-name="T9">Cadre de l’administration.</text:span></text:p>
-      <text:p text:style-name="P35"><text:soft-page-break/>Adresse : Rennes <text:span text:style-name="T9">en banlieue pavillonnaire (Cesson)</text:span></text:p>
+      <text:p text:style-name="P36">Age : <text:span text:style-name="T10">60</text:span> ans</text:p>
+      <text:p text:style-name="P36">Emploi : <text:span text:style-name="T10">Cadre de l’administration.</text:span></text:p>
+      <text:p text:style-name="P36"><text:soft-page-break/>Adresse : Rennes <text:span text:style-name="T10">en banlieue pavillonnaire (Cesson)</text:span></text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Tableau6.A1" office:value-type="string">
-      <text:p text:style-name="P35">Personnalité :</text:p>
-      <text:p text:style-name="P35"/>
+      <text:p text:style-name="P36">Personnalité :</text:p>
+      <text:p text:style-name="P36"/>
      </table:table-cell>
      <table:table-cell table:style-name="Tableau6.A1" office:value-type="string">
-      <text:p text:style-name="P36">Il a les moyens, s’il découvre que ça existe il se paiera un installateur.</text:p>
+      <text:p text:style-name="P37">Il a les moyens, s’il découvre que ça existe il se paiera un installateur.</text:p>
      </table:table-cell>
     </table:table-row>
     <table:table-row table:style-name="Tableau6.3">
      <table:table-cell table:style-name="Tableau6.A1" office:value-type="string">
-      <text:p text:style-name="P35"><text:span text:style-name="T8">Fasciné par</text:span><text:span text:style-name="T9"> la technologie, mais pas </text:span><text:span text:style-name="T8">toujours</text:span><text:span text:style-name="T9"> connaisseur.</text:span></text:p>
+      <text:p text:style-name="P36"><text:span text:style-name="T9">Fasciné par</text:span><text:span text:style-name="T10"> la technologie, mais pas </text:span><text:span text:style-name="T9">toujours</text:span><text:span text:style-name="T10"> connaisseur.</text:span></text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Tableau6.A1" office:value-type="string">
-      <text:p text:style-name="P37"/>
+      <text:p text:style-name="P38"/>
      </table:table-cell>
      <table:table-cell table:style-name="Tableau6.A1" office:value-type="string">
-      <text:p text:style-name="P37"/>
+      <text:p text:style-name="P38"/>
      </table:table-cell>
     </table:table-row>
    </table:table>
-   <text:p text:style-name="P32"/>
-   <text:p text:style-name="P32"/>
-   <text:h text:style-name="P21" text:outline-level="1"><text:bookmark-start text:name="__RefHeading___Toc451_1513591956"/>Enquête terrain<text:bookmark-end text:name="__RefHeading___Toc451_1513591956"/></text:h>
-   <text:p text:style-name="Standard"/>
-   <text:h text:style-name="P38" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc453_1513591956"/>Enquête terrain<text:bookmark-end text:name="__RefHeading___Toc453_1513591956"/></text:h>
+   <text:p text:style-name="P33"/>
+   <text:p text:style-name="P33"/>
+   <text:h text:style-name="P22" text:outline-level="1"><text:bookmark-start text:name="__RefHeading___Toc451_1513591956"/>Enquête terrain<text:bookmark-end text:name="__RefHeading___Toc451_1513591956"/></text:h>
+   <text:h text:style-name="P39" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc453_1513591956"/>Enquête terrain<text:bookmark-end text:name="__RefHeading___Toc453_1513591956"/></text:h>
    <text:list text:style-name="L1">
     <text:list-item>
-     <text:p text:style-name="P39">Connaissez-vous la domotique / <text:span text:style-name="T10">les appareils connectés</text:span> ?</text:p>
+     <text:p text:style-name="P40">Connaissez-vous la domotique (les appareils connectés)?</text:p>
     </text:list-item>
    </text:list>
-   <text:p text:style-name="P33"/>
+   <text:p text:style-name="P41">Oui 2/2</text:p>
    <text:list text:continue-numbering="true" text:style-name="L1">
     <text:list-item>
-     <text:p text:style-name="P40">Quels intérêts/<text:span text:style-name="T10">freins</text:span> pour vous ?</text:p>
+     <text:p text:style-name="P42">Si oui, quels sont les intérêts et freins à l&apos;utilisation de domotique chez vous?</text:p>
     </text:list-item>
    </text:list>
-   <text:p text:style-name="P41"/>
-   <text:p text:style-name="P41"/>
-   <text:p text:style-name="P41"/>
+   <text:p text:style-name="P43">Automatisation<text:span text:style-name="T11">+1</text:span>, confort et économie d’énergie.</text:p>
+   <text:p text:style-name="P43">Difficulté à <text:span text:style-name="T11">automatiser</text:span></text:p>
+   <text:p text:style-name="P44"/>
+   <text:p text:style-name="P44"/>
    <text:list text:continue-numbering="true" text:style-name="L1">
     <text:list-item>
-     <text:p text:style-name="P42">Quels risques est-ce que cela revêt selon vous pour votre vie-privée ? <text:span text:style-name="T8">Citez l’appareil domestique qui vous préoccupe le plus (que vous possédez ou que vous achèteriez sinon).</text:span></text:p>
+     <text:p text:style-name="P45">Quels risques pour votre vie-privée revêt<text:span text:style-name="T5">ent les appareils électroniques connectés de la maison </text:span>? <text:span text:style-name="T9">Citez l’appareil domestique qui vous préoccupe le plus (que vous possédez ou que vous </text:span><text:span text:style-name="T5">aimeriez</text:span><text:span text:style-name="T9">).</text:span></text:p>
     </text:list-item>
    </text:list>
-   <text:p text:style-name="P43"/>
-   <text:p text:style-name="P43"/>
-   <text:p text:style-name="P43"/>
+   <text:p text:style-name="P46"><text:span text:style-name="T12">Aucun car je gère tout ce qu’ils font.</text:span></text:p>
+   <text:p text:style-name="P46"><text:span text:style-name="T12">L’automatisation avec la localisation du téléphone qui ouvre le portail enlève l’alarme</text:span></text:p>
+   <text:p text:style-name="P46"/>
    <text:list text:continue-numbering="true" text:style-name="L1">
     <text:list-item>
-     <text:p text:style-name="P42">Connaissez-vous l’open-source ?</text:p>
+     <text:p text:style-name="P47">Connaissez-vous l’open-source ?</text:p>
     </text:list-item>
    </text:list>
-   <text:p text:style-name="P43"/>
+   <text:p text:style-name="P41">Oui 2/2</text:p>
    <text:list text:continue-numbering="true" text:style-name="L1">
     <text:list-item>
-     <text:p text:style-name="P42">Quel intérêts/freins pour vous ?</text:p>
+     <text:p text:style-name="P47">Si oui, quels sont les intérêts et/ou freins, pour vous, à l&apos;utilisation d&apos;outils open-source ?</text:p>
     </text:list-item>
    </text:list>
-   <text:p text:style-name="P43"/>
-   <text:p text:style-name="P43"/>
-   <text:p text:style-name="P43"/>
+   <text:p text:style-name="P46"><text:span text:style-name="T12">Gratuite, développement collectif</text:span></text:p>
+   <text:p text:style-name="P46"><text:span text:style-name="T12">Compatibilité et pas facile pour les novices </text:span></text:p>
+   <text:p text:style-name="P46"/>
    <text:list text:continue-numbering="true" text:style-name="L1">
     <text:list-item>
-     <text:p text:style-name="P39">Quelle autonomie énergétique (en électricité) visez vous ? <text:span text:style-name="T8">Ou quel réduction d’impact écologique?</text:span></text:p>
+     <text:p text:style-name="P40">Quelle autonomie énergétique (en électricité) visez vous ? <text:span text:style-name="T9">Ou quel réduction d’impact écologique?</text:span></text:p>
     </text:list-item>
    </text:list>
-   <text:p text:style-name="P33"/>
-   <text:p text:style-name="P33"/>
-   <text:p text:style-name="P33"/>
+   <text:p text:style-name="P34"/>
+   <text:p text:style-name="P34"/>
+   <text:p text:style-name="P34"/>
    <text:list text:continue-numbering="true" text:style-name="L1">
     <text:list-item>
-     <text:p text:style-name="P42">Quel serait votre intérêt sur un produit qui permettrait d’optimiser la facture d’électricité (Lancer le lave-linge, sèche-linge, charge de la voiture au meilleur moment : heures-creuse / production solaire) <text:span text:style-name="T8">et qui de ce fait, réduirait votre emprunte écologique</text:span>? <text:span text:style-name="T8">Donnez un prix acceptable pour un tel dispositif.</text:span></text:p>
+     <text:p text:style-name="P48">Disposez-vous de panneaux solaires ?</text:p>
     </text:list-item>
    </text:list>
-   <text:h text:style-name="P21" text:outline-level="1"><text:bookmark-start text:name="__RefHeading___Toc2187_1153534726"/>Business Model<text:bookmark-end text:name="__RefHeading___Toc2187_1153534726"/></text:h>
-   <text:h text:style-name="Heading_20_2" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc2189_1153534726"/><text:span text:style-name="T11">Canaux</text:span> de vente<text:bookmark-end text:name="__RefHeading___Toc2189_1153534726"/></text:h>
+   <text:p text:style-name="P49">Oui 1/2</text:p>
+   <text:list text:continue-numbering="true" text:style-name="L1">
+    <text:list-item>
+     <text:p text:style-name="P48">Si oui, comment gérez-vous la production et la sur-production des panneaux solaires ?</text:p>
+    </text:list-item>
+   </text:list>
+   <text:p text:style-name="P50">Avec l’application des panneaux. <text:span text:style-name="T11">Avec</text:span> HA</text:p>
+   <text:p text:style-name="P51"/>
+   <text:p text:style-name="P51"/>
+   <text:list text:continue-numbering="true" text:style-name="L1">
+    <text:list-item>
+     <text:p text:style-name="P47">Quel serait votre intérêt sur un produit qui permettrait d’optimiser la facture d’électricité (Lancer le lave-linge, sèche-linge, charge de la voiture au meilleur moment : heures-creuse / production solaire) <text:span text:style-name="T9">et qui de ce fait, réduirait votre emprunte écologique</text:span>? <text:span text:style-name="T9">Donnez un prix </text:span><text:span text:style-name="T5">envisageable</text:span><text:span text:style-name="T9"> pour un tel dispositif.</text:span></text:p>
+    </text:list-item>
+   </text:list>
+   <text:p text:style-name="P52">Aucun, 0€, je le fais déjà avec Home Assistant.</text:p>
+   <text:p text:style-name="P52">Très intéressé</text:p>
+   <text:h text:style-name="P22" text:outline-level="1"><text:bookmark-start text:name="__RefHeading___Toc2187_1153534726"/>Business Model<text:bookmark-end text:name="__RefHeading___Toc2187_1153534726"/></text:h>
+   <text:h text:style-name="Heading_20_2" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc2189_1153534726"/><text:span text:style-name="T13">Canaux</text:span> de vente<text:bookmark-end text:name="__RefHeading___Toc2189_1153534726"/></text:h>
    <text:list text:style-name="Numbering_20_123">
     <text:list-item>
-     <text:p text:style-name="P44">Vente du produit en ligne (autour de 200 euros), et/ou vente du service d’un installateur</text:p>
+     <text:p text:style-name="P53">Vente du produit en ligne (autour de 200 euros), et/ou vente du service d’un installateur</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P44">Vente <text:span text:style-name="T11">via</text:span> des installateurs PV et électriciens.</text:p>
+     <text:p text:style-name="P53">Vente <text:span text:style-name="T13">via</text:span> des installateurs PV et électriciens.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P44">Vente en « <text:span text:style-name="T11">pay as you go</text:span> » : Caution remboursable de la moitié du prix + mensualités de 10 <text:span text:style-name="T11">à 20 </text:span>% des économies réalisés.</text:p>
+     <text:p text:style-name="P53">Vente en « <text:span text:style-name="T13">pay as you go</text:span> » : Caution remboursable de la moitié du prix + mensualités de 10 <text:span text:style-name="T13">à 20 </text:span>% des économies réalisés.</text:p>
     </text:list-item>
    </text:list>
-   <text:p text:style-name="P45"/>
-   <text:p text:style-name="P46"/>
+   <text:p text:style-name="P54"/>
+   <text:p text:style-name="P55"/>
   </office:text>
  </office:body>
 </office:document>

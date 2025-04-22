@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <office:document xmlns:css3t="http://www.w3.org/TR/css3-text/" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:rpt="http://openoffice.org/2005/report" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:officeooo="http://openoffice.org/2009/office" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" office:version="1.3" office:mimetype="application/vnd.oasis.opendocument.text">
- <office:meta><meta:generator>LibreOffice/24.2.7.2$Linux_X86_64 LibreOffice_project/420$Build-2</meta:generator><meta:editing-duration>P2DT12H52M44S</meta:editing-duration><meta:editing-cycles>378</meta:editing-cycles><dc:title>Albéric - BusinessPlan</dc:title><meta:creation-date>2023-11-25T14:29:40.386157803</meta:creation-date><dc:date>2024-12-17T23:24:23.395716106</dc:date><meta:print-date>2024-09-05T10:31:32.381608360</meta:print-date><meta:printed-by>Fichiers PDF</meta:printed-by><meta:document-statistic meta:table-count="2" meta:image-count="1" meta:object-count="0" meta:page-count="5" meta:paragraph-count="70" meta:word-count="1253" meta:character-count="8166" meta:non-whitespace-character-count="6983"/><meta:template xlink:type="simple" xlink:actuate="onRequest" xlink:title="Albéric - BusinessPlan" xlink:href="../../.config/libreoffice/4/user/template/Albéric%20-%20BusinessPlan.ott" meta:date="2023-11-25T14:29:39.768590378"/></office:meta>
+ <office:meta><meta:generator>LibreOffice/24.8.5.2$Linux_X86_64 LibreOffice_project/480$Build-2</meta:generator><meta:editing-duration>P2DT9H15M39S</meta:editing-duration><meta:editing-cycles>465</meta:editing-cycles><dc:title>Albéric - BusinessPlan</dc:title><meta:creation-date>2023-11-25T14:29:40.386157803</meta:creation-date><dc:date>2025-04-22T09:37:06.669736070</dc:date><meta:print-date>2024-09-05T10:31:32.381608360</meta:print-date><meta:printed-by>Fichiers PDF</meta:printed-by><meta:document-statistic meta:table-count="2" meta:image-count="1" meta:object-count="11" meta:page-count="5" meta:paragraph-count="58" meta:word-count="1608" meta:character-count="10161" meta:non-whitespace-character-count="8606"/><meta:template xlink:type="simple" xlink:actuate="onRequest" xlink:title="Albéric - BusinessPlan" xlink:href="../../.config/libreoffice/4/user/template/Albéric%20-%20BusinessPlan.ott" meta:date="2023-11-25T14:29:39.768590378"/></office:meta>
  <office:settings>
   <config:config-item-set config:name="ooo:view-settings">
-   <config:config-item config:name="ViewAreaTop" config:type="long">67204</config:config-item>
-   <config:config-item config:name="ViewAreaLeft" config:type="long">0</config:config-item>
-   <config:config-item config:name="ViewAreaWidth" config:type="long">32413</config:config-item>
-   <config:config-item config:name="ViewAreaHeight" config:type="long">17156</config:config-item>
+   <config:config-item config:name="ViewAreaTop" config:type="long">134585</config:config-item>
+   <config:config-item config:name="ViewAreaLeft" config:type="long">2999</config:config-item>
+   <config:config-item config:name="ViewAreaWidth" config:type="long">18964</config:config-item>
+   <config:config-item config:name="ViewAreaHeight" config:type="long">16847</config:config-item>
    <config:config-item config:name="ShowRedlineChanges" config:type="boolean">true</config:config-item>
    <config:config-item config:name="InBrowseMode" config:type="boolean">false</config:config-item>
    <config:config-item-map-indexed config:name="Views">
     <config:config-item-map-entry>
      <config:config-item config:name="ViewId" config:type="string">view2</config:config-item>
-     <config:config-item config:name="ViewLeft" config:type="long">18103</config:config-item>
-     <config:config-item config:name="ViewTop" config:type="long">78280</config:config-item>
-     <config:config-item config:name="VisibleLeft" config:type="long">0</config:config-item>
-     <config:config-item config:name="VisibleTop" config:type="long">67204</config:config-item>
-     <config:config-item config:name="VisibleRight" config:type="long">32411</config:config-item>
-     <config:config-item config:name="VisibleBottom" config:type="long">84358</config:config-item>
+     <config:config-item config:name="ViewLeft" config:type="long">3041</config:config-item>
+     <config:config-item config:name="ViewTop" config:type="long">55525</config:config-item>
+     <config:config-item config:name="VisibleLeft" config:type="long">2999</config:config-item>
+     <config:config-item config:name="VisibleTop" config:type="long">134585</config:config-item>
+     <config:config-item config:name="VisibleRight" config:type="long">21960</config:config-item>
+     <config:config-item config:name="VisibleBottom" config:type="long">151430</config:config-item>
      <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
      <config:config-item config:name="ViewLayoutColumns" config:type="short">1</config:config-item>
      <config:config-item config:name="ViewLayoutBookMode" config:type="boolean">false</config:config-item>
@@ -41,6 +41,8 @@
    <config:config-item config:name="PrintAnnotationMode" config:type="short">0</config:config-item>
    <config:config-item config:name="PrintHiddenText" config:type="boolean">false</config:config-item>
    <config:config-item config:name="PrintEmptyPages" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PaintHellOverHeaderFooter" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ApplyParagraphMarkFormatToEmptyLineAtEndOfParagraph" config:type="boolean">false</config:config-item>
    <config:config-item config:name="PrintGraphics" config:type="boolean">true</config:config-item>
    <config:config-item config:name="NoNumberingShowFollowBy" config:type="boolean">false</config:config-item>
    <config:config-item config:name="HyphenateURLs" config:type="boolean">true</config:config-item>
@@ -65,6 +67,7 @@
    <config:config-item config:name="DisableOffPagePositioning" config:type="boolean">true</config:config-item>
    <config:config-item config:name="BackgroundParaOverDrawings" config:type="boolean">true</config:config-item>
    <config:config-item config:name="TabOverflow" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="SmallCapsPercentage66" config:type="boolean">false</config:config-item>
    <config:config-item config:name="AllowPrintJobCancel" config:type="boolean">true</config:config-item>
    <config:config-item config:name="AddVerticalFrameOffsets" config:type="boolean">true</config:config-item>
    <config:config-item config:name="ProtectBookmarks" config:type="boolean">false</config:config-item>
@@ -102,11 +105,7 @@
    <config:config-item config:name="LoadReadonly" config:type="boolean">false</config:config-item>
    <config:config-item config:name="HeaderSpacingBelowLastPara" config:type="boolean">false</config:config-item>
    <config:config-item config:name="SaveVersionOnClose" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="ClippedPictures" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="MathBaselineAlignment" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="AlignTabStopPosition" config:type="boolean">true</config:config-item>
    <config:config-item config:name="UseFormerLineSpacing" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="PrintSingleJobs" config:type="boolean">false</config:config-item>
    <config:config-item config:name="PrinterName" config:type="string">HLL2310D</config:config-item>
    <config:config-item config:name="AddParaLineSpacingToTableCells" config:type="boolean">false</config:config-item>
    <config:config-item config:name="IsKernAsianPunctuation" config:type="boolean">false</config:config-item>
@@ -133,16 +132,19 @@
    <config:config-item config:name="EmptyDbFieldHidesPara" config:type="boolean">false</config:config-item>
    <config:config-item config:name="DoNotResetParaAttrsForNumFont" config:type="boolean">false</config:config-item>
    <config:config-item config:name="IgnoreTabsAndBlanksForLineCalculation" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="ClippedPictures" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="MathBaselineAlignment" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="AlignTabStopPosition" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="IgnoreHiddenCharsForLineCalculation" config:type="boolean">false</config:config-item>
    <config:config-item config:name="ClipAsCharacterAnchoredWriterFlyFrames" config:type="boolean">false</config:config-item>
    <config:config-item config:name="DropCapPunctuation" config:type="boolean">false</config:config-item>
    <config:config-item config:name="UseOldPrinterMetrics" config:type="boolean">false</config:config-item>
    <config:config-item config:name="RedlineProtectionKey" config:type="base64Binary"/>
    <config:config-item config:name="TabsRelativeToIndent" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="Rsid" config:type="int">7337322</config:config-item>
+   <config:config-item config:name="Rsid" config:type="int">8643196</config:config-item>
    <config:config-item config:name="UpdateFromTemplate" config:type="boolean">true</config:config-item>
    <config:config-item config:name="ProtectForm" config:type="boolean">false</config:config-item>
    <config:config-item config:name="MsWordCompMinLineHeightByFly" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="SmallCapsPercentage66" config:type="boolean">false</config:config-item>
   </config:config-item-set>
  </office:settings>
  <office:scripts>
@@ -170,7 +172,7 @@
    <style:text-properties style:use-window-font-color="true" loext:opacity="0%" style:font-name="Arial" fo:font-size="11pt" fo:language="fr" fo:country="FR" style:letter-kerning="false" style:font-name-asian="Arial1" style:font-size-asian="11pt" style:language-asian="zh" style:country-asian="CN" style:font-name-complex="Arial1" style:font-size-complex="11pt" style:language-complex="hi" style:country-complex="IN"/>
   </style:default-style>
   <style:default-style style:family="paragraph">
-   <style:paragraph-properties fo:hyphenation-ladder-count="no-limit" style:text-autospace="ideograph-alpha" style:punctuation-wrap="hanging" style:line-break="strict" style:tab-stop-distance="1.27cm" style:writing-mode="lr-tb"/>
+   <style:paragraph-properties fo:hyphenation-ladder-count="no-limit" fo:hyphenation-keep="auto" loext:hyphenation-keep-type="column" style:text-autospace="ideograph-alpha" style:punctuation-wrap="hanging" style:line-break="strict" style:tab-stop-distance="1.27cm" style:writing-mode="lr-tb"/>
    <style:text-properties style:use-window-font-color="true" loext:opacity="0%" style:font-name="Arial" fo:font-size="11pt" fo:language="fr" fo:country="FR" style:letter-kerning="false" style:font-name-asian="Arial1" style:font-size-asian="11pt" style:language-asian="zh" style:country-asian="CN" style:font-name-complex="Arial1" style:font-size-complex="11pt" style:language-complex="hi" style:country-complex="IN" fo:hyphenate="false" fo:hyphenation-remain-char-count="2" fo:hyphenation-push-char-count="2" loext:hyphenation-no-caps="false" loext:hyphenation-no-last-word="false" loext:hyphenation-word-char-count="no-limit" loext:hyphenation-zone="no-limit"/>
   </style:default-style>
   <style:default-style style:family="table">
@@ -313,6 +315,12 @@
   </style:style>
   <style:style style:name="Frame" style:family="graphic">
    <style:graphic-properties text:anchor-type="paragraph" svg:x="0cm" svg:y="0cm" fo:margin-left="0.201cm" fo:margin-right="0.201cm" fo:margin-top="0.201cm" fo:margin-bottom="0.201cm" style:wrap="parallel" style:number-wrapped-paragraphs="no-limit" style:wrap-contour="false" style:vertical-pos="top" style:vertical-rel="paragraph-content" style:horizontal-pos="center" style:horizontal-rel="paragraph-content" fo:background-color="transparent" draw:fill="none" draw:fill-color="#729fcf" fo:padding="0.15cm" fo:border="0.06pt solid #000000"/>
+  </style:style>
+  <style:style style:name="OLE" style:family="graphic">
+   <style:graphic-properties text:anchor-type="paragraph" svg:x="0cm" svg:y="0cm" style:wrap="dynamic" style:number-wrapped-paragraphs="no-limit" style:wrap-contour="false" style:vertical-pos="top" style:vertical-rel="paragraph" style:horizontal-pos="center" style:horizontal-rel="paragraph" fo:background-color="transparent" draw:fill="none" draw:fill-color="#729fcf"/>
+  </style:style>
+  <style:style style:name="Formula" style:family="graphic">
+   <style:graphic-properties text:anchor-type="as-char" svg:y="0cm" fo:margin-left="0cm" fo:margin-right="0cm" style:vertical-pos="middle" style:vertical-rel="text" fo:background-color="transparent" draw:fill="none" draw:fill-color="#729fcf"/>
   </style:style>
   <text:outline-style style:name="Outline">
    <text:outline-level-style text:level="1" loext:num-list-format="%1%" style:num-format="">
@@ -731,18 +739,6 @@
   <style:style style:name="Tableau3.A1" style:family="table-cell">
    <style:table-cell-properties style:writing-mode="page"/>
   </style:style>
-  <style:style style:name="Tableau3" style:family="table">
-   <style:table-properties style:width="12.878cm" table:align="right"/>
-  </style:style>
-  <style:style style:name="Tableau3.A" style:family="table-column">
-   <style:table-column-properties style:column-width="4.313cm"/>
-  </style:style>
-  <style:style style:name="Tableau3.B" style:family="table-column">
-   <style:table-column-properties style:column-width="8.565cm"/>
-  </style:style>
-  <style:style style:name="Tableau3.A1" style:family="table-cell">
-   <style:table-cell-properties style:writing-mode="page"/>
-  </style:style>
   <style:style style:name="Tableau2" style:family="table">
    <style:table-properties style:width="15.921cm" table:align="margins"/>
   </style:style>
@@ -778,485 +774,102 @@
   <style:style style:name="P5" style:family="paragraph" style:parent-style-name="Footer">
    <style:paragraph-properties fo:text-align="end" style:justify-single-word="false"/>
   </style:style>
-  <style:style style:name="P6" style:family="paragraph" style:parent-style-name="Standard" style:master-page-name="">
-   <loext:graphic-properties draw:fill="none"/>
-   <style:paragraph-properties fo:margin-left="-1.499cm" fo:margin-right="0cm" fo:line-height="115%" fo:text-indent="0cm" style:auto-text-indent="false" style:page-number="auto" fo:background-color="transparent"/>
-   <style:text-properties fo:font-weight="normal" officeooo:paragraph-rsid="00650d10" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
+  <style:style style:name="P6" style:family="paragraph" style:parent-style-name="Standard" style:master-page-name="Standard">
+   <style:paragraph-properties style:page-number="1"/>
   </style:style>
-  <style:style style:name="P7" style:family="paragraph" style:parent-style-name="Standard">
-   <style:text-properties fo:font-weight="normal" officeooo:rsid="00582394" officeooo:paragraph-rsid="00582394" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
-  </style:style>
-  <style:style style:name="P8" style:family="paragraph" style:parent-style-name="Standard">
-   <style:text-properties fo:font-weight="normal" officeooo:rsid="00582394" officeooo:paragraph-rsid="00695c05" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
-  </style:style>
-  <style:style style:name="P9" style:family="paragraph" style:parent-style-name="Table_20_Contents">
-   <style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
-   <style:text-properties officeooo:rsid="00081914" officeooo:paragraph-rsid="00081914"/>
-  </style:style>
-  <style:style style:name="P10" style:family="paragraph" style:parent-style-name="Table_20_Contents">
-   <style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
-   <style:text-properties officeooo:rsid="00081914" officeooo:paragraph-rsid="005c9529"/>
-  </style:style>
-  <style:style style:name="P11" style:family="paragraph" style:parent-style-name="Table_20_Contents">
-   <style:paragraph-properties fo:text-align="start" style:justify-single-word="false"/>
-   <style:text-properties officeooo:rsid="00081914" officeooo:paragraph-rsid="000aac63"/>
-  </style:style>
-  <style:style style:name="P12" style:family="paragraph" style:parent-style-name="Table_20_Contents">
-   <style:paragraph-properties fo:text-align="start" style:justify-single-word="false"/>
-   <style:text-properties officeooo:rsid="00081914" officeooo:paragraph-rsid="005c9529"/>
-  </style:style>
-  <style:style style:name="P13" style:family="paragraph" style:parent-style-name="Standard">
-   <loext:graphic-properties draw:fill="none"/>
-   <style:paragraph-properties fo:margin-left="-1.499cm" fo:margin-right="0cm" fo:line-height="115%" fo:text-indent="0cm" style:auto-text-indent="false" fo:background-color="transparent"/>
-  </style:style>
-  <style:style style:name="P14" style:family="paragraph" style:parent-style-name="Standard" style:master-page-name="">
-   <loext:graphic-properties draw:fill="none"/>
-   <style:paragraph-properties fo:margin-left="-1.499cm" fo:margin-right="0cm" fo:line-height="115%" fo:text-indent="0cm" style:auto-text-indent="false" style:page-number="auto" fo:background-color="transparent"/>
-  </style:style>
-  <style:style style:name="P15" style:family="paragraph" style:parent-style-name="Footer">
-   <style:paragraph-properties fo:text-align="end" style:justify-single-word="false"/>
-  </style:style>
-  <style:style style:name="P16" style:family="paragraph" style:parent-style-name="Standard">
-   <style:text-properties officeooo:rsid="000c9136"/>
-  </style:style>
-  <style:style style:name="P17" style:family="paragraph" style:parent-style-name="Heading_20_1">
-   <style:text-properties officeooo:rsid="000c9136" officeooo:paragraph-rsid="000c9136"/>
-  </style:style>
-  <style:style style:name="P18" style:family="paragraph" style:parent-style-name="Standard">
-   <style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
-   <style:text-properties officeooo:rsid="00091ff0" officeooo:paragraph-rsid="00091ff0"/>
-  </style:style>
-  <style:style style:name="P19" style:family="paragraph" style:parent-style-name="Table_20_Contents">
-   <style:text-properties officeooo:rsid="000aac63" officeooo:paragraph-rsid="000aac63"/>
-  </style:style>
-  <style:style style:name="P20" style:family="paragraph" style:parent-style-name="Table_20_Contents">
-   <style:text-properties officeooo:rsid="000aac63" officeooo:paragraph-rsid="005c9529"/>
-  </style:style>
-  <style:style style:name="P21" style:family="paragraph" style:parent-style-name="Table_20_Contents">
-   <style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
-   <style:text-properties fo:font-weight="bold" officeooo:rsid="000aac63" officeooo:paragraph-rsid="000aac63" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
-  </style:style>
-  <style:style style:name="P22" style:family="paragraph" style:parent-style-name="Standard">
-   <style:text-properties fo:font-weight="bold" officeooo:rsid="003cf853" officeooo:paragraph-rsid="003cf853" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
-  </style:style>
-  <style:style style:name="P23" style:family="paragraph" style:parent-style-name="Standard">
-   <style:text-properties fo:font-weight="bold" officeooo:rsid="003cf853" officeooo:paragraph-rsid="004599e2" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
-  </style:style>
-  <style:style style:name="P24" style:family="paragraph" style:parent-style-name="Title">
+  <style:style style:name="P7" style:family="paragraph" style:parent-style-name="Title">
    <style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
   </style:style>
-  <style:style style:name="P25" style:family="paragraph" style:parent-style-name="Title">
-   <style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
-   <style:text-properties officeooo:paragraph-rsid="0043523e"/>
-  </style:style>
-  <style:style style:name="P26" style:family="paragraph" style:parent-style-name="Title">
+  <style:style style:name="P8" style:family="paragraph" style:parent-style-name="Title">
    <style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
    <style:text-properties officeooo:paragraph-rsid="0045ff8d"/>
   </style:style>
-  <style:style style:name="P27" style:family="paragraph" style:parent-style-name="Contents_20_1">
+  <style:style style:name="P9" style:family="paragraph" style:parent-style-name="Table_20_Contents">
+   <style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
+   <style:text-properties fo:font-weight="bold" officeooo:rsid="000aac63" officeooo:paragraph-rsid="000aac63" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="P10" style:family="paragraph" style:parent-style-name="Table_20_Contents">
+   <style:paragraph-properties fo:text-align="start" style:justify-single-word="false"/>
+   <style:text-properties officeooo:rsid="00081914" officeooo:paragraph-rsid="000aac63"/>
+  </style:style>
+  <style:style style:name="P11" style:family="paragraph" style:parent-style-name="Table_20_Contents">
+   <style:text-properties officeooo:rsid="000aac63" officeooo:paragraph-rsid="000aac63"/>
+  </style:style>
+  <style:style style:name="P12" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties officeooo:rsid="000c9136"/>
+  </style:style>
+  <style:style style:name="P13" style:family="paragraph" style:parent-style-name="Contents_20_1">
    <style:paragraph-properties>
     <style:tab-stops>
-     <style:tab-stop style:position="15.921cm" style:type="right" style:leader-style="dotted" style:leader-text="."/>
+     <style:tab-stop style:position="15.919cm" style:type="right" style:leader-style="dotted" style:leader-text="."/>
     </style:tab-stops>
    </style:paragraph-properties>
   </style:style>
-  <style:style style:name="P28" style:family="paragraph" style:parent-style-name="Contents_20_2">
+  <style:style style:name="P14" style:family="paragraph" style:parent-style-name="Contents_20_2">
    <style:paragraph-properties>
     <style:tab-stops>
-     <style:tab-stop style:position="15.921cm" style:type="right" style:leader-style="dotted" style:leader-text="."/>
+     <style:tab-stop style:position="15.919cm" style:type="right" style:leader-style="dotted" style:leader-text="."/>
     </style:tab-stops>
    </style:paragraph-properties>
   </style:style>
-  <style:style style:name="P29" style:family="paragraph" style:parent-style-name="Contents_20_3">
-   <style:paragraph-properties>
-    <style:tab-stops>
-     <style:tab-stop style:position="15.921cm" style:type="right" style:leader-style="dotted" style:leader-text="."/>
-    </style:tab-stops>
-   </style:paragraph-properties>
-  </style:style>
-  <style:style style:name="P30" style:family="paragraph" style:parent-style-name="Heading_20_1">
+  <style:style style:name="P15" style:family="paragraph" style:parent-style-name="Heading_20_1">
    <style:paragraph-properties fo:break-before="page"/>
+   <style:text-properties officeooo:rsid="00727e4a" officeooo:paragraph-rsid="00727e4a"/>
   </style:style>
-  <style:style style:name="P31" style:family="paragraph" style:parent-style-name="Heading_20_1">
-   <style:paragraph-properties fo:break-before="page"/>
-   <style:text-properties officeooo:rsid="0038a62f" officeooo:paragraph-rsid="0038a62f"/>
+  <style:style style:name="P16" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties officeooo:rsid="00727e4a" officeooo:paragraph-rsid="00727e4a"/>
   </style:style>
-  <style:style style:name="P32" style:family="paragraph" style:parent-style-name="Heading_20_2">
-   <style:text-properties officeooo:rsid="0038a62f" officeooo:paragraph-rsid="0038a62f"/>
+  <style:style style:name="P17" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties officeooo:rsid="00727e4a" officeooo:paragraph-rsid="0083e27c"/>
+  </style:style>
+  <style:style style:name="P18" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties officeooo:rsid="0083e27c" officeooo:paragraph-rsid="0083e27c"/>
+  </style:style>
+  <style:style style:name="P19" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties officeooo:rsid="007767ec" officeooo:paragraph-rsid="007767ec"/>
+  </style:style>
+  <style:style style:name="P20" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties officeooo:rsid="00730c9c" officeooo:paragraph-rsid="00730c9c"/>
+  </style:style>
+  <style:style style:name="P21" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L1">
+   <style:text-properties officeooo:rsid="00730c9c" officeooo:paragraph-rsid="00730c9c"/>
+  </style:style>
+  <style:style style:name="P22" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties officeooo:rsid="00745431" officeooo:paragraph-rsid="00745431"/>
+  </style:style>
+  <style:style style:name="P23" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties officeooo:paragraph-rsid="00745431"/>
+  </style:style>
+  <style:style style:name="P24" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties officeooo:paragraph-rsid="007d8c3c"/>
+  </style:style>
+  <style:style style:name="P25" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L2">
+   <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:text-indent="0cm" style:auto-text-indent="false"/>
+   <style:text-properties officeooo:paragraph-rsid="0083e27c"/>
+  </style:style>
+  <style:style style:name="P26" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L2">
+   <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:text-indent="0cm" style:auto-text-indent="false"/>
+  </style:style>
+  <style:style style:name="P27" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties officeooo:rsid="00745431" officeooo:paragraph-rsid="007b1782"/>
+  </style:style>
+  <style:style style:name="P28" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties officeooo:rsid="0075eaf1" officeooo:paragraph-rsid="0075eaf1"/>
+  </style:style>
+  <style:style style:name="P29" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties officeooo:paragraph-rsid="007b1782"/>
+  </style:style>
+  <style:style style:name="P30" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties officeooo:rsid="007d1699" officeooo:paragraph-rsid="007d1699"/>
+  </style:style>
+  <style:style style:name="P31" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties officeooo:paragraph-rsid="0078b597"/>
+  </style:style>
+  <style:style style:name="P32" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties officeooo:rsid="0078b597" officeooo:paragraph-rsid="0078b597"/>
   </style:style>
   <style:style style:name="P33" style:family="paragraph" style:parent-style-name="Standard">
-   <style:text-properties officeooo:rsid="0038a62f" officeooo:paragraph-rsid="0038a62f"/>
-  </style:style>
-  <style:style style:name="P34" style:family="paragraph" style:parent-style-name="Standard">
-   <style:text-properties officeooo:rsid="0038a62f" officeooo:paragraph-rsid="0039ef45"/>
-  </style:style>
-  <style:style style:name="P35" style:family="paragraph" style:parent-style-name="Standard">
-   <style:paragraph-properties fo:line-height="115%"/>
-   <style:text-properties officeooo:rsid="0038a62f" officeooo:paragraph-rsid="0038a62f"/>
-  </style:style>
-  <style:style style:name="P36" style:family="paragraph" style:parent-style-name="Heading_20_1">
-   <style:paragraph-properties fo:break-before="page"/>
-   <style:text-properties officeooo:rsid="0038a62f" officeooo:paragraph-rsid="003c2db8"/>
-  </style:style>
-  <style:style style:name="P37" style:family="paragraph" style:parent-style-name="Heading_20_1">
-   <style:text-properties officeooo:paragraph-rsid="000c9136"/>
-  </style:style>
-  <style:style style:name="P38" style:family="paragraph" style:parent-style-name="Standard">
-   <style:text-properties officeooo:paragraph-rsid="000c9136"/>
-  </style:style>
-  <style:style style:name="P39" style:family="paragraph" style:parent-style-name="Heading_20_1">
-   <style:paragraph-properties fo:line-height="100%" fo:text-align="start" style:justify-single-word="false" fo:keep-together="always" fo:orphans="2" fo:widows="2"/>
-  </style:style>
-  <style:style style:name="P40" style:family="paragraph" style:parent-style-name="Heading_20_2">
-   <style:text-properties officeooo:paragraph-rsid="0038a62f"/>
-  </style:style>
-  <style:style style:name="P41" style:family="paragraph" style:parent-style-name="Standard">
-   <style:text-properties officeooo:paragraph-rsid="0038a62f"/>
-  </style:style>
-  <style:style style:name="P42" style:family="paragraph" style:parent-style-name="Standard" style:master-page-name="">
-   <style:paragraph-properties style:page-number="1"/>
-  </style:style>
-  <style:style style:name="P43" style:family="paragraph" style:parent-style-name="Heading_20_3">
-   <style:text-properties officeooo:paragraph-rsid="0039ef45"/>
-  </style:style>
-  <style:style style:name="P44" style:family="paragraph" style:parent-style-name="Standard">
-   <style:text-properties officeooo:paragraph-rsid="0039ef45"/>
-  </style:style>
-  <style:style style:name="P45" style:family="paragraph" style:parent-style-name="Standard">
-   <style:text-properties officeooo:rsid="0039ef45" officeooo:paragraph-rsid="0039ef45"/>
-  </style:style>
-  <style:style style:name="P46" style:family="paragraph" style:parent-style-name="Standard">
-   <style:text-properties officeooo:rsid="0039ef45" officeooo:paragraph-rsid="003af0eb"/>
-  </style:style>
-  <style:style style:name="P47" style:family="paragraph" style:parent-style-name="Standard">
-   <style:text-properties officeooo:paragraph-rsid="003ace25"/>
-  </style:style>
-  <style:style style:name="P48" style:family="paragraph" style:parent-style-name="Standard">
-   <style:text-properties officeooo:rsid="003ace25" officeooo:paragraph-rsid="003ace25"/>
-  </style:style>
-  <style:style style:name="P49" style:family="paragraph" style:parent-style-name="Standard">
-   <style:paragraph-properties fo:break-before="page"/>
-   <style:text-properties officeooo:rsid="003ace25" officeooo:paragraph-rsid="003ace25"/>
-  </style:style>
-  <style:style style:name="P50" style:family="paragraph" style:parent-style-name="Standard">
-   <style:text-properties officeooo:rsid="003ace25" officeooo:paragraph-rsid="003af0eb"/>
-  </style:style>
-  <style:style style:name="P51" style:family="paragraph" style:parent-style-name="Standard">
-   <style:text-properties officeooo:rsid="003ace25" officeooo:paragraph-rsid="003cf853"/>
-  </style:style>
-  <style:style style:name="P52" style:family="paragraph" style:parent-style-name="Standard">
-   <style:text-properties officeooo:rsid="003ace25" officeooo:paragraph-rsid="004463df"/>
-  </style:style>
-  <style:style style:name="P53" style:family="paragraph" style:parent-style-name="Standard">
-   <style:text-properties officeooo:rsid="003ace25" officeooo:paragraph-rsid="004599e2"/>
-  </style:style>
-  <style:style style:name="P54" style:family="paragraph" style:parent-style-name="Standard">
-   <style:text-properties officeooo:paragraph-rsid="003af0eb"/>
-  </style:style>
-  <style:style style:name="P55" style:family="paragraph" style:parent-style-name="Standard">
-   <style:text-properties officeooo:rsid="003af0eb" officeooo:paragraph-rsid="003af0eb"/>
-  </style:style>
-  <style:style style:name="P56" style:family="paragraph" style:parent-style-name="Standard">
-   <style:text-properties officeooo:paragraph-rsid="003c2db8"/>
-  </style:style>
-  <style:style style:name="P57" style:family="paragraph" style:parent-style-name="Standard">
-   <style:text-properties officeooo:rsid="003c2db8" officeooo:paragraph-rsid="003c2db8"/>
-  </style:style>
-  <style:style style:name="P58" style:family="paragraph" style:parent-style-name="Standard">
-   <style:text-properties officeooo:rsid="003c2db8" officeooo:paragraph-rsid="006af3c9"/>
-  </style:style>
-  <style:style style:name="P59" style:family="paragraph" style:parent-style-name="Standard">
-   <style:text-properties officeooo:rsid="003cf853" officeooo:paragraph-rsid="003cf853"/>
-  </style:style>
-  <style:style style:name="P60" style:family="paragraph" style:parent-style-name="Standard">
-   <style:text-properties officeooo:rsid="003cf853" officeooo:paragraph-rsid="004599e2"/>
-  </style:style>
-  <style:style style:name="P61" style:family="paragraph" style:parent-style-name="Standard">
-   <style:text-properties officeooo:paragraph-rsid="003cf853"/>
-  </style:style>
-  <style:style style:name="P62" style:family="paragraph" style:parent-style-name="Heading_20_1">
-   <style:text-properties officeooo:paragraph-rsid="003db9e9"/>
-  </style:style>
-  <style:style style:name="P63" style:family="paragraph" style:parent-style-name="Standard">
-   <style:text-properties officeooo:paragraph-rsid="003db9e9"/>
-  </style:style>
-  <style:style style:name="P64" style:family="paragraph" style:parent-style-name="Heading_20_1">
-   <style:paragraph-properties fo:break-before="page"/>
-   <style:text-properties officeooo:rsid="003db9e9" officeooo:paragraph-rsid="003db9e9"/>
-  </style:style>
-  <style:style style:name="P65" style:family="paragraph" style:parent-style-name="Heading_20_2">
-   <style:text-properties officeooo:rsid="003db9e9" officeooo:paragraph-rsid="003db9e9"/>
-  </style:style>
-  <style:style style:name="P66" style:family="paragraph" style:parent-style-name="Standard">
-   <style:text-properties officeooo:rsid="003db9e9" officeooo:paragraph-rsid="003db9e9"/>
-  </style:style>
-  <style:style style:name="P67" style:family="paragraph" style:parent-style-name="Standard">
-   <style:text-properties officeooo:rsid="003db9e9" officeooo:paragraph-rsid="004463df"/>
-  </style:style>
-  <style:style style:name="P68" style:family="paragraph" style:parent-style-name="Standard">
-   <style:text-properties officeooo:rsid="003db9e9" officeooo:paragraph-rsid="006dcf2e"/>
-  </style:style>
-  <style:style style:name="P69" style:family="paragraph" style:parent-style-name="Heading_20_2">
-   <style:text-properties officeooo:rsid="003fabeb" officeooo:paragraph-rsid="003fabeb"/>
-  </style:style>
-  <style:style style:name="P70" style:family="paragraph" style:parent-style-name="Heading_20_3">
-   <style:text-properties officeooo:rsid="003fabeb" officeooo:paragraph-rsid="003fabeb"/>
-  </style:style>
-  <style:style style:name="P71" style:family="paragraph" style:parent-style-name="Standard">
-   <style:text-properties officeooo:rsid="003fabeb" officeooo:paragraph-rsid="003fabeb"/>
-  </style:style>
-  <style:style style:name="P72" style:family="paragraph" style:parent-style-name="Standard">
-   <style:text-properties officeooo:paragraph-rsid="003fabeb"/>
-  </style:style>
-  <style:style style:name="P73" style:family="paragraph" style:parent-style-name="Text_20_body">
-   <style:text-properties officeooo:paragraph-rsid="003fabeb"/>
-  </style:style>
-  <style:style style:name="P74" style:family="paragraph" style:parent-style-name="Standard">
-   <style:text-properties officeooo:paragraph-rsid="0042d7c0"/>
-  </style:style>
-  <style:style style:name="P75" style:family="paragraph" style:parent-style-name="Standard">
-   <style:text-properties officeooo:rsid="0042d7c0" officeooo:paragraph-rsid="0042d7c0"/>
-  </style:style>
-  <style:style style:name="P76" style:family="paragraph" style:parent-style-name="Heading_20_2">
-   <style:text-properties officeooo:rsid="004463df" officeooo:paragraph-rsid="004463df"/>
-  </style:style>
-  <style:style style:name="P77" style:family="paragraph" style:parent-style-name="Standard">
-   <style:text-properties officeooo:rsid="004463df" officeooo:paragraph-rsid="004463df"/>
-  </style:style>
-  <style:style style:name="P78" style:family="paragraph" style:parent-style-name="Standard">
-   <style:text-properties officeooo:paragraph-rsid="004463df"/>
-  </style:style>
-  <style:style style:name="P79" style:family="paragraph" style:parent-style-name="Standard">
-   <style:text-properties officeooo:paragraph-rsid="004599e2"/>
-  </style:style>
-  <style:style style:name="P80" style:family="paragraph" style:parent-style-name="Standard">
-   <style:text-properties officeooo:rsid="004599e2" officeooo:paragraph-rsid="004599e2"/>
-  </style:style>
-  <style:style style:name="P81" style:family="paragraph" style:parent-style-name="Standard">
-   <style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
-   <style:text-properties officeooo:rsid="004599e2" officeooo:paragraph-rsid="004599e2"/>
-  </style:style>
-  <style:style style:name="P82" style:family="paragraph" style:parent-style-name="Standard">
-   <style:text-properties officeooo:rsid="004599e2" officeooo:paragraph-rsid="004599e2" loext:padding="0cm" loext:border="none"/>
-  </style:style>
-  <style:style style:name="P83" style:family="paragraph" style:parent-style-name="Title">
-   <style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
-   <style:text-properties officeooo:rsid="0045ff8d" officeooo:paragraph-rsid="0045ff8d"/>
-  </style:style>
-  <style:style style:name="P84" style:family="paragraph" style:parent-style-name="Heading_20_1">
-   <style:text-properties officeooo:rsid="0046a3e4" officeooo:paragraph-rsid="0046a3e4"/>
-  </style:style>
-  <style:style style:name="P85" style:family="paragraph" style:parent-style-name="Heading_20_3">
-   <style:text-properties officeooo:rsid="0046a3e4" officeooo:paragraph-rsid="0046a3e4"/>
-  </style:style>
-  <style:style style:name="P86" style:family="paragraph" style:parent-style-name="Standard">
-   <style:text-properties officeooo:rsid="0046a3e4" officeooo:paragraph-rsid="0046a3e4"/>
-  </style:style>
-  <style:style style:name="P87" style:family="paragraph" style:parent-style-name="Text_20_body">
-   <style:text-properties officeooo:rsid="0046a3e4" officeooo:paragraph-rsid="0046a3e4"/>
-  </style:style>
-  <style:style style:name="P88" style:family="paragraph" style:parent-style-name="Standard">
-   <style:text-properties officeooo:rsid="0046a3e4" officeooo:paragraph-rsid="004b28c3"/>
-  </style:style>
-  <style:style style:name="P89" style:family="paragraph" style:parent-style-name="Standard">
-   <style:text-properties officeooo:rsid="0046a3e4" officeooo:paragraph-rsid="005d5cb1"/>
-  </style:style>
-  <style:style style:name="P90" style:family="paragraph" style:parent-style-name="Text_20_body">
-   <style:text-properties officeooo:rsid="0046a3e4" officeooo:paragraph-rsid="006dcf2e"/>
-  </style:style>
-  <style:style style:name="P91" style:family="paragraph" style:parent-style-name="Heading_20_2">
-   <style:text-properties officeooo:paragraph-rsid="0046a3e4"/>
-  </style:style>
-  <style:style style:name="P92" style:family="paragraph" style:parent-style-name="Heading_20_3">
-   <style:text-properties officeooo:paragraph-rsid="0046a3e4"/>
-  </style:style>
-  <style:style style:name="P93" style:family="paragraph" style:parent-style-name="Standard">
-   <style:text-properties officeooo:paragraph-rsid="0046a3e4"/>
-  </style:style>
-  <style:style style:name="P94" style:family="paragraph" style:parent-style-name="Standard">
-   <style:text-properties officeooo:rsid="00486075" officeooo:paragraph-rsid="00486075"/>
-  </style:style>
-  <style:style style:name="P95" style:family="paragraph" style:parent-style-name="Standard">
-   <style:text-properties officeooo:rsid="00499dd3" officeooo:paragraph-rsid="00499dd3"/>
-  </style:style>
-  <style:style style:name="P96" style:family="paragraph" style:parent-style-name="Standard">
-   <style:text-properties officeooo:rsid="00499dd3" officeooo:paragraph-rsid="0051fcbd"/>
-  </style:style>
-  <style:style style:name="P97" style:family="paragraph" style:parent-style-name="Standard">
-   <style:text-properties officeooo:rsid="004ef5d4" officeooo:paragraph-rsid="004ef5d4"/>
-  </style:style>
-  <style:style style:name="P98" style:family="paragraph" style:parent-style-name="Standard">
-   <style:text-properties officeooo:rsid="004ef5d4" officeooo:paragraph-rsid="00618c40"/>
-  </style:style>
-  <style:style style:name="P99" style:family="paragraph" style:parent-style-name="Standard">
-   <style:text-properties style:text-underline-style="solid" style:text-underline-width="auto" style:text-underline-color="font-color" fo:font-weight="bold" officeooo:rsid="004ef5d4" officeooo:paragraph-rsid="004ef5d4" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
-  </style:style>
-  <style:style style:name="P100" style:family="paragraph" style:parent-style-name="Standard">
-   <style:text-properties officeooo:rsid="0051fcbd" officeooo:paragraph-rsid="0051fcbd"/>
-  </style:style>
-  <style:style style:name="P101" style:family="paragraph" style:parent-style-name="Standard">
-   <style:text-properties officeooo:rsid="00537a67" officeooo:paragraph-rsid="00537a67"/>
-  </style:style>
-  <style:style style:name="P102" style:family="paragraph" style:parent-style-name="Heading_20_2">
-   <style:text-properties officeooo:rsid="0054817e" officeooo:paragraph-rsid="0054817e"/>
-  </style:style>
-  <style:style style:name="P103" style:family="paragraph" style:parent-style-name="Standard">
-   <style:text-properties officeooo:rsid="0054817e" officeooo:paragraph-rsid="0054817e"/>
-  </style:style>
-  <style:style style:name="P104" style:family="paragraph" style:parent-style-name="Text_20_body">
-   <style:text-properties officeooo:rsid="0054817e" officeooo:paragraph-rsid="0054817e"/>
-  </style:style>
-  <style:style style:name="P105" style:family="paragraph" style:parent-style-name="Text_20_body">
-   <style:text-properties officeooo:rsid="0054817e" officeooo:paragraph-rsid="006dcf2e"/>
-  </style:style>
-  <style:style style:name="P106" style:family="paragraph" style:parent-style-name="Standard">
-   <style:text-properties officeooo:paragraph-rsid="0054817e"/>
-  </style:style>
-  <style:style style:name="P107" style:family="paragraph" style:parent-style-name="Standard">
-   <style:text-properties officeooo:rsid="0055595c" officeooo:paragraph-rsid="0055595c"/>
-  </style:style>
-  <style:style style:name="P108" style:family="paragraph" style:parent-style-name="Standard">
-   <style:text-properties officeooo:rsid="0055ecff" officeooo:paragraph-rsid="0055ecff"/>
-  </style:style>
-  <style:style style:name="P109" style:family="paragraph" style:parent-style-name="Standard">
-   <style:text-properties officeooo:rsid="00578616" officeooo:paragraph-rsid="00578616"/>
-  </style:style>
-  <style:style style:name="P110" style:family="paragraph" style:parent-style-name="Heading_20_2">
-   <style:text-properties officeooo:rsid="0057de14" officeooo:paragraph-rsid="0057de14"/>
-  </style:style>
-  <style:style style:name="P111" style:family="paragraph" style:parent-style-name="Standard">
-   <style:text-properties officeooo:paragraph-rsid="0057de14"/>
-  </style:style>
-  <style:style style:name="P112" style:family="paragraph" style:parent-style-name="Heading_20_2">
-   <style:text-properties officeooo:rsid="005a4614" officeooo:paragraph-rsid="005a4614"/>
-  </style:style>
-  <style:style style:name="P113" style:family="paragraph" style:parent-style-name="Standard">
-   <style:text-properties officeooo:rsid="005a4614" officeooo:paragraph-rsid="005a4614"/>
-  </style:style>
-  <style:style style:name="P114" style:family="paragraph" style:parent-style-name="Heading_20_2">
-   <style:text-properties officeooo:paragraph-rsid="005a4614"/>
-  </style:style>
-  <style:style style:name="P115" style:family="paragraph" style:parent-style-name="Standard">
-   <style:text-properties officeooo:paragraph-rsid="005a4614"/>
-  </style:style>
-  <style:style style:name="P116" style:family="paragraph" style:parent-style-name="Standard">
-   <style:text-properties officeooo:rsid="005b4f77" officeooo:paragraph-rsid="005b4f77"/>
-  </style:style>
-  <style:style style:name="P117" style:family="paragraph" style:parent-style-name="Table_20_Contents">
-   <style:text-properties officeooo:rsid="005c9529" officeooo:paragraph-rsid="005c9529"/>
-  </style:style>
-  <style:style style:name="P118" style:family="paragraph" style:parent-style-name="Heading_20_2">
-   <style:text-properties officeooo:rsid="005d5cb1" officeooo:paragraph-rsid="005d5cb1"/>
-  </style:style>
-  <style:style style:name="P119" style:family="paragraph" style:parent-style-name="Heading_20_3">
-   <style:text-properties officeooo:rsid="005d5cb1" officeooo:paragraph-rsid="005d5cb1"/>
-  </style:style>
-  <style:style style:name="P120" style:family="paragraph" style:parent-style-name="Standard">
-   <style:text-properties officeooo:rsid="005d5cb1" officeooo:paragraph-rsid="005d5cb1"/>
-  </style:style>
-  <style:style style:name="P121" style:family="paragraph" style:parent-style-name="Standard">
-   <style:text-properties officeooo:rsid="005d5cb1" officeooo:paragraph-rsid="003db9e9"/>
-  </style:style>
-  <style:style style:name="P122" style:family="paragraph" style:parent-style-name="Standard">
-   <style:text-properties officeooo:paragraph-rsid="0055595c"/>
-  </style:style>
-  <style:style style:name="P123" style:family="paragraph" style:parent-style-name="Standard">
-   <style:text-properties style:text-underline-style="none" fo:font-weight="bold" officeooo:rsid="004ef5d4" officeooo:paragraph-rsid="004ef5d4" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
-  </style:style>
-  <style:style style:name="P124" style:family="paragraph" style:parent-style-name="Standard">
-   <style:text-properties officeooo:paragraph-rsid="004ef5d4"/>
-  </style:style>
-  <style:style style:name="P125" style:family="paragraph" style:parent-style-name="Standard">
-   <style:text-properties officeooo:rsid="005de92a" officeooo:paragraph-rsid="005de92a"/>
-  </style:style>
-  <style:style style:name="P126" style:family="paragraph" style:parent-style-name="Standard">
-   <style:text-properties officeooo:rsid="005fa503" officeooo:paragraph-rsid="005fa503"/>
-  </style:style>
-  <style:style style:name="P127" style:family="paragraph" style:parent-style-name="Standard">
-   <style:text-properties officeooo:rsid="00618c40" officeooo:paragraph-rsid="00618c40"/>
-  </style:style>
-  <style:style style:name="P128" style:family="paragraph" style:parent-style-name="Text_20_body">
-   <style:text-properties officeooo:rsid="0062f9f2" officeooo:paragraph-rsid="0062f9f2"/>
-  </style:style>
-  <style:style style:name="P129" style:family="paragraph" style:parent-style-name="Text_20_body">
-   <style:text-properties officeooo:rsid="0062f9f2" officeooo:paragraph-rsid="006dcf2e"/>
-  </style:style>
-  <style:style style:name="P130" style:family="paragraph" style:parent-style-name="Standard">
-   <style:text-properties officeooo:paragraph-rsid="00672942"/>
-  </style:style>
-  <style:style style:name="P131" style:family="paragraph" style:parent-style-name="Contents_20_1">
-   <style:paragraph-properties>
-    <style:tab-stops>
-     <style:tab-stop style:position="15.919cm" style:type="right" style:leader-style="dotted" style:leader-text="."/>
-    </style:tab-stops>
-   </style:paragraph-properties>
-  </style:style>
-  <style:style style:name="P132" style:family="paragraph" style:parent-style-name="Contents_20_2">
-   <style:paragraph-properties>
-    <style:tab-stops>
-     <style:tab-stop style:position="15.919cm" style:type="right" style:leader-style="dotted" style:leader-text="."/>
-    </style:tab-stops>
-   </style:paragraph-properties>
-  </style:style>
-  <style:style style:name="P133" style:family="paragraph" style:parent-style-name="Heading_20_1">
-   <style:text-properties officeooo:paragraph-rsid="006dcf2e"/>
-  </style:style>
-  <style:style style:name="P134" style:family="paragraph" style:parent-style-name="Heading_20_1">
-   <style:text-properties officeooo:rsid="006dcf2e" officeooo:paragraph-rsid="006dcf2e"/>
-  </style:style>
-  <style:style style:name="P135" style:family="paragraph" style:parent-style-name="Standard">
-   <style:text-properties officeooo:rsid="006dcf2e" officeooo:paragraph-rsid="006dcf2e"/>
-  </style:style>
-  <style:style style:name="P136" style:family="paragraph" style:parent-style-name="Standard">
-   <style:text-properties officeooo:rsid="006af3c9" officeooo:paragraph-rsid="006af3c9"/>
-  </style:style>
-  <style:style style:name="P137" style:family="paragraph" style:parent-style-name="Title">
-   <style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
-   <style:text-properties officeooo:rsid="006af3c9" officeooo:paragraph-rsid="006af3c9"/>
-  </style:style>
-  <style:style style:name="P138" style:family="paragraph" style:parent-style-name="Standard">
-   <style:text-properties officeooo:rsid="006c0e6c" officeooo:paragraph-rsid="006c4594"/>
-  </style:style>
-  <style:style style:name="P139" style:family="paragraph" style:parent-style-name="Standard">
-   <style:text-properties officeooo:rsid="006c4594" officeooo:paragraph-rsid="006c4594"/>
-  </style:style>
-  <style:style style:name="P140" style:family="paragraph" style:parent-style-name="Standard">
-   <style:text-properties officeooo:rsid="006c4594" officeooo:paragraph-rsid="006dcf2e"/>
-  </style:style>
-  <style:style style:name="P141" style:family="paragraph" style:parent-style-name="Footer">
-   <style:paragraph-properties fo:text-align="end" style:justify-single-word="false"/>
-  </style:style>
-  <style:style style:name="P142" style:family="paragraph" style:parent-style-name="Heading_20_1">
-   <style:paragraph-properties fo:break-before="page"/>
-   <style:text-properties officeooo:rsid="0038a62f" officeooo:paragraph-rsid="003c2db8"/>
-  </style:style>
-  <style:style style:name="P143" style:family="paragraph" style:parent-style-name="Heading_20_1">
-   <style:text-properties officeooo:rsid="006c0e6c" officeooo:paragraph-rsid="006dcf2e"/>
-  </style:style>
-  <style:style style:name="P144" style:family="paragraph" style:parent-style-name="Heading_20_1">
-   <style:paragraph-properties fo:break-before="page"/>
-   <style:text-properties officeooo:rsid="003db9e9" officeooo:paragraph-rsid="003db9e9"/>
-  </style:style>
-  <style:style style:name="P145" style:family="paragraph" style:parent-style-name="Heading_20_1">
-   <style:text-properties officeooo:rsid="006dcf2e" officeooo:paragraph-rsid="006dcf2e"/>
-  </style:style>
-  <style:style style:name="P146" style:family="paragraph" style:parent-style-name="Standard" style:master-page-name="Standard">
-   <style:paragraph-properties style:page-number="1"/>
-  </style:style>
-  <style:style style:name="P147" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L1">
-   <style:text-properties officeooo:rsid="006dcf2e" officeooo:paragraph-rsid="006dcf2e"/>
-  </style:style>
-  <style:style style:name="P148" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L2">
-   <style:text-properties officeooo:rsid="006dcf2e" officeooo:paragraph-rsid="006dcf2e"/>
-  </style:style>
-  <style:style style:name="P149" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="Numbering_20_123">
-   <style:text-properties officeooo:rsid="0046a3e4" officeooo:paragraph-rsid="006dcf2e"/>
-  </style:style>
-  <style:style style:name="P150" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="Numbering_20_123">
-   <style:text-properties officeooo:rsid="0054817e" officeooo:paragraph-rsid="006dcf2e"/>
-  </style:style>
-  <style:style style:name="P151" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="Numbering_20_123">
-   <style:text-properties officeooo:rsid="0062f9f2" officeooo:paragraph-rsid="006dcf2e"/>
+   <style:text-properties officeooo:rsid="00792a62" officeooo:paragraph-rsid="00792a62"/>
   </style:style>
   <style:style style:name="T1" style:family="text">
    <style:text-properties fo:font-size="10pt" officeooo:rsid="00650d10" style:font-size-asian="10pt" style:font-size-complex="10pt"/>
@@ -1268,187 +881,106 @@
    <style:text-properties fo:font-size="10pt" fo:font-weight="bold" style:font-size-asian="10pt" style:font-weight-asian="bold" style:font-size-complex="10pt"/>
   </style:style>
   <style:style style:name="T4" style:family="text">
-   <style:text-properties fo:font-size="10pt" officeooo:rsid="00650d10" style:font-size-asian="10pt" style:font-size-complex="10pt"/>
-  </style:style>
-  <style:style style:name="T5" style:family="text">
-   <style:text-properties fo:font-size="10pt" fo:font-weight="bold" style:font-size-asian="10pt" style:font-weight-asian="bold" style:font-size-complex="10pt"/>
-  </style:style>
-  <style:style style:name="T6" style:family="text">
-   <style:text-properties fo:font-size="10pt" fo:font-weight="bold" officeooo:rsid="00650d10" style:font-size-asian="10pt" style:font-weight-asian="bold" style:font-size-complex="10pt"/>
-  </style:style>
-  <style:style style:name="T7" style:family="text">
-   <style:text-properties officeooo:rsid="005c9529"/>
-  </style:style>
-  <style:style style:name="T8" style:family="text">
-   <style:text-properties officeooo:rsid="00081914"/>
-  </style:style>
-  <style:style style:name="T9" style:family="text">
-   <style:text-properties officeooo:rsid="0038a62f"/>
-  </style:style>
-  <style:style style:name="T10" style:family="text">
-   <style:text-properties officeooo:rsid="000c9136"/>
-  </style:style>
-  <style:style style:name="T11" style:family="text">
-   <style:text-properties officeooo:rsid="0039ef45"/>
-  </style:style>
-  <style:style style:name="T12" style:family="text">
-   <style:text-properties officeooo:rsid="003ace25"/>
-  </style:style>
-  <style:style style:name="T13" style:family="text">
-   <style:text-properties officeooo:rsid="003ace25" loext:padding="0cm" loext:border="none"/>
-  </style:style>
-  <style:style style:name="T14" style:family="text">
-   <style:text-properties loext:padding="0cm" loext:border="none"/>
-  </style:style>
-  <style:style style:name="T15" style:family="text">
-   <style:text-properties officeooo:rsid="003af0eb"/>
-  </style:style>
-  <style:style style:name="T16" style:family="text">
-   <style:text-properties officeooo:rsid="003c2db8"/>
-  </style:style>
-  <style:style style:name="T17" style:family="text">
-   <style:text-properties officeooo:rsid="003cf853"/>
-  </style:style>
-  <style:style style:name="T18" style:family="text">
-   <style:text-properties fo:font-weight="bold" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
-  </style:style>
-  <style:style style:name="T19" style:family="text">
-   <style:text-properties officeooo:rsid="003db9e9"/>
-  </style:style>
-  <style:style style:name="T20" style:family="text">
-   <style:text-properties officeooo:rsid="003fabeb"/>
-  </style:style>
-  <style:style style:name="T21" style:family="text">
-   <style:text-properties officeooo:rsid="00418f69"/>
-  </style:style>
-  <style:style style:name="T22" style:family="text">
-   <style:text-properties officeooo:rsid="0042d7c0"/>
-  </style:style>
-  <style:style style:name="T23" style:family="text">
-   <style:text-properties officeooo:rsid="0043523e"/>
-  </style:style>
-  <style:style style:name="T24" style:family="text">
-   <style:text-properties officeooo:rsid="004463df"/>
-  </style:style>
-  <style:style style:name="T25" style:family="text">
-   <style:text-properties officeooo:rsid="004599e2"/>
-  </style:style>
-  <style:style style:name="T26" style:family="text">
-   <style:text-properties officeooo:rsid="004599e2" loext:padding="0cm" loext:border="none"/>
-  </style:style>
-  <style:style style:name="T27" style:family="text">
-   <style:text-properties fo:color="#c9211e" loext:opacity="100%" loext:padding="0cm" loext:border="none"/>
-  </style:style>
-  <style:style style:name="T28" style:family="text">
-   <style:text-properties style:use-window-font-color="true" loext:opacity="0%" loext:padding="0cm" loext:border="none"/>
-  </style:style>
-  <style:style style:name="T29" style:family="text">
    <style:text-properties officeooo:rsid="0045ff8d"/>
   </style:style>
+  <style:style style:name="T5" style:family="text">
+   <style:text-properties officeooo:rsid="0083e27c"/>
+  </style:style>
+  <style:style style:name="T6" style:family="text">
+   <style:text-properties officeooo:rsid="00727e4a"/>
+  </style:style>
+  <style:style style:name="T7" style:family="text">
+   <style:text-properties officeooo:rsid="00745431"/>
+  </style:style>
+  <style:style style:name="T8" style:family="text">
+   <style:text-properties fo:font-weight="bold" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="T9" style:family="text">
+   <style:text-properties fo:language="fr" fo:country="FR" fo:font-weight="normal" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="T10" style:family="text">
+   <style:text-properties fo:language="fr" fo:country="FR" fo:font-weight="normal" officeooo:rsid="00745431" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="T11" style:family="text">
+   <style:text-properties fo:font-weight="normal" officeooo:rsid="00745431" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="T12" style:family="text">
+   <style:text-properties fo:font-weight="normal" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="T13" style:family="text">
+   <style:text-properties fo:font-weight="normal" officeooo:rsid="007b1782" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="T14" style:family="text">
+   <style:text-properties fo:language="fr" fo:country="FR" fo:font-weight="normal" officeooo:rsid="007b1782" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="T15" style:family="text">
+   <style:text-properties fo:language="fr" fo:country="FR" fo:font-weight="normal" officeooo:rsid="007d8c3c" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="T16" style:family="text">
+   <style:text-properties style:text-position="0% 100%" fo:language="fr" fo:country="FR" fo:font-weight="normal" officeooo:rsid="007b1782" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="T17" style:family="text">
+   <style:text-properties fo:language="fr" fo:country="FR" fo:font-weight="normal" officeooo:rsid="0075eaf1" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="T18" style:family="text">
+   <style:text-properties fo:language="fr" fo:country="FR" fo:font-weight="normal" officeooo:rsid="0083e27c" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="T19" style:family="text">
+   <style:text-properties style:text-position="sub 58%" fo:language="fr" fo:country="FR" fo:font-weight="normal" officeooo:rsid="0083e27c" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="T20" style:family="text">
+   <style:text-properties fo:language="fr" fo:country="FR" fo:font-weight="normal" officeooo:rsid="008246c0" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="T21" style:family="text">
+   <style:text-properties fo:language="fr" fo:country="FR" fo:font-weight="normal" officeooo:rsid="008168b4" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="T22" style:family="text">
+   <style:text-properties style:text-position="sub 58%" fo:language="fr" fo:country="FR" fo:font-weight="normal" officeooo:rsid="007b1782" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="T23" style:family="text">
+   <style:text-properties officeooo:rsid="007b1782"/>
+  </style:style>
+  <style:style style:name="T24" style:family="text">
+   <style:text-properties officeooo:rsid="0075eaf1"/>
+  </style:style>
+  <style:style style:name="T25" style:family="text">
+   <style:text-properties fo:language="fr" fo:country="FR" fo:font-weight="normal" officeooo:rsid="007767ec" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="T26" style:family="text">
+   <style:text-properties style:text-position="sub 58%"/>
+  </style:style>
+  <style:style style:name="T27" style:family="text">
+   <style:text-properties style:text-position="0% 100%"/>
+  </style:style>
+  <style:style style:name="T28" style:family="text">
+   <style:text-properties style:text-position="0% 100%" officeooo:rsid="007b1782"/>
+  </style:style>
+  <style:style style:name="T29" style:family="text">
+   <style:text-properties officeooo:rsid="007767ec"/>
+  </style:style>
   <style:style style:name="T30" style:family="text">
-   <style:text-properties officeooo:rsid="0046a3e4"/>
+   <style:text-properties style:text-position="0% 100%" officeooo:rsid="007767ec"/>
   </style:style>
   <style:style style:name="T31" style:family="text">
-   <style:text-properties officeooo:rsid="00486075"/>
+   <style:text-properties style:text-position="sub 58%" officeooo:rsid="007767ec"/>
   </style:style>
   <style:style style:name="T32" style:family="text">
-   <style:text-properties officeooo:rsid="00486075" loext:padding="0cm" loext:border="none"/>
+   <style:text-properties style:text-position="0% 100%" fo:language="fr" fo:country="FR"/>
   </style:style>
   <style:style style:name="T33" style:family="text">
-   <style:text-properties officeooo:rsid="004b28c3"/>
+   <style:text-properties style:text-position="0% 100%" fo:language="fr" fo:country="FR" officeooo:rsid="007767ec"/>
   </style:style>
   <style:style style:name="T34" style:family="text">
-   <style:text-properties officeooo:rsid="004d1876"/>
-  </style:style>
-  <style:style style:name="T35" style:family="text">
-   <style:text-properties officeooo:rsid="004ebd9d"/>
-  </style:style>
-  <style:style style:name="T36" style:family="text">
-   <style:text-properties officeooo:rsid="0050523e"/>
-  </style:style>
-  <style:style style:name="T37" style:family="text">
-   <style:text-properties officeooo:rsid="0051fcbd"/>
-  </style:style>
-  <style:style style:name="T38" style:family="text">
-   <style:text-properties officeooo:rsid="00526939"/>
-  </style:style>
-  <style:style style:name="T39" style:family="text">
-   <style:text-properties officeooo:rsid="0052f302"/>
-  </style:style>
-  <style:style style:name="T40" style:family="text">
-   <style:text-properties officeooo:rsid="0054817e"/>
-  </style:style>
-  <style:style style:name="T41" style:family="text">
-   <style:text-properties officeooo:rsid="0057de14"/>
-  </style:style>
-  <style:style style:name="T42" style:family="text">
-   <style:text-properties officeooo:rsid="005a4614"/>
-  </style:style>
-  <style:style style:name="T43" style:family="text">
-   <style:text-properties officeooo:rsid="005b4f77"/>
-  </style:style>
-  <style:style style:name="T44" style:family="text">
-   <style:text-properties officeooo:rsid="005b591b"/>
-  </style:style>
-  <style:style style:name="T45" style:family="text">
-   <style:text-properties officeooo:rsid="005d5cb1"/>
-  </style:style>
-  <style:style style:name="T46" style:family="text">
-   <style:text-properties officeooo:rsid="0055595c"/>
-  </style:style>
-  <style:style style:name="T47" style:family="text">
-   <style:text-properties officeooo:rsid="005de92a"/>
-  </style:style>
-  <style:style style:name="T48" style:family="text">
-   <style:text-properties officeooo:rsid="004ef5d4"/>
-  </style:style>
-  <style:style style:name="T49" style:family="text">
-   <style:text-properties officeooo:rsid="005fa503"/>
-  </style:style>
-  <style:style style:name="T50" style:family="text">
-   <style:text-properties officeooo:rsid="00618c40"/>
-  </style:style>
-  <style:style style:name="T51" style:family="text">
-   <style:text-properties officeooo:rsid="006258f9"/>
-  </style:style>
-  <style:style style:name="T52" style:family="text">
-   <style:text-properties officeooo:rsid="0063145b"/>
-  </style:style>
-  <style:style style:name="T53" style:family="text">
-   <style:text-properties officeooo:rsid="00672942"/>
-  </style:style>
-  <style:style style:name="T54" style:family="text">
-   <style:text-properties officeooo:rsid="00681aa1"/>
-  </style:style>
-  <style:style style:name="T55" style:family="text">
-   <style:text-properties officeooo:rsid="00695c05"/>
-  </style:style>
-  <style:style style:name="T56" style:family="text">
-   <style:text-properties officeooo:rsid="006af3c9"/>
-  </style:style>
-  <style:style style:name="T57" style:family="text">
-   <style:text-properties officeooo:rsid="006c0e6c"/>
-  </style:style>
-  <style:style style:name="T58" style:family="text">
-   <style:text-properties officeooo:rsid="006c4594"/>
-  </style:style>
-  <style:style style:name="T59" style:family="text">
-   <style:text-properties officeooo:rsid="006dcf2e"/>
-  </style:style>
-  <style:style style:name="T60" style:family="text">
-   <style:text-properties fo:font-weight="normal" officeooo:rsid="00582394" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
-  </style:style>
-  <style:style style:name="T61" style:family="text">
-   <style:text-properties fo:font-weight="normal" officeooo:rsid="00695c05" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
-  </style:style>
-  <style:style style:name="T62" style:family="text">
-   <style:text-properties fo:font-weight="normal" officeooo:rsid="006dcf2e" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
-  </style:style>
-  <style:style style:name="T63" style:family="text">
-   <style:text-properties officeooo:rsid="006f0c1b"/>
+   <style:text-properties style:text-position="0% 100%" fo:language="fr" fo:country="FR" officeooo:rsid="0078b597"/>
   </style:style>
   <style:style style:name="fr1" style:family="graphic" style:parent-style-name="Graphics">
    <style:graphic-properties style:vertical-pos="from-top" style:vertical-rel="paragraph" style:horizontal-pos="from-left" style:horizontal-rel="paragraph" style:mirror="none" fo:clip="rect(0cm, 0cm, 0cm, 0cm)" draw:luminance="0%" draw:contrast="0%" draw:red="0%" draw:green="0%" draw:blue="0%" draw:gamma="100%" draw:color-inversion="false" draw:image-opacity="100%" draw:color-mode="standard"/>
+  </style:style>
+  <style:style style:name="fr2" style:family="graphic" style:parent-style-name="Formula">
+   <style:graphic-properties style:vertical-pos="from-top" style:horizontal-pos="from-left" style:horizontal-rel="paragraph-content" draw:ole-draw-aspect="1"/>
+  </style:style>
+  <style:style style:name="fr3" style:family="graphic" style:parent-style-name="Formula">
+   <style:graphic-properties style:vertical-pos="from-top" draw:ole-draw-aspect="1"/>
   </style:style>
   <style:style style:name="Sect1" style:family="section">
    <style:section-properties style:editable="false">
@@ -1508,56 +1040,36 @@
    </text:list-level-style-bullet>
   </text:list-style>
   <text:list-style style:name="L2">
-   <text:list-level-style-bullet text:level="1" text:style-name="Bullet_20_Symbols" loext:num-list-format="%1%" text:bullet-char="•">
-    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
-     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="1.27cm" fo:text-indent="-0.635cm" fo:margin-left="1.27cm"/>
-    </style:list-level-properties>
-   </text:list-level-style-bullet>
-   <text:list-level-style-bullet text:level="2" text:style-name="Bullet_20_Symbols" loext:num-list-format="%2%" text:bullet-char="◦">
-    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
-     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="1.905cm" fo:text-indent="-0.635cm" fo:margin-left="1.905cm"/>
-    </style:list-level-properties>
-   </text:list-level-style-bullet>
-   <text:list-level-style-bullet text:level="3" text:style-name="Bullet_20_Symbols" loext:num-list-format="%3%" text:bullet-char="▪">
-    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
-     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="2.54cm" fo:text-indent="-0.635cm" fo:margin-left="2.54cm"/>
-    </style:list-level-properties>
-   </text:list-level-style-bullet>
-   <text:list-level-style-bullet text:level="4" text:style-name="Bullet_20_Symbols" loext:num-list-format="%4%" text:bullet-char="•">
-    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
-     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="3.175cm" fo:text-indent="-0.635cm" fo:margin-left="3.175cm"/>
-    </style:list-level-properties>
-   </text:list-level-style-bullet>
-   <text:list-level-style-bullet text:level="5" text:style-name="Bullet_20_Symbols" loext:num-list-format="%5%" text:bullet-char="◦">
-    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
-     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="3.81cm" fo:text-indent="-0.635cm" fo:margin-left="3.81cm"/>
-    </style:list-level-properties>
-   </text:list-level-style-bullet>
-   <text:list-level-style-bullet text:level="6" text:style-name="Bullet_20_Symbols" loext:num-list-format="%6%" text:bullet-char="▪">
-    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
-     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="4.445cm" fo:text-indent="-0.635cm" fo:margin-left="4.445cm"/>
-    </style:list-level-properties>
-   </text:list-level-style-bullet>
-   <text:list-level-style-bullet text:level="7" text:style-name="Bullet_20_Symbols" loext:num-list-format="%7%" text:bullet-char="•">
-    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
-     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="5.08cm" fo:text-indent="-0.635cm" fo:margin-left="5.08cm"/>
-    </style:list-level-properties>
-   </text:list-level-style-bullet>
-   <text:list-level-style-bullet text:level="8" text:style-name="Bullet_20_Symbols" loext:num-list-format="%8%" text:bullet-char="◦">
-    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
-     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="5.715cm" fo:text-indent="-0.635cm" fo:margin-left="5.715cm"/>
-    </style:list-level-properties>
-   </text:list-level-style-bullet>
-   <text:list-level-style-bullet text:level="9" text:style-name="Bullet_20_Symbols" loext:num-list-format="%9%" text:bullet-char="▪">
-    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
-     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="6.35cm" fo:text-indent="-0.635cm" fo:margin-left="6.35cm"/>
-    </style:list-level-properties>
-   </text:list-level-style-bullet>
-   <text:list-level-style-bullet text:level="10" text:style-name="Bullet_20_Symbols" loext:num-list-format="%10%" text:bullet-char="•">
-    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
-     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="6.985cm" fo:text-indent="-0.635cm" fo:margin-left="6.985cm"/>
-    </style:list-level-properties>
-   </text:list-level-style-bullet>
+   <text:list-level-style-number text:level="1" text:style-name="Numbering_20_Symbols" loext:num-list-format="%1%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:space-before="0.752cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="2" text:style-name="Numbering_20_Symbols" loext:num-list-format="%2%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:space-before="2.002cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="3" text:style-name="Numbering_20_Symbols" loext:num-list-format="%3%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:space-before="3.253cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="4" text:style-name="Numbering_20_Symbols" loext:num-list-format="%4%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:space-before="4.503cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="5" text:style-name="Numbering_20_Symbols" loext:num-list-format="%5%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:space-before="5.754cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="6" text:style-name="Numbering_20_Symbols" loext:num-list-format="%6%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:space-before="7.005cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="7" text:style-name="Numbering_20_Symbols" loext:num-list-format="%7%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:space-before="8.255cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="8" text:style-name="Numbering_20_Symbols" loext:num-list-format="%8%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:space-before="9.506cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="9" text:style-name="Numbering_20_Symbols" loext:num-list-format="%9%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:space-before="10.756cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="10" text:style-name="Numbering_20_Symbols" loext:num-list-format="%10%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:space-before="12.007cm" text:min-label-width="0.499cm"/>
+   </text:list-level-style-number>
   </text:list-style>
   <style:page-layout style:name="pm1">
    <style:page-layout-properties fo:page-width="21.001cm" fo:page-height="29.7cm" style:num-format="1" style:print-orientation="portrait" fo:margin-top="1.27cm" fo:margin-bottom="2.54cm" fo:margin-left="2.54cm" fo:margin-right="2.54cm" style:writing-mode="lr-tb" style:layout-grid-color="#c0c0c0" style:layout-grid-lines="24620" style:layout-grid-base-height="0.176cm" style:layout-grid-ruby-height="0cm" style:layout-grid-mode="none" style:layout-grid-ruby-below="false" style:layout-grid-print="false" style:layout-grid-display="false" style:layout-grid-base-width="0.423cm" style:layout-grid-snap-to="true" style:footnote-max-height="0cm" loext:margin-gutter="0cm">
@@ -1577,7 +1089,7 @@
  <office:master-styles>
   <style:master-page style:name="Standard" style:page-layout-name="pm1" draw:style-name="dp1">
    <style:header>
-    <text:p text:style-name="P1"><draw:frame draw:style-name="fr1" draw:name="Image1" text:anchor-type="char" svg:x="-1.762cm" svg:y="-0.683cm" svg:width="1.496cm" svg:height="1.736cm" draw:z-index="4"><draw:image draw:mime-type="image/png">
+    <text:p text:style-name="P1"><draw:frame draw:style-name="fr1" draw:name="Image1" text:anchor-type="char" svg:x="-1.762cm" svg:y="-0.683cm" svg:width="1.496cm" svg:height="1.736cm" draw:z-index="5"><draw:image draw:mime-type="image/png">
        <office:binary-data>iVBORw0KGgoAAAANSUhEUgAAAGQAAAB0CAYAAABzNJfPAAAACXBIWXMAAATfAAAE3wH86+1B
         AAAAGXRFWHRTb2Z0d2FyZQB3d3cuaW5rc2NhcGUub3Jnm+48GgAAFKRJREFUeJztnXlgVOW1
         wH/fvTOTTPaFLCRAQkjYIgjIkkREwJVq3bKB1lZb9XWz7dNnre/VKm211ba2tvraalutPjEk
@@ -1696,7 +1208,7 @@
     <text:p text:style-name="P4"><text:span text:style-name="T3"/></text:p>
    </style:header>
    <style:footer>
-    <text:p text:style-name="P5"><text:bookmark-start text:name="PageNumWizard_FOOTER_Style de page par défaut7"/><text:page-number text:select-page="current">5</text:page-number><text:bookmark-end text:name="PageNumWizard_FOOTER_Style de page par défaut7"/>Smart Energy Manager</text:p>
+    <text:p text:style-name="P5"/>
    </style:footer>
    <style:footer-left>
     <text:p text:style-name="P5"><text:bookmark-start text:name="PageNumWizard_FOOTER_Style de page par défaut8"/><text:page-number text:select-page="current">4</text:page-number><text:bookmark-end text:name="PageNumWizard_FOOTER_Style de page par défaut8"/></text:p>
@@ -1712,11 +1224,10 @@
     <text:sequence-decl text:display-outline-level="0" text:name="Drawing"/>
     <text:sequence-decl text:display-outline-level="0" text:name="Figure"/>
    </text:sequence-decls>
-   <text:p text:style-name="P146"/>
+   <text:p text:style-name="P6"/>
    <text:p text:style-name="Standard"/>
-   <text:p text:style-name="P24"/>
-   <text:p text:style-name="P137">Dossier de candidature Innozh<text:line-break/>OpenHomeSystem</text:p>
-   <text:p text:style-name="P81">(<text:span text:style-name="T14">OpenHEMS</text:span>)</text:p>
+   <text:p text:style-name="P7"/>
+   <text:p text:style-name="P8"><text:span text:style-name="T4">Étude </text:span><text:span text:style-name="T5">de l’</text:span><text:span text:style-name="T6">optimisation des appareils à rétro-action : </text:span><text:span text:style-name="T5">cas du chauffage.</text:span></text:p>
    <text:p text:style-name="Standard"/>
    <table:table table:name="Tableau2" table:style-name="Tableau2">
     <table:table-column table:style-name="Tableau2.A"/>
@@ -1724,30 +1235,30 @@
     <table:table-column table:style-name="Tableau2.C"/>
     <table:table-row>
      <table:table-cell table:style-name="Tableau2.A1" office:value-type="string">
-      <text:p text:style-name="P21">Date</text:p>
+      <text:p text:style-name="P9">Date</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Tableau2.A1" office:value-type="string">
-      <text:p text:style-name="P21">Version</text:p>
+      <text:p text:style-name="P9">Version</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Tableau2.A1" office:value-type="string">
-      <text:p text:style-name="P21">Auteur</text:p>
+      <text:p text:style-name="P9">Auteur</text:p>
      </table:table-cell>
     </table:table-row>
     <table:table-row>
      <table:table-cell table:style-name="Tableau2.A1" office:value-type="string">
-      <text:p text:style-name="P11"><text:span text:style-name="T56">17</text:span>/12/2023</text:p>
+      <text:p text:style-name="P10"><text:span text:style-name="T6">18</text:span>/<text:span text:style-name="T6">04</text:span>/202<text:span text:style-name="T6">5</text:span></text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Tableau2.A1" office:value-type="string">
-      <text:p text:style-name="P19">0.1</text:p>
+      <text:p text:style-name="P11">0.1</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Tableau2.A1" office:value-type="string">
-      <text:p text:style-name="P19">Albéric de la Crochais</text:p>
+      <text:p text:style-name="P11">Albéric de la Crochais</text:p>
      </table:table-cell>
     </table:table-row>
    </table:table>
-   <text:p text:style-name="P16"/>
-   <text:p text:style-name="P16"/>
-   <text:p text:style-name="P16"/>
+   <text:p text:style-name="P12"/>
+   <text:p text:style-name="P12"/>
+   <text:p text:style-name="P12"/>
    <text:table-of-content text:style-name="Sect1" text:protected="true" text:name="Table des matières1">
     <text:table-of-content-source text:outline-level="10">
      <text:index-title-template text:style-name="Contents_20_Heading">Sommaire</text:index-title-template>
@@ -1836,97 +1347,851 @@
      <text:index-title text:style-name="Sect1" text:name="Table des matières1_Head" text:protected="true">
       <text:p text:style-name="Contents_20_Heading">Sommaire</text:p>
      </text:index-title>
-     <text:p text:style-name="P131"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc422_1008203239" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Présentation du projet<text:tab/>2</text:a></text:p>
-     <text:p text:style-name="P131"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc424_1008203239" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Concurrence<text:tab/>2</text:a></text:p>
-     <text:p text:style-name="P131"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc1414_885639657" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Perspective de marché<text:tab/>3</text:a></text:p>
-     <text:p text:style-name="P131"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc2868_885639657" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Evolution envisagées<text:tab/>3</text:a></text:p>
-     <text:p text:style-name="P132"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc2870_885639657" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">1 Marché des entreprises<text:tab/>3</text:a></text:p>
-     <text:p text:style-name="P132"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc2872_885639657" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">2 Positionnement plus premium<text:tab/>3</text:a></text:p>
-     <text:p text:style-name="P132"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc2874_885639657" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">3 D’autres produits maison<text:tab/>3</text:a></text:p>
-     <text:p text:style-name="P131"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc1000_2840653975" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Problématique<text:tab/>4</text:a></text:p>
-     <text:p text:style-name="P131"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc2876_885639657" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Choix Open-Source<text:tab/>4</text:a></text:p>
-     <text:p text:style-name="P131"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc1004_2840653975" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Avancement<text:tab/>4</text:a></text:p>
+     <text:p text:style-name="P13"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc422_1008203239" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">But de l’étude<text:tab/>2</text:a></text:p>
+     <text:p text:style-name="P13"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc722_1046565995" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Facteurs déterminants et limitants<text:tab/>2</text:a></text:p>
+     <text:p text:style-name="P13"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc724_1046565995" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Modèle<text:tab/>3</text:a></text:p>
+     <text:p text:style-name="P14"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc726_1046565995" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">1 Fonction de puissance ()<text:tab/>3</text:a></text:p>
+     <text:p text:style-name="P14"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc728_1046565995" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">2 Fonction de temps ()<text:tab/>4</text:a></text:p>
+     <text:p text:style-name="P14"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc730_1046565995" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">3 Optimisation<text:tab/>4</text:a></text:p>
+     <text:p text:style-name="P13"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc732_1046565995" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Mise en œuvre<text:tab/>5</text:a></text:p>
     </text:index-body>
    </text:table-of-content>
+   <text:p text:style-name="P12"/>
+   <text:h text:style-name="P15" text:outline-level="1"><text:bookmark-start text:name="__RefHeading___Toc422_1008203239"/>But de l’étude<text:bookmark-end text:name="__RefHeading___Toc422_1008203239"/></text:h>
+   <text:p text:style-name="P16">Le but de l’étude est d’optimiser la consommation électrique d’un appareil à rétro-action (feedback en anglais) ou plus simplement d’un appareil à consigne qui doit se déclencher automatiquement pour maintenir une valeur dans une plage raisonnable ou plutôt acceptable. Tout l’enjeu sera d’utiliser au maximum la plage de valeur possible pour éviter d’alimenter l’appareil pendant les plages de coût électrique défavorable. Typiquement, l’idée est de se rapprocher ou atteindre une borne extrême pendant les heures favorables pour pouvoir, idéalement ne pas le déclencher durant toute la durée ou le coût de l’électricité est défavorable.</text:p>
+   <text:p text:style-name="P17">Pour cette étude, nous prenons le cas <text:span text:style-name="T5">d’un </text:span>chauffage d<text:span text:style-name="T5">omestique. Les considérations sont les mêmes pour la climatisation ou même des appareils plus petits tels fours/réfrigérateurs ou plus grands tels des immeubles</text:span>. <text:span text:style-name="T5">La différence essentielle entre ces cas est l’effet du chauffage solaire (dépendant de l’exposition de la maison). Mais on ne le prendra pas en compte dans notre modèle.</text:span></text:p>
+   <text:p text:style-name="P17"><text:span text:style-name="T5">L</text:span>e principe est de surchauffer un peu la maison quand l’électricité n’est pas chère (si possible en fin de période) pour la laisser refroidir jusqu’à la valeur limite en période d’électricité chère. <text:span text:style-name="T5">Le problème est que chauffer plus implique des pertes supplémentaires et donc une perte de rendement. A cela peuvent s’ajouter une perte de rendement du système de chauffage non pris en compte non plus (mais que l’on peut considérer comme négligeable dans la plage utilisée). Toutes ces pertes impliquent que l’opération n’est pas toujours intéressante et si elle l’est généralement, il existe une température maximale optimale.</text:span></text:p>
+   <text:p text:style-name="P18">Notons que pour certains appareils à réaction tels une pompe de relevage/surpression il n’y a pas ces pertes de rendement ou seulement lié au rendement variable de l’appareil. Dans ce cas le problème ne se pose pas. On enclenchera le dispositif au moment opportun pour atteindre le maximum possible ou nécessaire pour tenir la durée des heures-pleines (ou tant que l’électricité solaire est disponible).</text:p>
+   <text:p text:style-name="P17"><text:span text:style-name="T5">Ce choix de chauffage n’est pas toujours </text:span>le plus confortable pour les habitants. Dans le cas <text:span text:style-name="T5">simple mais typique </text:span>des heures-creuses de nuit, on va surchauffer le matin très tôt, ce qui est plutôt agréable pour le réveil mais laisser sous-chauffer en fin de journée pour atteindre les heures-creuses du soir. Un compromis sera donc à trouver entre la plage de valeur configurée et la température souhaitée ou peut-être d<text:span text:style-name="T5">ifférentes </text:span>plages de forçage.</text:p>
+   <text:p text:style-name="P19">Une limitation de l’optimisation de la consommation électrique est qu’elle fait travailler l’appareil dans une plage qui peut-être non optimale si par exemple les cycles d’allumage/extinction entraînent une plus grande usure des pièces. <text:span text:style-name="T5">Ce que l’on gagne d’un côté, on le perd peut-être de l’autre. </text:span>Dans notre exemple, certes, on va limiter l’allumage/extinction en fin de nuit pour surchauffer, mais au contraire on va les augmenter en fin d’heures pleines pour minimiser la température et donc la surconsommation électrique. <text:span text:style-name="T5">C’est sans conséquences pour un chauffage électrique résistif mais plus dommageable me semble t’il pour la majorité des pompes à chaleur. Une configuration appropriée pourra y remédier au détriment d’une optimisation trop poussée.</text:span></text:p>
    <text:p text:style-name="P16"/>
-   <text:h text:style-name="P36" text:outline-level="1"><text:bookmark-start text:name="__RefHeading___Toc422_1008203239"/>Présentation du projet<text:bookmark-end text:name="__RefHeading___Toc422_1008203239"/></text:h>
-   <text:p text:style-name="P136">L’idée première, à l’origine du projet, est le désir d’optimiser ma maison sans faire intervenir des système opaques, qui rendent captifs, à la sécurité inconnu. Tout spécialement, ce sont généralement des systèmes contrôlés par des serveurs sur internet ce qui veut dire qu’ils sont susceptible de tomber en cas de piratage du serveur ou de faillite de l’entreprise. Au minimum, cela représente une atteinte à la vie privée.</text:p>
-   <text:p text:style-name="P136"/>
-   <text:p text:style-name="P136">Le premier produit, dont j’avais un besoin personnel, et simple à mettre en œuvre, est un système d’optimisation de l’énergie domestique (HEMS, Home Energy Management System). Autrement dit un système qui pilote les appareils électrique programmables. <text:span text:style-name="T57">Je l’ai appelé OpenHEMS.</text:span></text:p>
-   <text:p text:style-name="P136"/>
-   <text:p text:style-name="P58"><text:span text:style-name="T56">Le</text:span> but du projet <text:span text:style-name="T57">OpenHEMS </text:span>est de gérer l’énergie produite par des sources <text:span text:style-name="T57">électrique</text:span> intermittentes ou aux coûts variable dans le temps. Typiquement, le réseau public peut avoir des variations de coûts suivant les heures de la journée et les jours. Par ailleurs l’électricité peut-être produite par des panneaux solaires pour peu cher ou provenir des batteries qui représentent un coût de stockage supérieur et pire elles sont sensible aux trop grandes sollicitations. Une partie de ces variations sont prédictibles, du moins en partie, à l’inverse certains appareils ont une consommation qui peut s’adapter, tel le ballon d’eau chaude ou au moins qui peuvent être différées tel les machines de linges/vaisselles.</text:p>
-   <text:p text:style-name="P56"/>
-   <text:p text:style-name="P56"><text:span text:style-name="T16">Cette gestion s’appelle le </text:span>Smart Energy Manager. <text:span text:style-name="T16">L’idée est de faire un système Open-Source et résilient, indépendant, au besoin d’internet et de ses services.</text:span></text:p>
-   <text:h text:style-name="P143" text:outline-level="1"><text:bookmark-start text:name="__RefHeading___Toc424_1008203239"/>Concurrence<text:bookmark-end text:name="__RefHeading___Toc424_1008203239"/></text:h>
-   <text:p text:style-name="P135">Il y a 2 types de concurence identifiés :</text:p>
+   <text:h text:style-name="Heading_20_1" text:outline-level="1"><text:bookmark-start text:name="__RefHeading___Toc722_1046565995"/><text:soft-page-break/>Facteurs déterminants <text:span text:style-name="T7">et limitants</text:span><text:bookmark-end text:name="__RefHeading___Toc722_1046565995"/></text:h>
+   <text:p text:style-name="P20">Pour maintenir la température interne acceptable et déclencher le chauffage, le système doit comprendre </text:p>
    <text:list text:style-name="L1">
     <text:list-item>
-     <text:p text:style-name="P147">Celle dans le domaine de l’optimisation de l’énergie.</text:p>
+     <text:p text:style-name="P21">Un actionneur qu’il pilote soit directement en allumant l’appareil et l’éteignant soit indirectement par une température de consigne. Dans le cas indirect, le logiciel de pilotage interne de l’appareil peut comporter des algorithmes qui nuiront à l’efficacité globale. Je pense notamment qu’il serait souhaitable que l’appareil puisse fonctionner a pleine puissance jusqu’à atteindre une température donnée de façon a minimisé le temps à température intermédiaire, plus consommateur comme nous le verrons. Cependant, généralement, à l’approche de la température de consigne, le logiciel va vouloir réduire la puissance pour éviter de la dépasser. Cela peut être en partie compensé par une consigne maximale.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P147">Celle dans le domaine domotique.</text:p>
+     <text:p text:style-name="P21">Un capteur donnant la valeur de consigne. Dans notre exemple, ce sera un capteur de température. <text:span text:style-name="T7">C</text:span>e capteur <text:span text:style-name="T7">comprend des limitations intrinsèques que l’on ignore dans cette étude. Il </text:span>possède une marge d’erreur et surtout un <text:span text:style-name="T7">délai de réaction dû essentiellement à l’inertie de la maison. L’inertie de la maison, même si elle est ici négligée est sans doute la moins négligeable. En effet, lors de la chauffe, la </text:span><text:span text:style-name="T7">température va atteindre une valeur, mais très vite les meubles et murs vont absorber une partie de cette chaleur avant même que les murs n’aient perdu la moindre calorie. Si l’on maintenait cette température un certains temps, la température chuterait beaucoup moins vite. Il serait donc intéressant de légèrement surchauffer au départ.</text:span></text:p>
     </text:list-item>
    </text:list>
-   <text:p text:style-name="P135">Si ces 2 domaines se recoupent, dans la mesure ou tous permettent de monitorer via de la domotique, et tous permettent de surveiller sa consommation énergétique ils ne sont pas aussi bien intégrés.</text:p>
-   <text:list text:style-name="Numbering_20_123">
-    <text:list-item>
-     <text:p text:style-name="P149"><text:a xlink:type="simple" xlink:href="https://www.mylight150.com/solutions" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="T40">MyLight</text:span></text:a></text:p>
-    </text:list-item>
-    <text:list-item>
-     <text:p text:style-name="P150"><text:a xlink:type="simple" xlink:href="https://www.comwatt.com/produits/box-power-gen4/" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link">ComWatt</text:a></text:p>
-    </text:list-item>
-    <text:list-item>
-     <text:p text:style-name="P151"><text:a xlink:type="simple" xlink:href="https://www.deltadore.fr/" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link">Delta Dore</text:a> (Que de la domotique)</text:p>
-    </text:list-item>
-    <text:list-item>
-     <text:p text:style-name="P151"><text:a xlink:type="simple" xlink:href="https://www.shellyfrance.fr/shelly-3em/" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link">Shelly 3EM</text:a> <text:span text:style-name="T52">(Nécessite internet)</text:span></text:p>
-    </text:list-item>
-   </text:list>
-   <text:p text:style-name="P135">Leurs principaux défaut sont généralement d’être opaque et pilotés par internet. A cela s’ajoute souvent qu’ils sont captifs. On entends par captifs qu’ils ne fonctionne bien (voire exclusivement) qu’avec des produits de la même marque… Or qui veut changer, batterie, panneaux solaire, onduleurs, lave-vaisselle, prise murale de voiture… ?</text:p>
-   <text:h text:style-name="Heading_20_1" text:outline-level="1"><text:bookmark-start text:name="__RefHeading___Toc1414_885639657"/><text:soft-page-break/>Perspective de marché<text:bookmark-end text:name="__RefHeading___Toc1414_885639657"/></text:h>
-   <text:p text:style-name="P139">Le marché est difficile à percé, seulement, il est en pleine croissance car d’une part les économies d’énergie sont tendances, mais surtout la domotique est encore balbutiante.</text:p>
-   <text:p text:style-name="P139"/>
-   <text:p text:style-name="P135">Dans le cas d’une maison non domotisée, la perspective d’acheter un OpenHEMS est faible, par contre dans celle domotisée, l’intérêt est beaucoup plus important.</text:p>
-   <text:h text:style-name="Heading_20_1" text:outline-level="1"><text:bookmark-start text:name="__RefHeading___Toc2868_885639657"/>Evolution envisagées<text:bookmark-end text:name="__RefHeading___Toc2868_885639657"/></text:h>
-   <text:h text:style-name="Heading_20_2" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc2870_885639657"/>Marché des entreprises<text:bookmark-end text:name="__RefHeading___Toc2870_885639657"/></text:h>
-   <text:p text:style-name="P138">Pour l’instant je me suis concentré sur le B2C car c’est le marché que je connais le mieux et que le produit est moins complexe, avec des enjeux moindre (Puissance électrique moindre, enjeux financiers moindre… ).</text:p>
-   <text:p text:style-name="P138">Je pense que les PME, pourraient sans doute être intéressées, par un produit simple, qui leur permettrait de réduire leur facture électrique en optimisant la consommation. <text:span text:style-name="T58">Mais je ne connais pas réellement les besoins/attentes du marché B2B pour m’y attaquer.</text:span></text:p>
-   <text:p text:style-name="P138">Actuellement nul doute, que les grosses entreprises développent des soft dédiés. Toutefois, la plupart du temps, comme les PME, elles s’en remettent à l’intelligence des produits achetés. L’idée seraient alors d’ajouter une couche pour ajouter une coopération, sans avoir a développer un outils dédié à chaque fois.</text:p>
-   <text:h text:style-name="Heading_20_2" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc2872_885639657"/>Positionnement plus premium<text:bookmark-end text:name="__RefHeading___Toc2872_885639657"/></text:h>
-   <text:p text:style-name="P139">Aujourd’hui je vise un produit accessible. Cependant pour une question de rentabilité, l’idée serait de s’orienter vers un marché un peu plus premium comme le font les autres produits Open-Source (<text:a xlink:type="simple" xlink:href="https://puri.sm/" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link">Purism</text:a>, <text:a xlink:type="simple" xlink:href="https://system76.com/" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link">system76</text:a>, <text:a xlink:type="simple" xlink:href="https://www.olimex.com/" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link">Olimex</text:a> ou même <text:a xlink:type="simple" xlink:href="https://www.solarbrother.com/" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link">Solar-Brother</text:a>).</text:p>
-   <text:p text:style-name="P139">Ce positionnement premium se justifie par l’atout sécurité, contrôle, <text:span text:style-name="T63">personalisation</text:span> et réparabilité.</text:p>
-   <text:h text:style-name="Heading_20_2" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc2874_885639657"/>D’autres produits maison<text:bookmark-end text:name="__RefHeading___Toc2874_885639657"/></text:h>
-   <text:p text:style-name="P140">Si aujourd’hui je me concentre sur l’OpenHEMS, l’idée serait à terme d’aller vers d’autres « produits maison » . <text:span text:style-name="T59">C’est de la que vient le nom de l’entreprise « OpenHomeSystem » (non encore enregistré mais déjà en pratique bien verrouillé).</text:span> <text:span text:style-name="T59">Concrètement, j’envisage,</text:span> <text:span text:style-name="T59">en restant sur le thème de </text:span>la domotique/énergie, <text:span text:style-name="T59">d’aller vers des produits connexes (Pourquoi pas commercialiser les </text:span><text:a xlink:type="simple" xlink:href="https://www.openhab.org/" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="T60">OpenHAB</text:span></text:a><text:span text:style-name="T60"> </text:span><text:span text:style-name="T62">et </text:span><text:a xlink:type="simple" xlink:href="https://openevse.com/index.html" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="T61">O</text:span><text:span text:style-name="T60">pen</text:span><text:span text:style-name="T61">EVSE</text:span></text:a><text:span text:style-name="T59">). P</text:span>uis, <text:span text:style-name="T59">j’envisage, d’</text:span>aller vers le reste de la domotique, comme la sécurité (alarme) et ensuite vers les autres appareils électroménagers (Peut-être simplement avec des kits de réparation, pour ne pas avoir a produire les éléments lourds et ultraconcurrentiels mais seulement l’électronique).</text:p>
-   <text:h text:style-name="P64" text:outline-level="1"><text:bookmark-start text:name="__RefHeading___Toc1000_2840653975"/>Problématique<text:bookmark-end text:name="__RefHeading___Toc1000_2840653975"/></text:h>
-   <text:p text:style-name="P66">Avec les panneaux solaires, on a une production d’électricité bon marché, fiable et évolutive mais qui a l’inconvénient de n’être pas corrélé<text:span text:style-name="T34">e</text:span> à la consommation. La solution standard est d’ajouter des batteries, seulement celles-ci coûtent cher et en plus s’usent plus vite si elles sont trop sollicités. Un autre facteur intervient donc pour moduler ce défaut, c’est l’humain, qui s’adapte pour tenter de mettre en marche les appareils qui peuvent être décalé au moment le plus opportun.</text:p>
-   <text:p text:style-name="P66">Il y a cependant peut-être moyen d’automatiser ce facteur humain et même d’aller plus loin car certains appareils peuvent être interrompus dans leurs cycles <text:span text:style-name="T25">ou moduler</text:span>. Par exemple la charge de la voiture électrique, chauffe-eau mais aussi les lave-linge, sèche-linge et lave-vaisselles. Même le chauffage, la VMC et le réfrigérateurs/congélateurs peuvent être interrompu un certain temps. <text:s/>Seuls les appareils utilisés directement par l’humain sont réellement contraints, tels ordinateurs, plaques et four, aspirateurs...</text:p>
-   <text:p text:style-name="P66">Si l’on veut le faire de manière optimal et sans s’en préoccuper, il faut l’automatiser. C’est l’objet de notre solution OpenHouseEnergy.</text:p>
-   <text:p text:style-name="P68">Si l’on va plus loin, même l’électricité du réseau public peut avoir des prix variable, le système pourrait alors optimiser la facture.</text:p>
-   <text:p text:style-name="P68"/>
-   <text:h text:style-name="Heading_20_1" text:outline-level="1"><text:bookmark-start text:name="__RefHeading___Toc2876_885639657"/>Choix Open-Source<text:bookmark-end text:name="__RefHeading___Toc2876_885639657"/></text:h>
-   <text:p text:style-name="P135">Je crois qu’il est important que je développe le choix de l’Open-Source car il peut faire peur.</text:p>
-   <text:p text:style-name="P135">Open-Source, veut dire que les sources nécessaire au développement du produit sont accessibles gratuitement <text:a xlink:type="simple" xlink:href="https://github.com/abriotde/openhems-sample" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link">ici</text:a>.</text:p>
-   <text:p text:style-name="P135">Cela fait peur car il n’y a alors pas de brevets pour protéger le produit et effectivement, en théorie il peut être accaparé par quelqu’un. Cependant, si le produit n’est pas breveté, il est sous licence GPLv3. Cela veut dire que si quelqu’un reprends le produit, il devra légalement, soit l’utiliser tel quel, soit republier ses modifications. S’il ne le fait pas évoluer il ne pourra pas répondre aux demandes de ses utilisateurs et s’il republie ses modification, je pourrais alors moi aussi récupérer ses modifications gratuitement. En fait le risque est donc bien plus qu’il soit volé au sens ou il serait réutilisé sans respecter la licence. Mais le vol est aussi possible avec un brevet…</text:p>
-   <text:p text:style-name="P135">En contre partie, le fait que le produit soit Open-Source, m’assure du soutiens potentiel au développement d’une vaste communauté. Cette communauté représente autant une aide financière au développement, qu’un retour client/besoin et une expertise sur mon logiciel.</text:p>
-   <text:p text:style-name="P135">J’envisage d’ailleurs, de passer le développement du logiciel à une association (en partie financée par mon entreprise), de façon a réduire/optimiser les charges de développement.</text:p>
-   <text:h text:style-name="P134" text:outline-level="1"><text:bookmark-start text:name="__RefHeading___Toc1004_2840653975"/>Avancement<text:bookmark-end text:name="__RefHeading___Toc1004_2840653975"/></text:h>
-   <text:p text:style-name="P135">Aujourd’hui, fin décembre 2024, j’arrive au bout du développement logiciel pour un MVP. J’ai un produit qui permet de piloter une maison (Avec ou sans panneaux solaires) et qui se configure aisément via une interface graphique.</text:p>
-   <text:p text:style-name="P135"><text:soft-page-break/>Je me remet à travailler sur sa commercialisation et cela commence par une documentation plus fournie :</text:p>
+   <text:p text:style-name="P20"/>
+   <text:p text:style-name="P22">Dans le cadre de l’optimisation de l’énergie, on va chercher à utiliser l’inertie thermique du bâtiment et exploiter l’isolation. Le dispositif sera donc d’autant plus efficace que la maison est bien isolée et a une bonne innertie. Ce qui va conditionner les pertes de chaleurs d’une maison plus que la température interne c’est <text:span text:style-name="T8">la différence de température avec l’extérieur</text:span>. On a donc besoin d’une information supplémentaire pour optimiser le chauffage par rapport à un chauffage standard : la température extérieure. En pratique, en l’absence de capteur, on pourra utiliser les informations météorologiques disponibles sur internet.</text:p>
+   <text:p text:style-name="P22">Notons qu’un autre facteur influe énormément sur la plupart des maisons bien conçus : c’est le soleil qui peut chauffer la maison et donc a minima limiter la chute de température. Si on en tient pas compte dans notre modèle, une solution serait aussi d’utiliser les informations météorologiques. Et cette exposition solaire est d’autant plus importante qu’elle a aussi un impact sur la production photovoltaïque lorsqu’elle existe. Ceci influe donc aussi sur le coût de l’électricité de la journée. On peut néanmoins supposer que la production photovoltaïque étant inférieure l’hiver quand on a besoin du chauffage, qu’elle sera aisément absorber par les autres besoins et que l’on peut donc l’ignorer. Toutefois, cette étude aurait souhaité être entendable et donc, dans d’autres cas, comme la climatisation, l’impact est différent (mais au contraire plutôt corrélé).</text:p>
+   <text:h text:style-name="Heading_20_1" text:outline-level="1"><text:bookmark-start text:name="__RefHeading___Toc724_1046565995"/>Modèle<text:bookmark-end text:name="__RefHeading___Toc724_1046565995"/></text:h>
+   <text:p text:style-name="P23"><text:span text:style-name="T7">On raisonne donc en différence de température entre l’intérieur de la maison et l’extérieure, </text:span><text:soft-page-break/><text:span text:style-name="T7">on utilise la notation courante </text:span><text:span text:style-name="T9">Δ</text:span><text:span text:style-name="T10">θ pour ce paramètre</text:span><text:span text:style-name="T11">.</text:span></text:p>
+   <text:p text:style-name="P23"><text:span text:style-name="T11"/></text:p>
+   <text:h text:style-name="Heading_20_2" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc726_1046565995"/><text:span text:style-name="T11">F</text:span><text:span text:style-name="T12">onction de puissance </text:span><text:span text:style-name="T13">(</text:span><text:span text:style-name="T13"><draw:frame draw:style-name="fr2" draw:name="Objet6" text:anchor-type="as-char" svg:y="-0.379cm" svg:width="0.328cm" svg:height="0.471cm" draw:z-index="8"><draw:object>
+       <math xmlns="http://www.w3.org/1998/Math/MathML" display="block">
+        <semantics>
+         <mi mathvariant="normal">Π</mi>
+         <annotation encoding="StarMath 5.0">%PI </annotation>
+        </semantics>
+       </math>
+      </draw:object><draw:image>
+       <office:binary-data>VkNMTVRGAQAxAAAAAAAAAAEAGwAAAAkAAAAAAAAAAAABAAAAAQAAAAEAAAABAAAAAboAAAAL
+        AQAADwAAAJYAAQACAAAACQCLAAEAAgAAAP//gQABABAAAAAAAAAAAAAAALkAAAAKAQAAiwAB
+        AAIAAAAAGJUAAQAEAAAAAAAAAJYAAQACAAAACQCLAAEAAgAAAB8AigABAEgAAAAFAEIAAAAQ
+        AExpYmVyYXRpb24gU2VyaWYAAAAAAADwAAAAAAAAAAAABQAAAAAAAAD/AwAAAAAAAAABAP8D
+        AAAAAAAAAAAAAACIAAEAAgAAAAEAhwABAAUAAAD/////AIYAAQAEAAAAAAAAAHIAAgAYAAAA
+        BgAAANcAAAACAM6grQAAAAAAAQABAKADjAABAAAAAACMAAEAAAAAAIwAAQAAAAAA
+       </office:binary-data>
+      </draw:image>
+     </draw:frame></text:span><text:span text:style-name="T13">)</text:span><text:bookmark-end text:name="__RefHeading___Toc726_1046565995"/></text:h>
+   <text:p text:style-name="P24"><text:span text:style-name="T11">Pour un </text:span><text:span text:style-name="T10">Δθ donné, correspond une puissance énergétique thermique consommée pour maintenir la température. Cette puissance énergétique correspond, à un facteur de rentabilité du chauffage près, un facteur fixe dans notre cas, </text:span><text:span text:style-name="T14">à </text:span><text:span text:style-name="T10">une </text:span><text:span text:style-name="T15">puissance </text:span><text:span text:style-name="T10">électrique </text:span><text:span text:style-name="T14">consommée (noté </text:span><text:span text:style-name="T15">P</text:span><text:span text:style-name="T16"> en Kwh</text:span><text:span text:style-name="T14">)</text:span><text:span text:style-name="T10">. </text:span><text:span text:style-name="T17">Il s’agit d’une fonction de forme exponentielle selon les lois de la thermodynamique </text:span><text:span text:style-name="T14">que l’on peut donner sous la forme générale</text:span><text:span text:style-name="T17">. </text:span><text:span text:style-name="T17"><draw:frame draw:style-name="fr2" draw:name="Objet1" text:anchor-type="as-char" svg:y="-0.388cm" svg:width="2.764cm" svg:height="0.512cm" draw:z-index="11"><draw:object>
+       <math xmlns="http://www.w3.org/1998/Math/MathML" display="block">
+        <semantics>
+         <mrow>
+          <mi mathvariant="normal">Π</mi>
+          <mrow>
+           <mrow>
+            <mo fence="true" form="prefix" stretchy="false">(</mo>
+            <mrow>
+             <mrow>
+              <mi mathvariant="normal">Δ</mi>
+              <mi>θ</mi>
+             </mrow>
+            </mrow>
+            <mo fence="true" form="postfix" stretchy="false">)</mo>
+           </mrow>
+           <mo stretchy="false">=</mo>
+           <mrow>
+            <mi>K</mi>
+            <mo stretchy="false">∗</mo>
+            <mi mathvariant="normal">Δ</mi>
+           </mrow>
+          </mrow>
+          <mi>θ</mi>
+         </mrow>
+         <annotation encoding="StarMath 5.0">%PI (%DELTA %theta ) =  K * %DELTA %theta</annotation>
+        </semantics>
+       </math>
+      </draw:object><draw:image>
+       <office:binary-data>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
+        AAAAAA==
+       </office:binary-data>
+      </draw:image>
+      <svg:desc>formule</svg:desc>
+     </draw:frame></text:span><text:span text:style-name="T17"><text:s/></text:span><text:span text:style-name="T18">avec</text:span><text:span text:style-name="T17"> K = U </text:span><text:span text:style-name="T18">* </text:span><text:span text:style-name="T17">A + 0.33 </text:span><text:span text:style-name="T18">* </text:span><text:span text:style-name="T17">A</text:span><text:span text:style-name="T19">ch</text:span><text:span text:style-name="T17"> </text:span><text:span text:style-name="T18">* </text:span><text:span text:style-name="T17">V</text:span></text:p>
    <text:list text:style-name="L2">
     <text:list-item>
-     <text:p text:style-name="P148">Vidéo de présentation.</text:p>
+     <text:p text:style-name="P25"><text:span text:style-name="Strong_20_Emphasis">U</text:span> (W/m²·K):<text:line-break/><text:span text:style-name="T5">Transmittance thermique de l’enveloppe extérieure du bâtiment</text:span><text:span text:style-name="Emphasis"><text:span text:style-name="T5">. Dépends de l’isolation.</text:span></text:span></text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P148">Site internet plus friendly.</text:p>
+     <text:p text:style-name="P26"><text:span text:style-name="Strong_20_Emphasis">A</text:span> (m²):<text:line-break/><text:span text:style-name="T5">Aire de l’enveloppe extérieure du bâtiment</text:span>.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P148">Documentation (elle n’est pas encore en français.)</text:p>
+     <text:p text:style-name="P25"><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T17">A</text:span></text:span><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T19">ch</text:span></text:span> <text:span text:style-name="T5">A</text:span>ir changes per hour : <text:span text:style-name="T5">Les infiltrations d’air</text:span></text:p>
+     <text:p text:style-name="P25"><text:span text:style-name="T5">Valeur typiques</text:span><text:span text:style-name="Emphasis">: 0.5 (</text:span><text:span text:style-name="Emphasis"><text:span text:style-name="T5">bien fermé</text:span></text:span><text:span text:style-name="Emphasis">) to 2.0 (</text:span><text:span text:style-name="Emphasis"><text:span text:style-name="T5">ouverte aux courants d’air</text:span></text:span><text:span text:style-name="Emphasis">).</text:span></text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P148">Promotion.</text:p>
+     <text:p text:style-name="P26"><text:span text:style-name="Strong_20_Emphasis">V</text:span> (m³):<text:line-break/>Volume <text:span text:style-name="T5">de la maison</text:span>.</text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P26"><text:span text:style-name="Strong_20_Emphasis">0.33:</text:span><text:line-break/><text:span text:style-name="T5">Facteur de conversion</text:span></text:p>
     </text:list-item>
    </text:list>
-   <text:p text:style-name="P121"/>
+   <text:p text:style-name="P24"><text:span text:style-name="T20"/></text:p>
+   <text:p text:style-name="P27"><text:span text:style-name="T9">Cette fonction donne, </text:span><text:span text:style-name="T21">pour une puissance </text:span><text:span text:style-name="T17">maximale </text:span><text:span text:style-name="T14">(P</text:span><text:span text:style-name="T22">max</text:span><text:span text:style-name="T16"> en Kw</text:span><text:span text:style-name="T14">)</text:span><text:span text:style-name="T17"> de chauffe </text:span><text:span text:style-name="T21">et une capacité de la maison C, la formule : </text:span><text:span text:style-name="T17"><draw:frame draw:style-name="fr2" draw:name="Objet5" text:anchor-type="as-char" svg:y="-0.781cm" svg:width="3.496cm" svg:height="1.277cm" draw:z-index="12"><draw:object>
+       <math xmlns="http://www.w3.org/1998/Math/MathML" display="block">
+        <semantics>
+         <mrow>
+          <mrow>
+           <munderover>
+            <mo stretchy="false">∫</mo>
+            <mrow>
+             <mi mathvariant="normal">Δ</mi>
+             <msub>
+              <mi>θ</mi>
+              <mn>1</mn>
+             </msub>
+            </mrow>
+            <mrow>
+             <mi mathvariant="normal">Δ</mi>
+             <msub>
+              <mi>θ</mi>
+              <mn>2</mn>
+             </msub>
+            </mrow>
+           </munderover>
+           <mfrac>
+            <mi>C</mi>
+            <mrow>
+             <mrow>
+              <msub>
+               <mi>P</mi>
+               <mi mathvariant="italic">max</mi>
+              </msub>
+              <mo stretchy="false">−</mo>
+              <mrow>
+               <mi>K</mi>
+               <mo stretchy="false">∗</mo>
+               <mi mathvariant="normal">Δ</mi>
+              </mrow>
+             </mrow>
+             <mi>θ</mi>
+            </mrow>
+           </mfrac>
+          </mrow>
+          <mo stretchy="false">=</mo>
+          <msub>
+           <mi>t</mi>
+           <mn>1</mn>
+          </msub>
+         </mrow>
+         <annotation encoding="StarMath 5.0">int from{%DELTA %theta_1} to{%DELTA %theta_2} {{ C } over { P_max - K * %DELTA %theta }} = t_1</annotation>
+        </semantics>
+       </math>
+      </draw:object><draw:image>
+       <office:binary-data>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
+       </office:binary-data>
+      </draw:image>
+      <svg:desc>formule</svg:desc>
+     </draw:frame></text:span></text:p>
+   <text:p text:style-name="P28"><text:span text:style-name="T9">Cette intégrale, et donc la courbe par la pente, peut se calculer par un cycle de chauffe </text:span><text:span text:style-name="T21">à pleine puissance</text:span><text:span text:style-name="T9">.</text:span></text:p>
+   <text:p text:style-name="P28"><text:span text:style-name="T9"/></text:p>
+   <text:p text:style-name="P18"><text:span text:style-name="T9">L’énergie </text:span><text:span text:style-name="T9"><draw:frame draw:style-name="fr3" draw:name="Objet4" text:anchor-type="as-char" svg:y="-0.379cm" svg:width="0.212cm" svg:height="0.471cm" draw:z-index="15"><draw:object>
+       <math xmlns="http://www.w3.org/1998/Math/MathML" display="block">
+        <semantics>
+         <mi>ξ</mi>
+         <annotation encoding="StarMath 5.0">%xi</annotation>
+        </semantics>
+       </math>
+      </draw:object><draw:image>
+       <office:binary-data>VkNMTVRGAQAxAAAAAAAAAAEAGwAAAAkAAAAAAAAAAAABAAAAAQAAAAEAAAABAAAAAXgAAAAL
+        AQAADwAAAJYAAQACAAAACQCLAAEAAgAAAP//gQABABAAAAAAAAAAAAAAAHcAAAAKAQAAiwAB
+        AAIAAAAAGJUAAQAEAAAAAAAAAJYAAQACAAAACQCLAAEAAgAAAB8AigABAEgAAAAFAEIAAAAQ
+        AExpYmVyYXRpb24gU2VyaWYAAAAAAADwAAAAAAAAAAAABQAAAAAAAgD/AwAAAAAAAAABAP8D
+        AAAAAAAAAAAAAACIAAEAAgAAAAEAhwABAAUAAAD/////AIYAAQAEAAAAAAAAAHIAAgAYAAAA
+        BAAAANcAAAACAM6+ZwAAAAAAAQABAL4DjAABAAAAAACMAAEAAAAAAIwAAQAAAAAA
+       </office:binary-data>
+      </draw:image>
+     </draw:frame></text:span><text:span text:style-name="T9"><text:s/>à apporter pour passer d’une température à une autre se donne par :</text:span></text:p>
+   <text:p text:style-name="P28"><text:span text:style-name="T9"/></text:p>
+   <text:p text:style-name="P28"><text:span text:style-name="T9"><draw:frame draw:style-name="fr3" draw:name="Objet2" text:anchor-type="as-char" svg:y="-0.684cm" svg:width="5.08cm" svg:height="1.131cm" draw:z-index="14"><draw:object>
+       <math xmlns="http://www.w3.org/1998/Math/MathML" display="block">
+        <semantics>
+         <mrow>
+          <mrow>
+           <mi>ξ</mi>
+           <mo stretchy="false">=</mo>
+           <mfrac>
+            <mrow>
+             <mo stretchy="false">−</mo>
+             <mrow>
+              <msub>
+               <mi>P</mi>
+               <mi mathvariant="italic">max</mi>
+              </msub>
+              <mi>C</mi>
+             </mrow>
+            </mrow>
+            <mi>K</mi>
+           </mfrac>
+          </mrow>
+          <mi>ln</mi>
+          <mrow>
+           <mo fence="true" form="prefix" stretchy="false">(</mo>
+           <mrow>
+            <mfrac>
+             <mrow>
+              <mrow>
+               <msub>
+                <mi>P</mi>
+                <mi mathvariant="italic">max</mi>
+               </msub>
+               <mo stretchy="false">−</mo>
+               <mi>K</mi>
+              </mrow>
+              <mi mathvariant="normal">Δ</mi>
+              <msub>
+               <mi>θ</mi>
+               <mn>2</mn>
+              </msub>
+             </mrow>
+             <mrow>
+              <mrow>
+               <msub>
+                <mi>P</mi>
+                <mi mathvariant="italic">max</mi>
+               </msub>
+               <mo stretchy="false">−</mo>
+               <mi>K</mi>
+              </mrow>
+              <mi mathvariant="normal">Δ</mi>
+              <msub>
+               <mi>θ</mi>
+               <mn>1</mn>
+              </msub>
+             </mrow>
+            </mfrac>
+           </mrow>
+           <mo fence="true" form="postfix" stretchy="false">)</mo>
+          </mrow>
+         </mrow>
+         <annotation encoding="StarMath 5.0">%xi = - { P_max C } over K ln({P_max - K %DELTA %theta_2} over {P_max - K %DELTA %theta_1} )</annotation>
+        </semantics>
+       </math>
+      </draw:object><draw:image>
+       <office:binary-data>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
+        AAEAAAAAAIwAAQAAAAAAjAABAAAAAAA=
+       </office:binary-data>
+      </draw:image>
+     </draw:frame></text:span></text:p>
+   <text:p text:style-name="P28"><text:span text:style-name="T9"/></text:p>
+   <text:h text:style-name="Heading_20_2" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc728_1046565995"/>Fonction de temps <text:span text:style-name="T23">(</text:span><text:span text:style-name="T23"><draw:frame draw:style-name="fr2" draw:name="Objet9" text:anchor-type="as-char" svg:y="-0.379cm" svg:width="0.33cm" svg:height="0.471cm" draw:z-index="13"><draw:object>
+       <math xmlns="http://www.w3.org/1998/Math/MathML" display="block">
+        <semantics>
+         <mi mathvariant="normal">Φ</mi>
+         <annotation encoding="StarMath 5.0">%PHI</annotation>
+        </semantics>
+       </math>
+      </draw:object><draw:image>
+       <office:binary-data>VkNMTVRGAQAxAAAAAAAAAAEAGwAAAAkAAAAAAAAAAAABAAAAAQAAAAEAAAABAAAAAbsAAAAL
+        AQAADwAAAJYAAQACAAAACQCLAAEAAgAAAP//gQABABAAAAAAAAAAAAAAALoAAAAKAQAAiwAB
+        AAIAAAAAGJUAAQAEAAAAAAAAAJYAAQACAAAACQCLAAEAAgAAAB8AigABAEgAAAAFAEIAAAAQ
+        AExpYmVyYXRpb24gU2VyaWYAAAAAAADwAAAAAAAAAAAABQAAAAAAAAD/AwAAAAAAAAABAP8D
+        AAAAAAAAAAAAAACIAAEAAgAAAAEAhwABAAUAAAD/////AIYAAQAEAAAAAAAAAHIAAgAYAAAA
+        BQAAANcAAAACAM6mrwAAAAAAAQABAKYDjAABAAAAAACMAAEAAAAAAIwAAQAAAAAA
+       </office:binary-data>
+      </draw:image>
+     </draw:frame></text:span><text:span text:style-name="T23">)</text:span><text:bookmark-end text:name="__RefHeading___Toc728_1046565995"/></text:h>
+   <text:p text:style-name="P29"><text:span text:style-name="T24">Une fois à une température atteinte, la maison se refroidit lentement en un temps </text:span><text:span text:style-name="T23">(noté </text:span><text:span text:style-name="T17">t</text:span><text:span text:style-name="T14">)</text:span><text:span text:style-name="T17"> avant d’atteindre un <text:s/></text:span><text:span text:style-name="T10">Δθ </text:span><text:span text:style-name="T17">= 0. Cela donne une autre courbe de </text:span><text:span text:style-name="T25">forme</text:span><text:span text:style-name="T17"> inverse</text:span><text:span text:style-name="T25">ment proportionnelle à </text:span><text:span text:style-name="T10">Δθ </text:span><text:span text:style-name="T14">que l’on peut donner sous la forme générale</text:span><text:span text:style-name="T17">.</text:span></text:p>
+   <text:p text:style-name="P19"><text:span text:style-name="T9">L’intégrale de cette fonction donne le temps qu’il faut pour passer d’une température donnée à une autre par refroidissement. Elle peut donc aisément se déduire d’un cycle de </text:span><text:soft-page-break/><text:span text:style-name="T9">refroidissement par la pente (et tient compte de l’inertie à condition de partir d’un état stable).</text:span><text:span text:style-name="T9"><draw:frame draw:style-name="fr2" draw:name="Objet3" text:anchor-type="as-char" svg:y="-0.781cm" svg:width="2.406cm" svg:height="1.277cm" draw:z-index="4"><draw:object>
+       <math xmlns="http://www.w3.org/1998/Math/MathML" display="block">
+        <semantics>
+         <mrow>
+          <mrow>
+           <munderover>
+            <mo stretchy="false">∫</mo>
+            <mrow>
+             <mi mathvariant="normal">Δ</mi>
+             <msub>
+              <mi>θ</mi>
+              <mn>1</mn>
+             </msub>
+            </mrow>
+            <mrow>
+             <mi mathvariant="normal">Δ</mi>
+             <msub>
+              <mi>θ</mi>
+              <mn>2</mn>
+             </msub>
+            </mrow>
+           </munderover>
+           <mfrac>
+            <mi>C</mi>
+            <mrow>
+             <mrow>
+              <mi>K</mi>
+              <mo stretchy="false">∗</mo>
+              <mi mathvariant="normal">Δ</mi>
+             </mrow>
+             <mi>θ</mi>
+            </mrow>
+           </mfrac>
+          </mrow>
+          <mo stretchy="false">=</mo>
+          <msub>
+           <mi>t</mi>
+           <mn>2</mn>
+          </msub>
+         </mrow>
+         <annotation encoding="StarMath 5.0">int from{%DELTA %theta_1} to{%DELTA %theta_2} {{ C } over {K * %DELTA %theta} } = t_2</annotation>
+        </semantics>
+       </math>
+      </draw:object><draw:image>
+       <office:binary-data>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
+       </office:binary-data>
+      </draw:image>
+      <svg:desc>formule</svg:desc>
+     </draw:frame></text:span></text:p>
+   <text:p text:style-name="P30"><text:span text:style-name="T9">PS : Les 2 fonctions sont intimement liées puisqu’il s’agit ici d’une perte de température en fonction du temps, donc une perte d’énergie, énergie qui correspond à celle nécessaire pour maintenir la température. L’une se dédui</text:span><text:span text:style-name="T21">t</text:span><text:span text:style-name="T9"> de l’autre.</text:span></text:p>
+   <text:h text:style-name="Heading_20_2" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc730_1046565995"/>Optimisation<text:bookmark-end text:name="__RefHeading___Toc730_1046565995"/></text:h>
+   <text:p text:style-name="P19">En partant de ces 2 courbes On peut déterminer la consommation électrique et le temps nécessaire pour chauffer (C<text:span text:style-name="T26">1</text:span> &amp; t<text:span text:style-name="T26">1</text:span>) puis laisser refroidir (C<text:span text:style-name="T26">2</text:span><text:span text:style-name="T27">=0</text:span> &amp; t<text:span text:style-name="T26">2</text:span>) la maison en partant d’une température <text:span text:style-name="T23">(</text:span><text:span text:style-name="T23"><draw:frame draw:style-name="fr2" draw:name="Objet10" text:anchor-type="as-char" svg:y="-0.379cm" svg:width="0.679cm" svg:height="0.534cm" draw:z-index="6"><draw:object>
+       <math xmlns="http://www.w3.org/1998/Math/MathML" display="block">
+        <semantics>
+         <mrow>
+          <mi mathvariant="normal">Δ</mi>
+          <msub>
+           <mi>θ</mi>
+           <mn>1</mn>
+          </msub>
+         </mrow>
+         <annotation encoding="StarMath 5.0">%DELTA %theta_1</annotation>
+        </semantics>
+       </math>
+      </draw:object><draw:image>
+       <office:binary-data>VkNMTVRGAQAxAAAAAAAAAAEAGwAAAAkAAAAAAAAAAAABAAAAAQAAAAEAAAABAAAAAYEBAAAv
+        AQAAHQAAAJYAAQACAAAACQCLAAEAAgAAAP//gQABABAAAAAAAAAAAAAAAIABAAAuAQAAiwAB
+        AAIAAAAAGJUAAQAEAAAAAAAAAJYAAQACAAAACQCLAAEAAgAAAB8AigABAEgAAAAFAEIAAAAQ
+        AExpYmVyYXRpb24gU2VyaWYAAAAAAADwAAAAAAAAAAAABQAAAAAAAAD/AwAAAAAAAAABAP8D
+        AAAAAAAAAAAAAACIAAEAAgAAAAEAhwABAAUAAAD/////AIYAAQAEAAAAAAAAAHIAAgAYAAAA
+        AwAAANcAAAACAM6UmgAAAAAAAQABAJQDjAABAAAAAACLAAEAAgAAAB8AigABAEgAAAAFAEIA
+        AAAQAExpYmVyYXRpb24gU2VyaWYAAAAAAADwAAAAAAAAAAAABQAAAAAAAgD/AwAAAAAAAAAB
+        AP8DAAAAAAAAAAAAAACIAAEAAgAAAAEAhwABAAUAAAD/////AIYAAQAEAAAAAAAAAHIAAgAY
+        AAAAuwAAANcAAAACAM64dgAAAAAAAQABALgDjAABAAAAAACLAAEAAgAAAB8AigABAEgAAAAF
+        AEIAAAAQAExpYmVyYXRpb24gU2VyaWYAAAAAAACQAAAAAAAAAAAABQAAAAAAAAD/AwAAAAAA
+        AAABAP8DAAAAAAAAAAAAAACIAAEAAgAAAAEAhwABAAUAAAD/////AIYAAQAEAAAAAAAAAHIA
+        AgAXAAAAOQEAAA8BAAABADFIAAAAAAABAAEAMQCMAAEAAAAAAIwAAQAAAAAAjAABAAAAAAA=
+       </office:binary-data>
+      </draw:image>
+      <svg:desc>formule</svg:desc>
+     </draw:frame></text:span><text:span text:style-name="T23">)</text:span> pour aller vers une autre <text:span text:style-name="T23">(</text:span><text:span text:style-name="T23"><draw:frame draw:style-name="fr2" draw:name="Objet11" text:anchor-type="as-char" svg:y="-0.379cm" svg:width="0.683cm" svg:height="0.534cm" draw:z-index="7"><draw:object>
+       <math xmlns="http://www.w3.org/1998/Math/MathML" display="block">
+        <semantics>
+         <mrow>
+          <mi mathvariant="normal">Δ</mi>
+          <msub>
+           <mi>θ</mi>
+           <mn>2</mn>
+          </msub>
+         </mrow>
+         <annotation encoding="StarMath 5.0">%DELTA %theta_2</annotation>
+        </semantics>
+       </math>
+      </draw:object><draw:image>
+       <office:binary-data>VkNMTVRGAQAxAAAAAAAAAAEAGwAAAAkAAAAAAAAAAAABAAAAAQAAAAEAAAABAAAAAYMBAAAv
+        AQAAHQAAAJYAAQACAAAACQCLAAEAAgAAAP//gQABABAAAAAAAAAAAAAAAIIBAAAuAQAAiwAB
+        AAIAAAAAGJUAAQAEAAAAAAAAAJYAAQACAAAACQCLAAEAAgAAAB8AigABAEgAAAAFAEIAAAAQ
+        AExpYmVyYXRpb24gU2VyaWYAAAAAAADwAAAAAAAAAAAABQAAAAAAAAD/AwAAAAAAAAABAP8D
+        AAAAAAAAAAAAAACIAAEAAgAAAAEAhwABAAUAAAD/////AIYAAQAEAAAAAAAAAHIAAgAYAAAA
+        AwAAANcAAAACAM6UmgAAAAAAAQABAJQDjAABAAAAAACLAAEAAgAAAB8AigABAEgAAAAFAEIA
+        AAAQAExpYmVyYXRpb24gU2VyaWYAAAAAAADwAAAAAAAAAAAABQAAAAAAAgD/AwAAAAAAAAAB
+        AP8DAAAAAAAAAAAAAACIAAEAAgAAAAEAhwABAAUAAAD/////AIYAAQAEAAAAAAAAAHIAAgAY
+        AAAAuwAAANcAAAACAM64dgAAAAAAAQABALgDjAABAAAAAACLAAEAAgAAAB8AigABAEgAAAAF
+        AEIAAAAQAExpYmVyYXRpb24gU2VyaWYAAAAAAACQAAAAAAAAAAAABQAAAAAAAAD/AwAAAAAA
+        AAABAP8DAAAAAAAAAAAAAACIAAEAAgAAAAEAhwABAAUAAAD/////AIYAAQAEAAAAAAAAAHIA
+        AgAXAAAAOgEAAA8BAAABADJIAAAAAAABAAEAMgCMAAEAAAAAAIwAAQAAAAAAjAABAAAAAAA=
+       </office:binary-data>
+      </draw:image>
+      <svg:desc>formule</svg:desc>
+     </draw:frame></text:span><text:span text:style-name="T23">)</text:span>. On peut aussi déterminer la consommation électrique pour maintenir la température minimale C<text:span text:style-name="T26">3</text:span>. On en déduit la surconsommation électrique de la surchauffe… qui doit être compensé par un prix moindre en heures-creuses. La température de départ est nécessairement celle minimale, il s’agira de déterminer la température maximale optimale.</text:p>
+   <text:p text:style-name="P19">Soit p<text:span text:style-name="T26">c</text:span> le prix en heures-creuses et p<text:span text:style-name="T26">p</text:span> celui en heures pleines.</text:p>
+   <text:p text:style-name="P19"><text:span text:style-name="T26"><draw:frame draw:style-name="fr2" draw:name="Objet8" text:anchor-type="as-char" svg:y="-0.379cm" svg:width="1.977cm" svg:height="0.534cm" draw:z-index="9"><draw:object>
+       <math xmlns="http://www.w3.org/1998/Math/MathML" display="block">
+        <semantics>
+         <mrow>
+          <msub>
+           <mi>P</mi>
+           <mi mathvariant="italic">max</mi>
+          </msub>
+          <mo stretchy="false">∗</mo>
+          <msub>
+           <mi>p</mi>
+           <mi>c</mi>
+          </msub>
+          <mo stretchy="false">∗</mo>
+          <msub>
+           <mi>t</mi>
+           <mn>1</mn>
+          </msub>
+         </mrow>
+         <annotation encoding="StarMath 5.0">P_max * p_c * t_1</annotation>
+        </semantics>
+       </math>
+      </draw:object><draw:image>
+       <office:binary-data>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
+        AAEAAAAAAA==
+       </office:binary-data>
+      </draw:image>
+      <svg:desc>formule</svg:desc>
+     </draw:frame></text:span><text:span text:style-name="T27"><text:s/>VS <text:s/></text:span><text:span text:style-name="T28"><draw:frame draw:style-name="fr2" draw:name="Objet7" text:anchor-type="as-char" svg:y="-0.388cm" svg:width="6.468cm" svg:height="0.543cm" draw:z-index="10"><draw:object>
+       <math xmlns="http://www.w3.org/1998/Math/MathML" display="block">
+        <semantics>
+         <mrow>
+          <mrow>
+           <mrow>
+            <msub>
+             <mi>C</mi>
+             <mn>3</mn>
+            </msub>
+            <mo stretchy="false">∗</mo>
+            <msub>
+             <mi>p</mi>
+             <mi>p</mi>
+            </msub>
+            <mo stretchy="false">∗</mo>
+            <mrow>
+             <mo fence="true" form="prefix" stretchy="false">(</mo>
+             <mrow>
+              <mrow>
+               <msub>
+                <mi>t</mi>
+                <mn>1</mn>
+               </msub>
+               <mo stretchy="false">+</mo>
+               <msub>
+                <mi>t</mi>
+                <mn>2</mn>
+               </msub>
+              </mrow>
+             </mrow>
+             <mo fence="true" form="postfix" stretchy="false">)</mo>
+            </mrow>
+           </mrow>
+           <mo stretchy="false">=</mo>
+           <mi mathvariant="normal">Π</mi>
+          </mrow>
+          <mrow>
+           <mrow>
+            <mo fence="true" form="prefix" stretchy="false">(</mo>
+            <mrow>
+             <mrow>
+              <mi mathvariant="normal">Δ</mi>
+              <msub>
+               <mi>θ</mi>
+               <mn>1</mn>
+              </msub>
+             </mrow>
+            </mrow>
+            <mo fence="true" form="postfix" stretchy="false">)</mo>
+           </mrow>
+           <mo stretchy="false">∗</mo>
+           <msub>
+            <mi>p</mi>
+            <mi>p</mi>
+           </msub>
+           <mo stretchy="false">∗</mo>
+           <mrow>
+            <mo fence="true" form="prefix" stretchy="false">(</mo>
+            <mrow>
+             <mrow>
+              <msub>
+               <mi>t</mi>
+               <mn>1</mn>
+              </msub>
+              <mo stretchy="false">+</mo>
+              <msub>
+               <mi>t</mi>
+               <mn>2</mn>
+              </msub>
+             </mrow>
+            </mrow>
+            <mo fence="true" form="postfix" stretchy="false">)</mo>
+           </mrow>
+          </mrow>
+         </mrow>
+         <annotation encoding="StarMath 5.0">C_3 * p_p * (t_1 + t_2) = %PI(%DELTA %theta_1) * p_p * (t_1 + t_2)
+</annotation>
+        </semantics>
+       </math>
+      </draw:object><draw:image>
+       <office:binary-data>VkNMTVRGAQAxAAAAAAAAAAEAGwAAAAkAAAAAAAAAAAABAAAAAQAAAAEAAAABAAAAAVMOAAA0
+        AQAA4QAAAJYAAQACAAAACQCLAAEAAgAAAP//gQABABAAAAAAAAAAAAAAAFIOAAAzAQAAiwAB
+        AAIAAAAAGJUAAQAEAAAAAAAAAJYAAQACAAAACQCLAAEAAgAAAB8AigABAEgAAAAFAEIAAAAQ
+        AExpYmVyYXRpb24gU2VyaWYAAAAAAADwAAAAAAAAAAAABQAAAAAAAgD/AwAAAAAAAAABAP8D
+        AAAAAAAAAAAAAACIAAEAAgAAAAEAhwABAAUAAAD/////AIYAAQAEAAAAAAAAAHIAAgAXAAAA
+        AAAAANwAAAABAEOgAAAAAAABAAEAQwCMAAEAAAAAAIsAAQACAAAAHwCKAAEASAAAAAUAQgAA
+        ABAATGliZXJhdGlvbiBTZXJpZgAAAAAAAJAAAAAAAAAAAAAFAAAAAAAAAP8DAAAAAAAAAAEA
+        /wMAAAAAAAAAAAAAAIgAAQACAAAAAQCHAAEABQAAAP////8AhgABAAQAAAAAAAAAcgACABcA
+        AACxAAAAFAEAAAEAM0gAAAAAAAEAAQAzAIwAAQAAAAAAiwABAAIAAAAfAIoAAQBCAAAABQA8
+        AAAACgBPcGVuU3ltYm9sAAAAAAAA8AAAAP//AAAAAAUAAAAAAAAA/wMAAAAAAAAAAQD/AwAA
+        AAAAAAAAAAAAiAABAAIAAAABAIcAAQAFAAAA/////wCGAAEABAAAAAAAAAByAAIAGgAAAPQA
+        AADcAAAAAQAAABcirQAAAAAAAQABABcijAABAAAAAACLAAEAAgAAAB8AigABAEgAAAAFAEIA
+        AAAQAExpYmVyYXRpb24gU2VyaWYAAAAAAADwAAAAAAAAAAAABQAAAAAAAgD/AwAAAAAAAAAB
+        AP8DAAAAAAAAAAAAAACIAAEAAgAAAAEAhwABAAUAAAD/////AIYAAQAEAAAAAAAAAHIAAgAX
+        AAAAtgEAANwAAAABAHB4AAAAAAABAAEAcACMAAEAAAAAAIsAAQACAAAAHwCKAAEASAAAAAUA
+        QgAAABAATGliZXJhdGlvbiBTZXJpZgAAAAAAAJAAAAAAAAAAAAAFAAAAAAACAP8DAAAAAAAA
+        AAEA/wMAAAAAAAAAAAAAAIgAAQACAAAAAQCHAAEABQAAAP////8AhgABAAQAAAAAAAAAcgAC
+        ABcAAABEAgAAFAEAAAEAcEgAAAAAAAEAAQBwAIwAAQAAAAAAiwABAAIAAAAfAIoAAQBCAAAA
+        BQA8AAAACgBPcGVuU3ltYm9sAAAAAAAA8AAAAP//AAAAAAUAAAAAAAAA/wMAAAAAAAAAAQD/
+        AwAAAAAAAAAAAAAAiAABAAIAAAABAIcAAQAFAAAA/////wCGAAEABAAAAAAAAAByAAIAGgAA
+        AIgCAADcAAAAAQAAABcirQAAAAAAAQABABcijAABAAAAAACLAAEAAgAAAB8AigABAEIAAAAF
+        ADwAAAAKAE9wZW5TeW1ib2wAAAAAAADwAAAA//8AAAAABQAAAAAAAAD/AwAAAAAAAAABAP8D
+        AAAAAAAAAAAAAACIAAEAAgAAAAEAhwABAAUAAAD/////AIYAAQAEAAAAAAAAAHIAAgAaAAAA
+        JwMAANwAAAABAAAAKABSAAAAAAABAAEAKACMAAEAAAAAAIsAAQACAAAAHwCKAAEASAAAAAUA
+        QgAAABAATGliZXJhdGlvbiBTZXJpZgAAAAAAAPAAAAAAAAAAAAAFAAAAAAACAP8DAAAAAAAA
+        AAEA/wMAAAAAAAAAAAAAAIgAAQACAAAAAQCHAAEABQAAAP////8AhgABAAQAAAAAAAAAcgAC
+        ABcAAACGAwAA3AAAAAEAdEMAAAAAAAEAAQB0AIwAAQAAAAAAiwABAAIAAAAfAIoAAQBIAAAA
+        BQBCAAAAEABMaWJlcmF0aW9uIFNlcmlmAAAAAAAAkAAAAAAAAAAAAAUAAAAAAAAA/wMAAAAA
+        AAAAAQD/AwAAAAAAAAAAAAAAiAABAAIAAAABAIcAAQAFAAAA/////wCGAAEABAAAAAAAAABy
+        AAIAFwAAANsDAAAUAQAAAQAxSAAAAAAAAQABADEAjAABAAAAAACLAAEAAgAAAB8AigABAEIA
+        AAAFADwAAAAKAE9wZW5TeW1ib2wAAAAAAADwAAAA//8AAAAABQAAAAAAAAD/AwAAAAAAAAAB
+        AP8DAAAAAAAAAAAAAACIAAEAAgAAAAEAhwABAAUAAAD/////AIYAAQAEAAAAAAAAAHIAAgAa
+        AAAAMAQAANwAAAABAAAAKwCMAAAAAAABAAEAKwCMAAEAAAAAAIsAAQACAAAAHwCKAAEASAAA
+        AAUAQgAAABAATGliZXJhdGlvbiBTZXJpZgAAAAAAAPAAAAAAAAAAAAAFAAAAAAACAP8DAAAA
+        AAAAAAEA/wMAAAAAAAAAAAAAAIgAAQACAAAAAQCHAAEABQAAAP////8AhgABAAQAAAAAAAAA
+        cgACABcAAADMBAAA3AAAAAEAdEMAAAAAAAEAAQB0AIwAAQAAAAAAiwABAAIAAAAfAIoAAQBI
+        AAAABQBCAAAAEABMaWJlcmF0aW9uIFNlcmlmAAAAAAAAkAAAAAAAAAAAAAUAAAAAAAAA/wMA
+        AAAAAAAAAQD/AwAAAAAAAAAAAAAAiAABAAIAAAABAIcAAQAFAAAA/////wCGAAEABAAAAAAA
+        AAByAAIAFwAAACIFAAAUAQAAAQAySAAAAAAAAQABADIAjAABAAAAAACLAAEAAgAAAB8AigAB
+        AEIAAAAFADwAAAAKAE9wZW5TeW1ib2wAAAAAAADwAAAA//8AAAAABQAAAAAAAAD/AwAAAAAA
+        AAABAP8DAAAAAAAAAAAAAACIAAEAAgAAAAEAhwABAAUAAAD/////AIYAAQAEAAAAAAAAAHIA
+        AgAaAAAAdQUAANwAAAABAAAAKQBSAAAAAAABAAEAKQCMAAEAAAAAAIsAAQACAAAAHwCKAAEA
+        QgAAAAUAPAAAAAoAT3BlblN5bWJvbAAAAAAAAPAAAAD//wAAAAAFAAAAAAAAAP8DAAAAAAAA
+        AAEA/wMAAAAAAAAAAAAAAIgAAQACAAAAAQCHAAEABQAAAP////8AhgABAAQAAAAAAAAAcgAC
+        ABoAAADGBQAA3AAAAAEAAAA9AL8AAAAAAAEAAQA9AIwAAQAAAAAAiwABAAIAAAAfAIoAAQBI
+        AAAABQBCAAAAEABMaWJlcmF0aW9uIFNlcmlmAAAAAAAA8AAAAAAAAAAAAAUAAAAAAAAA/wMA
+        AAAAAAAAAQD/AwAAAAAAAAAAAAAAiAABAAIAAAABAIcAAQAFAAAA/////wCGAAEABAAAAAAA
+        AAByAAIAGAAAAJEGAADcAAAAAgDOoK0AAAAAAAEAAQCgA4wAAQAAAAAAiwABAAIAAAAfAIoA
+        AQBCAAAABQA8AAAACgBPcGVuU3ltYm9sAAAAAAAA8AAAAP//AAAAAAUAAAAAAAAA/wMAAAAA
+        AAAAAQD/AwAAAAAAAAAAAAAAiAABAAIAAAABAIcAAQAFAAAA/////wCGAAEABAAAAAAAAABy
+        AAIAGgAAAFUHAADcAAAAAQAAACgAUgAAAAAAAQABACgAjAABAAAAAACLAAEAAgAAAB8AigAB
+        AEgAAAAFAEIAAAAQAExpYmVyYXRpb24gU2VyaWYAAAAAAADwAAAAAAAAAAAABQAAAAAAAAD/
+        AwAAAAAAAAABAP8DAAAAAAAAAAAAAACIAAEAAgAAAAEAhwABAAUAAAD/////AIYAAQAEAAAA
+        AAAAAHIAAgAYAAAAtQcAANwAAAACAM6UmgAAAAAAAQABAJQDjAABAAAAAACLAAEAAgAAAB8A
+        igABAEgAAAAFAEIAAAAQAExpYmVyYXRpb24gU2VyaWYAAAAAAADwAAAAAAAAAAAABQAAAAAA
+        AgD/AwAAAAAAAAABAP8DAAAAAAAAAAAAAACIAAEAAgAAAAEAhwABAAUAAAD/////AIYAAQAE
+        AAAAAAAAAHIAAgAYAAAAbQgAANwAAAACAM64dgAAAAAAAQABALgDjAABAAAAAACLAAEAAgAA
+        AB8AigABAEgAAAAFAEIAAAAQAExpYmVyYXRpb24gU2VyaWYAAAAAAACQAAAAAAAAAAAABQAA
+        AAAAAAD/AwAAAAAAAAABAP8DAAAAAAAAAAAAAACIAAEAAgAAAAEAhwABAAUAAAD/////AIYA
+        AQAEAAAAAAAAAHIAAgAXAAAA6wgAABQBAAABADFIAAAAAAABAAEAMQCMAAEAAAAAAIsAAQAC
+        AAAAHwCKAAEAQgAAAAUAPAAAAAoAT3BlblN5bWJvbAAAAAAAAPAAAAD//wAAAAAFAAAAAAAA
+        AP8DAAAAAAAAAAEA/wMAAAAAAAAAAAAAAIgAAQACAAAAAQCHAAEABQAAAP////8AhgABAAQA
+        AAAAAAAAcgACABoAAAA9CQAA3AAAAAEAAAApAFIAAAAAAAEAAQApAIwAAQAAAAAAiwABAAIA
+        AAAfAIoAAQBCAAAABQA8AAAACgBPcGVuU3ltYm9sAAAAAAAA8AAAAP//AAAAAAUAAAAAAAAA
+        /wMAAAAAAAAAAQD/AwAAAAAAAAAAAAAAiAABAAIAAAABAIcAAQAFAAAA/////wCGAAEABAAA
+        AAAAAAByAAIAGgAAAIAJAADcAAAAAQAAABcirQAAAAAAAQABABcijAABAAAAAACLAAEAAgAA
+        AB8AigABAEgAAAAFAEIAAAAQAExpYmVyYXRpb24gU2VyaWYAAAAAAADwAAAAAAAAAAAABQAA
+        AAAAAgD/AwAAAAAAAAABAP8DAAAAAAAAAAAAAACIAAEAAgAAAAEAhwABAAUAAAD/////AIYA
+        AQAEAAAAAAAAAHIAAgAXAAAAQgoAANwAAAABAHB4AAAAAAABAAEAcACMAAEAAAAAAIsAAQAC
+        AAAAHwCKAAEASAAAAAUAQgAAABAATGliZXJhdGlvbiBTZXJpZgAAAAAAAJAAAAAAAAAAAAAF
+        AAAAAAACAP8DAAAAAAAAAAEA/wMAAAAAAAAAAAAAAIgAAQACAAAAAQCHAAEABQAAAP////8A
+        hgABAAQAAAAAAAAAcgACABcAAADQCgAAFAEAAAEAcEgAAAAAAAEAAQBwAIwAAQAAAAAAiwAB
+        AAIAAAAfAIoAAQBCAAAABQA8AAAACgBPcGVuU3ltYm9sAAAAAAAA8AAAAP//AAAAAAUAAAAA
+        AAAA/wMAAAAAAAAAAQD/AwAAAAAAAAAAAAAAiAABAAIAAAABAIcAAQAFAAAA/////wCGAAEA
+        BAAAAAAAAAByAAIAGgAAABQLAADcAAAAAQAAABcirQAAAAAAAQABABcijAABAAAAAACLAAEA
+        AgAAAB8AigABAEIAAAAFADwAAAAKAE9wZW5TeW1ib2wAAAAAAADwAAAA//8AAAAABQAAAAAA
+        AAD/AwAAAAAAAAABAP8DAAAAAAAAAAAAAACIAAEAAgAAAAEAhwABAAUAAAD/////AIYAAQAE
+        AAAAAAAAAHIAAgAaAAAAswsAANwAAAABAAAAKABSAAAAAAABAAEAKACMAAEAAAAAAIsAAQAC
+        AAAAHwCKAAEASAAAAAUAQgAAABAATGliZXJhdGlvbiBTZXJpZgAAAAAAAPAAAAAAAAAAAAAF
+        AAAAAAACAP8DAAAAAAAAAAEA/wMAAAAAAAAAAAAAAIgAAQACAAAAAQCHAAEABQAAAP////8A
+        hgABAAQAAAAAAAAAcgACABcAAAASDAAA3AAAAAEAdEMAAAAAAAEAAQB0AIwAAQAAAAAAiwAB
+        AAIAAAAfAIoAAQBIAAAABQBCAAAAEABMaWJlcmF0aW9uIFNlcmlmAAAAAAAAkAAAAAAAAAAA
+        AAUAAAAAAAAA/wMAAAAAAAAAAQD/AwAAAAAAAAAAAAAAiAABAAIAAAABAIcAAQAFAAAA////
+        /wCGAAEABAAAAAAAAAByAAIAFwAAAGcMAAAUAQAAAQAxSAAAAAAAAQABADEAjAABAAAAAACL
+        AAEAAgAAAB8AigABAEIAAAAFADwAAAAKAE9wZW5TeW1ib2wAAAAAAADwAAAA//8AAAAABQAA
+        AAAAAAD/AwAAAAAAAAABAP8DAAAAAAAAAAAAAACIAAEAAgAAAAEAhwABAAUAAAD/////AIYA
+        AQAEAAAAAAAAAHIAAgAaAAAAvAwAANwAAAABAAAAKwCMAAAAAAABAAEAKwCMAAEAAAAAAIsA
+        AQACAAAAHwCKAAEASAAAAAUAQgAAABAATGliZXJhdGlvbiBTZXJpZgAAAAAAAPAAAAAAAAAA
+        AAAFAAAAAAACAP8DAAAAAAAAAAEA/wMAAAAAAAAAAAAAAIgAAQACAAAAAQCHAAEABQAAAP//
+        //8AhgABAAQAAAAAAAAAcgACABcAAABYDQAA3AAAAAEAdEMAAAAAAAEAAQB0AIwAAQAAAAAA
+        iwABAAIAAAAfAIoAAQBIAAAABQBCAAAAEABMaWJlcmF0aW9uIFNlcmlmAAAAAAAAkAAAAAAA
+        AAAAAAUAAAAAAAAA/wMAAAAAAAAAAQD/AwAAAAAAAAAAAAAAiAABAAIAAAABAIcAAQAFAAAA
+        /////wCGAAEABAAAAAAAAAByAAIAFwAAAK4NAAAUAQAAAQAySAAAAAAAAQABADIAjAABAAAA
+        AACLAAEAAgAAAB8AigABAEIAAAAFADwAAAAKAE9wZW5TeW1ib2wAAAAAAADwAAAA//8AAAAA
+        BQAAAAAAAAD/AwAAAAAAAAABAP8DAAAAAAAAAAAAAACIAAEAAgAAAAEAhwABAAUAAAD/////
+        AIYAAQAEAAAAAAAAAHIAAgAaAAAAAQ4AANwAAAABAAAAKQBSAAAAAAABAAEAKQCMAAEAAAAA
+        AIwAAQAAAAAAjAABAAAAAAA=
+       </office:binary-data>
+      </draw:image>
+     </draw:frame></text:span></text:p>
+   <text:p text:style-name="P31"><text:span text:style-name="T29">Avec </text:span><text:span text:style-name="T30">nécessairement </text:span><text:span text:style-name="T29">C</text:span><text:span text:style-name="T31">1</text:span><text:span text:style-name="T30"> </text:span><text:span text:style-name="T32">&gt;</text:span><text:span text:style-name="T30"> C</text:span><text:span text:style-name="T31">3 </text:span><text:span text:style-name="T30">et t</text:span><text:span text:style-name="T31">2 </text:span><text:span text:style-name="T33">&gt; </text:span><text:span text:style-name="T34">0 il un minimum à trouver par un algorithme de </text:span><text:span text:style-name="T34">minimum. Dans cette courbe, sur la plage d’analyse, il n’y a pas de minimum local qui ne soit global donc pas de risque d’erreur.</text:span></text:p>
+   <text:p text:style-name="P19"/>
+   <text:h text:style-name="Heading_20_1" text:outline-level="1"><text:bookmark-start text:name="__RefHeading___Toc732_1046565995"/>Mise en œuvre<text:bookmark-end text:name="__RefHeading___Toc732_1046565995"/></text:h>
+   <text:p text:style-name="P32">Il conviendra d’enchaîner plusieurs cycles de chauffe/refroidissement pour plus de précision sur les courbes. Il est important de faire des paliers haut/bas avec maintient de la température pour estimer l’inertie du bâtiment et afin d’apporter une correction d’erreur. Dans l’absolu, il serait peut-être envisageable de modéliser l’inertie du bâtiment pour par le calcul.</text:p>
+   <text:p text:style-name="P33">Les fonctions seront approximées par des polynômes à partir des valeurs définis par l’expérience de cycles de chauffage/refroidissement. Elles pourront être affinées par l’usage.</text:p>
   </office:text>
  </office:body>
 </office:document>
