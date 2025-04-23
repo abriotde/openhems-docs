@@ -1,0 +1,60 @@
+<ges version='0.7'>
+  <project properties='properties;' metadatas='metadatas, author=(string)OpenHomeSystem, scaled_proxy_width=(int)1920, scaled_proxy_height=(int)1080, pitivi::title_safe_area_vertical=(double)0.80000000000000004, pitivi::title_safe_area_horizontal=(double)0.80000000000000004, pitivi::action_safe_area_vertical=(double)0.90000000000000002, pitivi::action_safe_area_horizontal=(double)0.90000000000000002, render-scale=(double)100, pitivi::project-id=(string)b57994ce4fd44314953c4912b45def9b, format-version=(string)0.7, year=(string)2024;'>
+    <encoding-profiles>
+      <encoding-profile name='pitivi-profile' description='Profil de codage Pitivi' type='container' preset-name='webmmux' format='video/webm' >
+        <stream-profile parent='pitivi-profile' id='0' type='video' presence='0' format='video/x-vp8, profile=(string){ 0, 1, 2, 3 }' preset='encoder_settings_acc4b902c70b4affa3821d52c0238121' preset-name='vp8enc' restriction='video/x-raw, width=(int)1280, height=(int)720, framerate=(fraction)30/1, pixel-aspect-ratio=(fraction)1/1' pass='0' variableframerate='0' />
+        <stream-profile parent='pitivi-profile' id='1' type='audio' presence='0' format='audio/x-vorbis, rate=(int)[ 1, 200000 ], channels=(int)[ 1, 255 ]' preset-name='vorbisenc' restriction='audio/x-raw, rate=(int)48000, channels=(int)2' />
+      </encoding-profile>
+      <encoding-profile name='default' description='Youtube recommended profile with automatic audio setting' type='container' preset='Profile YouTube' preset-name='qtmux' format='video/quicktime' >
+        <stream-profile parent='default' id='0' type='audio' presence='0' format='audio/mpeg, mpegversion=(int)4, base-profile=(string)lc' preset-name='voaacenc' restriction='audio/x-raw, rate=(int)48000, channels=(int)2' />
+        <stream-profile parent='default' id='1' type='video' presence='0' format='video/x-h264, profile=(string)high' preset='encoder_settings_3f3d987eb4ea4ed5ab93ff4809b30bed' preset-name='x264enc' restriction='video/x-raw, width=(int)1280, height=(int)720, framerate=(fraction)30/1, pixel-aspect-ratio=(fraction)1/1' pass='0' variableframerate='0' />
+      </encoding-profile>
+    </encoding-profiles>
+    <ressources>
+      <asset id='file:///home/alberic/video_presentation.mkv' extractable-type-name='GESUriClip' properties='properties, supported-formats=(int)6, duration=(guint64)1470600000000;' metadatas='metadatas, container-format=(string)Matroska, audio-codec=(string)&quot;MPEG-4\ AAC\ audio&quot;, language-code=(string)und, title=(string)simple_aac_recording0, container-specific-track-id=(string)2, encoder=(string)Lavf60.16.100, extended-comment=(string)&quot;DURATION\=00:24:30.506000000&quot;, video-codec=(string)H264, file-size=(guint64)57027448, pitivi::tags=(string)&quot;&quot;;' >
+        <stream-info id='7a57810db8c1e7e0b96c1a78bc9f112d8cdd5fb4e4c76fdff3693d46a7700822/001:6395283274079642123' extractable-type-name='GESVideoUriSource' properties='properties, track-type=(int)4;' metadatas='metadatas;' caps='video/x-h264, level=(string)3.1, profile=(string)high, codec_data=(buffer)0164001fffe1001c6764001facd9405005bb016a02020280000003008000001e478c18cb01000568ef85f2c0, stream-format=(string)avc, alignment=(string)au, width=(int)1280, height=(int)720, framerate=(fraction)30/1, colorimetry=(string)bt709, pixel-aspect-ratio=(fraction)1/1, coded-picture-structure=(string)frame, chroma-format=(string)4:2:0, bit-depth-luma=(uint)8, bit-depth-chroma=(uint)8, parsed=(boolean)true'/>
+        <stream-info id='7a57810db8c1e7e0b96c1a78bc9f112d8cdd5fb4e4c76fdff3693d46a7700822/002:3724274663620029888' extractable-type-name='GESAudioUriSource' properties='properties, track-type=(int)2;' metadatas='metadatas;' caps='audio/mpeg, mpegversion=(int)4, framed=(boolean)true, stream-format=(string)raw, codec_data=(buffer)119056e500, level=(string)2, base-profile=(string)lc, profile=(string)lc, channels=(int)2, rate=(int)48000'/>
+      </asset>
+      <asset id='GESTitleClip' extractable-type-name='GESTitleClip' properties='properties, supported-formats=(int)6;' metadatas='metadatas;' >
+      </asset>
+      <asset id='crossfade' extractable-type-name='GESTransitionClip' properties='properties, supported-formats=(int)6;' metadatas='metadatas, description=(string)GES_VIDEO_STANDARD_TRANSITION_TYPE_CROSSFADE;' >
+      </asset>
+    </ressources>
+    <timeline properties='properties, auto-transition=(boolean)true, snapping-distance=(guint64)606207565;' metadatas='metadatas, markers=(GESMarkerList)&quot;marker-list-flags, flags=(int)0&quot;, duration=(guint64)1415166666666;'>
+      <track caps='video/x-raw(ANY)' track-type='4' track-id='0' properties='properties, message-forward=(boolean)true, restriction-caps=(string)&quot;video/x-raw\,\ width\=\(int\)1280\,\ height\=\(int\)720\,\ framerate\=\(fraction\)30/1\,\ pixel-aspect-ratio\=\(fraction\)1/1&quot;, id=(string)2cd63d6248082050669626ca68e1442a;' metadatas='metadatas;'/>
+      <track caps='audio/x-raw(ANY)' track-type='2' track-id='1' properties='properties, message-forward=(boolean)true, restriction-caps=(string)&quot;audio/x-raw\,\ rate\=\(int\)48000\,\ channels\=\(int\)2&quot;, id=(string)68a48b3c5af2fc6aba2ae04a4440b630;' metadatas='metadatas;'/>
+      <layer priority='0' properties='properties, auto-transition=(boolean)true;' metadatas='metadatas, volume=(float)1;'>
+        <clip id='0' asset-id='file:///home/alberic/video_presentation.mkv' type-name='GESUriClip' layer-priority='0' track-types='6' start='0' duration='445100000000' inpoint='0' rate='0' properties='properties, name=(string)uriclip9;' metadatas='metadatas;'>
+          <source track-id='0' properties='properties, track-type=(int)4, has-internal-source=(boolean)true;' metadatas='metadatas, user_markers=(GESMarkerList)"marker-list-flags, flags=(int)0", last_chosen_list=(string)user_markers;'  children-properties='properties, GstFramePositioner::alpha=(double)1, GstFramePositioner::fheight=(float)720, GstFramePositioner::fposx=(float)-2, GstFramePositioner::fposy=(float)0, GstFramePositioner::fwidth=(float)1280, GstFramePositioner::height=(int)720, GstFramePositioner::operator=(int)1, GstFramePositioner::posx=(int)-2, GstFramePositioner::posy=(int)0, GstVideoDirection::video-direction=(int)8, GstFramePositioner::width=(int)1280;'>
+            <binding type='direct' source_type='interpolation' property='alpha' mode='1' track_id='0' values =' 0:1  445100000000:1 '/>
+          </source>
+          <source track-id='1' properties='properties, track-type=(int)2, has-internal-source=(boolean)true;' metadatas='metadatas, user_markers=(GESMarkerList)"marker-list-flags, flags=(int)0; marker-times, position=(guint64)434772065955; metadatas; marker-times, position=(guint64)506501300260; metadatas", last_chosen_list=(string)user_markers;'  children-properties='properties, GstAudioConvert::mix-matrix=(int)&lt;  &gt;, GstVolume::mute=(boolean)false, GstVolume::volume=(double)1;'>
+            <binding type='direct' source_type='interpolation' property='volume' mode='1' track_id='1' values =' 0:0.10000000149011612  445100000000:0.10000000149011612 '/>
+          </source>
+        </clip>
+        <clip id='1' asset-id='file:///home/alberic/video_presentation.mkv' type-name='GESUriClip' layer-priority='0' track-types='6' start='445100000000' duration='59533333334' inpoint='490233333334' rate='0' properties='properties, name=(string)uriclip12;' metadatas='metadatas;'>
+          <source track-id='0' properties='properties, track-type=(int)4, has-internal-source=(boolean)true;' metadatas='metadatas, user_markers=(GESMarkerList)"marker-list-flags, flags=(int)0", last_chosen_list=(string)user_markers;'  children-properties='properties, GstFramePositioner::alpha=(double)1, GstFramePositioner::fheight=(float)720, GstFramePositioner::fposx=(float)0, GstFramePositioner::fposy=(float)0, GstFramePositioner::fwidth=(float)1280, GstFramePositioner::height=(int)720, GstFramePositioner::operator=(int)1, GstFramePositioner::posx=(int)0, GstFramePositioner::posy=(int)0, GstVideoDirection::video-direction=(int)8, GstFramePositioner::width=(int)1280;'>
+            <binding type='direct' source_type='interpolation' property='alpha' mode='1' track_id='0' values =' 490233333334:1  549766666668:1 '/>
+          </source>
+          <source track-id='1' properties='properties, track-type=(int)2, has-internal-source=(boolean)true;' metadatas='metadatas, user_markers=(GESMarkerList)"marker-list-flags, flags=(int)0; marker-times, position=(guint64)434772065955; metadatas; marker-times, position=(guint64)506501300260; metadatas", last_chosen_list=(string)user_markers;'  children-properties='properties, GstAudioConvert::mix-matrix=(int)&lt;  &gt;, GstVolume::mute=(boolean)false, GstVolume::volume=(double)1;'>
+            <binding type='direct' source_type='interpolation' property='volume' mode='1' track_id='1' values =' 490233333334:0.10000000149011612  549766666668:0.10000000149011612 '/>
+          </source>
+        </clip>
+        <clip id='2' asset-id='file:///home/alberic/video_presentation.mkv' type-name='GESUriClip' layer-priority='0' track-types='6' start='504633333334' duration='910533333332' inpoint='560066666668' rate='0' properties='properties, name=(string)uriclip14;' metadatas='metadatas;'>
+          <source track-id='0' properties='properties, track-type=(int)4, has-internal-source=(boolean)true;' metadatas='metadatas, user_markers=(GESMarkerList)"marker-list-flags, flags=(int)0", last_chosen_list=(string)user_markers;'  children-properties='properties, GstFramePositioner::alpha=(double)1, GstFramePositioner::fheight=(float)720, GstFramePositioner::fposx=(float)0, GstFramePositioner::fposy=(float)0, GstFramePositioner::fwidth=(float)1280, GstFramePositioner::height=(int)720, GstFramePositioner::operator=(int)1, GstFramePositioner::posx=(int)0, GstFramePositioner::posy=(int)0, GstVideoDirection::video-direction=(int)8, GstFramePositioner::width=(int)1280;'>
+            <binding type='direct' source_type='interpolation' property='alpha' mode='1' track_id='0' values =' 560066666668:1  560773488523:1  1470600000000:1 '/>
+          </source>
+          <source track-id='1' properties='properties, track-type=(int)2, has-internal-source=(boolean)true;' metadatas='metadatas, user_markers=(GESMarkerList)"marker-list-flags, flags=(int)0; marker-times, position=(guint64)434772065955; metadatas; marker-times, position=(guint64)506501300260; metadatas", last_chosen_list=(string)user_markers;'  children-properties='properties, GstAudioConvert::mix-matrix=(int)&lt;  &gt;, GstVolume::mute=(boolean)false, GstVolume::volume=(double)1;'>
+            <binding type='direct' source_type='interpolation' property='volume' mode='1' track_id='1' values =' 560066666668:0.10000000149011612  1470600000000:0.10000000149011612 '/>
+          </source>
+        </clip>
+      </layer>
+      <layer priority='1' properties='properties, auto-transition=(boolean)true;' metadatas='metadatas, volume=(float)1;'>
+      </layer>
+      <layer priority='2' properties='properties, auto-transition=(boolean)true;' metadatas='metadatas, volume=(float)1, video::name=(string)&quot;Couche\ 2&quot;;'>
+      </layer>
+      <groups>
+      </groups>
+    </timeline>
+  </project>
+</ges>
