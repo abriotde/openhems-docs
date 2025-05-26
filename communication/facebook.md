@@ -1,7 +1,20 @@
-Je souhaites faire connaître et avoir des retours sur la solution  open-source de gestion de l'électricité [OpenHEMS](https://github.com/abriotde/openhems-sample). Elle s'intègre en tant qu'Add-On Home-Asistant.
-Concrètement la solution repose sur Home-Assistant et permet e déclencher automatiquement les appareils consommateurs d'électricité au meilleur moment (en fonction de la production des panneaux solaire si l'on en a, ou en fonction des heures creuses).
+Je souhaites faire connaître et avoir des retours sur la solution  open-source d'EMS (optimisation de l'électricité) [OpenHEMS](https://github.com/abriotde/openhems-sample). Elle est intéressante pour améliorer la rentabilité des panneaux solaires.
+Concrètement la solution repose sur Home-Assistant et permet de déclencher automatiquement les appareils consommateurs d'électricité au meilleur moment (en fonction de la production des panneaux solaire si l'on en a, ou en fonction des heures creuses).
+La solution est disponible à installer soit même ou a faire installer dans ce cas, veuillez me contacter.
 N'hésitez pas à tester et a me poser des questions si vous en avez.
 
+Pour ceux qui ont Home-Assistant d'installer sur leur RaspberryPI (ou équivalent). Je propose OpenHEMS pour gérer l'energy domestique.
+Concrètement la solution permet de déclencher automatiquement les appareils consommateurs d'électricité au meilleur moment (en fonction de la production des panneaux solaire si l'on en a, ou en fonction des heures creuses).
+Je souhaites faire connaître et avoir des retours sur la solution  open-source de gestion de l'électricité [OpenHEMS](https://github.com/abriotde/openhems-sample). Elle s'intègre en tant qu'Add-On Home-Asistant.
+N'hésitez pas à tester et a me poser des questions si vous en avez.
+
+I created on open-source add-on to manage Energy at home : https://github.com/abriotde/openhems-sample
+
+Concretely, the solution allows you to automatically activate electricity-consuming devices at the best time (based on solar panel production, if available, or off-peak hours).
+
+To install it, add https://github.com/abriotde/openhems-addon repo.
+
+Feel free to test it out and ask me any questions you may have.
 
 Si vous disposez d'un contrat à heures-creuses ou de panneaux solaire, la domotique peut vous permettre de mieux rentabiliser la chose. C'est le but d' [OpenHEMS](https://github.com/abriotde/openhems-sample).
 C'est est en fait une application indépendante avec un "driver" vers l'API Home-Assistant. J'aimerais savoir s'il y aurait un intérêt de la communauté OpenHAB à développer un driver pour l'application OpenHAB (Car OpenHAB dispose aussi d'une API).

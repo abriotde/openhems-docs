@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <office:document xmlns:css3t="http://www.w3.org/TR/css3-text/" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:rpt="http://openoffice.org/2005/report" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:officeooo="http://openoffice.org/2009/office" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" office:version="1.3" office:mimetype="application/vnd.oasis.opendocument.text">
- <office:meta><meta:generator>LibreOffice/24.2.6.2$Linux_X86_64 LibreOffice_project/420$Build-2</meta:generator><meta:editing-duration>P2DT1H23M23S</meta:editing-duration><meta:editing-cycles>388</meta:editing-cycles><dc:title>Albéric - BusinessPlan</dc:title><meta:creation-date>2023-11-25T14:29:40.386157803</meta:creation-date><dc:date>2024-10-14T17:01:01.317609829</dc:date><meta:print-date>2024-09-13T10:31:16.050985959</meta:print-date><meta:printed-by>Fichiers PDF</meta:printed-by><meta:document-statistic meta:table-count="0" meta:image-count="1" meta:object-count="0" meta:page-count="1" meta:paragraph-count="14" meta:word-count="300" meta:character-count="1945" meta:non-whitespace-character-count="1659"/><meta:template xlink:type="simple" xlink:actuate="onRequest" xlink:title="Albéric - BusinessPlan" xlink:href="../../.config/libreoffice/4/user/template/Albéric%20-%20BusinessPlan.ott" meta:date="2023-11-25T14:29:39.768590378"/></office:meta>
+ <office:meta><meta:generator>LibreOffice/24.8.6.2$Linux_X86_64 LibreOffice_project/480$Build-2</meta:generator><meta:editing-duration>P2DT1H28M36S</meta:editing-duration><meta:editing-cycles>395</meta:editing-cycles><dc:title>Albéric - BusinessPlan</dc:title><meta:creation-date>2023-11-25T14:29:40.386157803</meta:creation-date><dc:date>2025-05-16T09:10:53.906937705</dc:date><meta:print-date>2024-09-13T10:31:16.050985959</meta:print-date><meta:printed-by>Fichiers PDF</meta:printed-by><meta:document-statistic meta:table-count="0" meta:image-count="1" meta:object-count="0" meta:page-count="1" meta:paragraph-count="14" meta:word-count="284" meta:character-count="1848" meta:non-whitespace-character-count="1577"/><meta:template xlink:type="simple" xlink:actuate="onRequest" xlink:title="Albéric - BusinessPlan" xlink:href="../../.config/libreoffice/4/user/template/Albéric%20-%20BusinessPlan.ott" meta:date="2023-11-25T14:29:39.768590378"/></office:meta>
  <office:settings>
   <config:config-item-set config:name="ooo:view-settings">
-   <config:config-item config:name="ViewAreaTop" config:type="long">1270</config:config-item>
+   <config:config-item config:name="ViewAreaTop" config:type="long">3810</config:config-item>
    <config:config-item config:name="ViewAreaLeft" config:type="long">0</config:config-item>
-   <config:config-item config:name="ViewAreaWidth" config:type="long">48156</config:config-item>
+   <config:config-item config:name="ViewAreaWidth" config:type="long">22809</config:config-item>
    <config:config-item config:name="ViewAreaHeight" config:type="long">20586</config:config-item>
    <config:config-item config:name="ShowRedlineChanges" config:type="boolean">true</config:config-item>
    <config:config-item config:name="InBrowseMode" config:type="boolean">false</config:config-item>
    <config:config-item-map-indexed config:name="Views">
     <config:config-item-map-entry>
      <config:config-item config:name="ViewId" config:type="string">view2</config:config-item>
-     <config:config-item config:name="ViewLeft" config:type="long">16117</config:config-item>
-     <config:config-item config:name="ViewTop" config:type="long">17851</config:config-item>
+     <config:config-item config:name="ViewLeft" config:type="long">9569</config:config-item>
+     <config:config-item config:name="ViewTop" config:type="long">18808</config:config-item>
      <config:config-item config:name="VisibleLeft" config:type="long">0</config:config-item>
-     <config:config-item config:name="VisibleTop" config:type="long">1270</config:config-item>
-     <config:config-item config:name="VisibleRight" config:type="long">48154</config:config-item>
-     <config:config-item config:name="VisibleBottom" config:type="long">21855</config:config-item>
+     <config:config-item config:name="VisibleTop" config:type="long">3810</config:config-item>
+     <config:config-item config:name="VisibleRight" config:type="long">22807</config:config-item>
+     <config:config-item config:name="VisibleBottom" config:type="long">24395</config:config-item>
      <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
      <config:config-item config:name="ViewLayoutColumns" config:type="short">1</config:config-item>
      <config:config-item config:name="ViewLayoutBookMode" config:type="boolean">false</config:config-item>
@@ -41,6 +41,8 @@
    <config:config-item config:name="PrintAnnotationMode" config:type="short">0</config:config-item>
    <config:config-item config:name="PrintHiddenText" config:type="boolean">false</config:config-item>
    <config:config-item config:name="PrintEmptyPages" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PaintHellOverHeaderFooter" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ApplyParagraphMarkFormatToEmptyLineAtEndOfParagraph" config:type="boolean">false</config:config-item>
    <config:config-item config:name="PrintGraphics" config:type="boolean">true</config:config-item>
    <config:config-item config:name="NoNumberingShowFollowBy" config:type="boolean">false</config:config-item>
    <config:config-item config:name="HyphenateURLs" config:type="boolean">true</config:config-item>
@@ -65,6 +67,7 @@
    <config:config-item config:name="DisableOffPagePositioning" config:type="boolean">true</config:config-item>
    <config:config-item config:name="BackgroundParaOverDrawings" config:type="boolean">true</config:config-item>
    <config:config-item config:name="TabOverflow" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="SmallCapsPercentage66" config:type="boolean">false</config:config-item>
    <config:config-item config:name="AllowPrintJobCancel" config:type="boolean">true</config:config-item>
    <config:config-item config:name="AddVerticalFrameOffsets" config:type="boolean">true</config:config-item>
    <config:config-item config:name="ProtectBookmarks" config:type="boolean">false</config:config-item>
@@ -102,11 +105,7 @@
    <config:config-item config:name="LoadReadonly" config:type="boolean">false</config:config-item>
    <config:config-item config:name="HeaderSpacingBelowLastPara" config:type="boolean">false</config:config-item>
    <config:config-item config:name="SaveVersionOnClose" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="ClippedPictures" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="MathBaselineAlignment" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="AlignTabStopPosition" config:type="boolean">true</config:config-item>
    <config:config-item config:name="UseFormerLineSpacing" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="PrintSingleJobs" config:type="boolean">false</config:config-item>
    <config:config-item config:name="PrinterName" config:type="string"/>
    <config:config-item config:name="AddParaLineSpacingToTableCells" config:type="boolean">false</config:config-item>
    <config:config-item config:name="IsKernAsianPunctuation" config:type="boolean">false</config:config-item>
@@ -133,16 +132,19 @@
    <config:config-item config:name="EmptyDbFieldHidesPara" config:type="boolean">false</config:config-item>
    <config:config-item config:name="DoNotResetParaAttrsForNumFont" config:type="boolean">false</config:config-item>
    <config:config-item config:name="IgnoreTabsAndBlanksForLineCalculation" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="ClippedPictures" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="MathBaselineAlignment" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="AlignTabStopPosition" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="IgnoreHiddenCharsForLineCalculation" config:type="boolean">false</config:config-item>
    <config:config-item config:name="ClipAsCharacterAnchoredWriterFlyFrames" config:type="boolean">false</config:config-item>
    <config:config-item config:name="DropCapPunctuation" config:type="boolean">false</config:config-item>
    <config:config-item config:name="UseOldPrinterMetrics" config:type="boolean">false</config:config-item>
    <config:config-item config:name="RedlineProtectionKey" config:type="base64Binary"/>
    <config:config-item config:name="TabsRelativeToIndent" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="Rsid" config:type="int">7003081</config:config-item>
+   <config:config-item config:name="Rsid" config:type="int">7029730</config:config-item>
    <config:config-item config:name="UpdateFromTemplate" config:type="boolean">true</config:config-item>
    <config:config-item config:name="ProtectForm" config:type="boolean">false</config:config-item>
    <config:config-item config:name="MsWordCompMinLineHeightByFly" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="SmallCapsPercentage66" config:type="boolean">false</config:config-item>
   </config:config-item-set>
  </office:settings>
  <office:scripts>
@@ -164,13 +166,13 @@
  <office:styles>
   <style:default-style style:family="graphic">
    <style:graphic-properties svg:stroke-color="#3465a4" draw:fill-color="#729fcf" fo:wrap-option="no-wrap" draw:shadow-offset-x="0.3cm" draw:shadow-offset-y="0.3cm" draw:start-line-spacing-horizontal="0.283cm" draw:start-line-spacing-vertical="0.283cm" draw:end-line-spacing-horizontal="0.283cm" draw:end-line-spacing-vertical="0.283cm" style:writing-mode="lr-tb" style:flow-with-text="false"/>
-   <style:paragraph-properties style:text-autospace="ideograph-alpha" style:line-break="strict" loext:tab-stop-distance="0cm" style:font-independent-line-spacing="false">
+   <style:paragraph-properties style:text-autospace="ideograph-alpha" style:line-break="strict" loext:tab-stop-distance="0cm" style:writing-mode="lr-tb" style:font-independent-line-spacing="false">
     <style:tab-stops/>
    </style:paragraph-properties>
    <style:text-properties style:use-window-font-color="true" loext:opacity="0%" style:font-name="Arial" fo:font-size="11pt" fo:language="fr" fo:country="FR" style:letter-kerning="false" style:font-name-asian="Arial1" style:font-size-asian="11pt" style:language-asian="zh" style:country-asian="CN" style:font-name-complex="Arial1" style:font-size-complex="11pt" style:language-complex="hi" style:country-complex="IN"/>
   </style:default-style>
   <style:default-style style:family="paragraph">
-   <style:paragraph-properties fo:hyphenation-ladder-count="no-limit" style:text-autospace="ideograph-alpha" style:punctuation-wrap="hanging" style:line-break="strict" style:tab-stop-distance="1.27cm" style:writing-mode="lr-tb"/>
+   <style:paragraph-properties fo:hyphenation-ladder-count="no-limit" fo:hyphenation-keep="auto" loext:hyphenation-keep-type="column" style:text-autospace="ideograph-alpha" style:punctuation-wrap="hanging" style:line-break="strict" style:tab-stop-distance="1.27cm" style:writing-mode="lr-tb"/>
    <style:text-properties style:use-window-font-color="true" loext:opacity="0%" style:font-name="Arial" fo:font-size="11pt" fo:language="fr" fo:country="FR" style:letter-kerning="false" style:font-name-asian="Arial1" style:font-size-asian="11pt" style:language-asian="zh" style:country-asian="CN" style:font-name-complex="Arial1" style:font-size-complex="11pt" style:language-complex="hi" style:country-complex="IN" fo:hyphenate="false" fo:hyphenation-remain-char-count="2" fo:hyphenation-push-char-count="2" loext:hyphenation-no-caps="false" loext:hyphenation-no-last-word="false" loext:hyphenation-word-char-count="no-limit" loext:hyphenation-zone="no-limit"/>
   </style:default-style>
   <style:default-style style:family="table">
@@ -739,164 +741,18 @@
   <style:style style:name="P3" style:family="paragraph" style:parent-style-name="Footer">
    <style:paragraph-properties fo:text-align="end" style:justify-single-word="false"/>
   </style:style>
-  <style:style style:name="P4" style:family="paragraph" style:parent-style-name="Standard" style:master-page-name="">
-   <loext:graphic-properties draw:fill="none"/>
-   <style:paragraph-properties fo:margin-left="-1.499cm" fo:margin-right="0cm" fo:line-height="115%" fo:text-align="end" style:justify-single-word="false" fo:text-indent="0cm" style:auto-text-indent="false" style:page-number="auto" fo:background-color="transparent"/>
-   <style:text-properties officeooo:paragraph-rsid="0062ace2"/>
+  <style:style style:name="P4" style:family="paragraph" style:parent-style-name="Standard" style:master-page-name="Standard">
+   <style:paragraph-properties style:page-number="1"/>
+   <style:text-properties officeooo:rsid="006836b0" officeooo:paragraph-rsid="006836b0"/>
   </style:style>
   <style:style style:name="P5" style:family="paragraph" style:parent-style-name="Standard">
-   <loext:graphic-properties draw:fill="none"/>
-   <style:paragraph-properties fo:margin-left="-1.499cm" fo:margin-right="0cm" fo:line-height="115%" fo:text-align="end" style:justify-single-word="false" fo:text-indent="0cm" style:auto-text-indent="false" fo:background-color="transparent"/>
-   <style:text-properties officeooo:paragraph-rsid="006836b0"/>
-  </style:style>
-  <style:style style:name="P6" style:family="paragraph" style:parent-style-name="Standard" style:master-page-name="">
-   <loext:graphic-properties draw:fill="none"/>
-   <style:paragraph-properties fo:margin-left="-1.499cm" fo:margin-right="0cm" fo:line-height="115%" fo:text-indent="0cm" style:auto-text-indent="false" style:page-number="auto" fo:background-color="transparent"/>
-   <style:text-properties officeooo:paragraph-rsid="0062ace2"/>
-  </style:style>
-  <style:style style:name="P7" style:family="paragraph" style:parent-style-name="Standard">
-   <loext:graphic-properties draw:fill="none"/>
-   <style:paragraph-properties fo:margin-left="-1.499cm" fo:margin-right="0cm" fo:line-height="115%" fo:text-indent="0cm" style:auto-text-indent="false" fo:background-color="transparent"/>
-  </style:style>
-  <style:style style:name="P8" style:family="paragraph" style:parent-style-name="Standard" style:master-page-name="">
-   <loext:graphic-properties draw:fill="none"/>
-   <style:paragraph-properties fo:margin-left="-1.499cm" fo:margin-right="0cm" fo:line-height="115%" fo:text-indent="0cm" style:auto-text-indent="false" style:page-number="auto" fo:background-color="transparent"/>
-  </style:style>
-  <style:style style:name="P9" style:family="paragraph" style:parent-style-name="Footer">
-   <style:paragraph-properties fo:text-align="end" style:justify-single-word="false"/>
-  </style:style>
-  <style:style style:name="P10" style:family="paragraph" style:parent-style-name="Table_20_Contents">
-   <style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
-   <style:text-properties officeooo:rsid="00081914" officeooo:paragraph-rsid="00567813"/>
-  </style:style>
-  <style:style style:name="P11" style:family="paragraph" style:parent-style-name="Table_20_Contents">
-   <style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
-   <style:text-properties officeooo:rsid="00081914" officeooo:paragraph-rsid="005d4464"/>
-  </style:style>
-  <style:style style:name="P12" style:family="paragraph" style:parent-style-name="Table_20_Contents">
-   <style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
-   <style:text-properties officeooo:rsid="00081914" officeooo:paragraph-rsid="00081914"/>
-  </style:style>
-  <style:style style:name="P13" style:family="paragraph" style:parent-style-name="Table_20_Contents">
-   <style:paragraph-properties fo:text-align="start" style:justify-single-word="false"/>
-   <style:text-properties officeooo:rsid="00081914" officeooo:paragraph-rsid="000aac63"/>
-  </style:style>
-  <style:style style:name="P14" style:family="paragraph" style:parent-style-name="Table_20_Contents">
-   <style:paragraph-properties fo:text-align="start" style:justify-single-word="false"/>
-   <style:text-properties officeooo:rsid="00081914" officeooo:paragraph-rsid="005bd1e6"/>
-  </style:style>
-  <style:style style:name="P15" style:family="paragraph" style:parent-style-name="Standard">
-   <style:text-properties officeooo:rsid="000c9136"/>
-  </style:style>
-  <style:style style:name="P16" style:family="paragraph" style:parent-style-name="Standard">
-   <style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
-   <style:text-properties officeooo:rsid="00091ff0" officeooo:paragraph-rsid="00091ff0"/>
-  </style:style>
-  <style:style style:name="P17" style:family="paragraph" style:parent-style-name="Table_20_Contents">
-   <style:text-properties officeooo:rsid="000aac63" officeooo:paragraph-rsid="000aac63"/>
-  </style:style>
-  <style:style style:name="P18" style:family="paragraph" style:parent-style-name="Table_20_Contents">
-   <style:text-properties officeooo:rsid="000aac63" officeooo:paragraph-rsid="005bd1e6"/>
-  </style:style>
-  <style:style style:name="P19" style:family="paragraph" style:parent-style-name="Table_20_Contents">
-   <style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
-   <style:text-properties fo:font-weight="bold" officeooo:rsid="000aac63" officeooo:paragraph-rsid="000aac63" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
-  </style:style>
-  <style:style style:name="P20" style:family="paragraph" style:parent-style-name="Title">
-   <style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
-  </style:style>
-  <style:style style:name="P21" style:family="paragraph" style:parent-style-name="Contents_20_1">
-   <style:paragraph-properties>
-    <style:tab-stops>
-     <style:tab-stop style:position="15.921cm" style:type="right" style:leader-style="dotted" style:leader-text="."/>
-    </style:tab-stops>
-   </style:paragraph-properties>
-  </style:style>
-  <style:style style:name="P22" style:family="paragraph" style:parent-style-name="Standard">
-   <style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
-   <style:text-properties officeooo:rsid="004599e2" officeooo:paragraph-rsid="004599e2"/>
-  </style:style>
-  <style:style style:name="P23" style:family="paragraph" style:parent-style-name="Title">
-   <style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
-   <style:text-properties officeooo:rsid="00550461" officeooo:paragraph-rsid="00550461"/>
-  </style:style>
-  <style:style style:name="P24" style:family="paragraph" style:parent-style-name="Standard">
-   <style:text-properties officeooo:rsid="00550461" officeooo:paragraph-rsid="00567813"/>
-  </style:style>
-  <style:style style:name="P25" style:family="paragraph" style:parent-style-name="Heading_20_1">
-   <style:paragraph-properties fo:break-before="page"/>
-   <style:text-properties officeooo:rsid="00550461" officeooo:paragraph-rsid="00550461"/>
-  </style:style>
-  <style:style style:name="P26" style:family="paragraph" style:parent-style-name="Heading_20_1">
-   <style:paragraph-properties fo:line-height="100%" fo:text-align="start" style:justify-single-word="false" fo:keep-together="always" fo:orphans="2" fo:widows="2"/>
-   <style:text-properties officeooo:rsid="00550461" officeooo:paragraph-rsid="00550461"/>
-  </style:style>
-  <style:style style:name="P27" style:family="paragraph" style:parent-style-name="Standard">
-   <style:text-properties officeooo:paragraph-rsid="00550461"/>
-  </style:style>
-  <style:style style:name="P28" style:family="paragraph" style:parent-style-name="Standard">
-   <style:text-properties officeooo:rsid="00556b43" officeooo:paragraph-rsid="00556b43"/>
-  </style:style>
-  <style:style style:name="P29" style:family="paragraph" style:parent-style-name="Standard">
-   <style:text-properties officeooo:rsid="00567813" officeooo:paragraph-rsid="00567813"/>
-  </style:style>
-  <style:style style:name="P30" style:family="paragraph" style:parent-style-name="Standard">
-   <style:text-properties officeooo:rsid="00567813" officeooo:paragraph-rsid="005bd1e6"/>
-  </style:style>
-  <style:style style:name="P31" style:family="paragraph" style:parent-style-name="Standard">
-   <style:text-properties officeooo:paragraph-rsid="0057f1c8"/>
-  </style:style>
-  <style:style style:name="P32" style:family="paragraph" style:parent-style-name="Heading_20_1">
-   <style:paragraph-properties fo:break-before="page"/>
-   <style:text-properties officeooo:rsid="0057f1c8" officeooo:paragraph-rsid="0057f1c8"/>
-  </style:style>
-  <style:style style:name="P33" style:family="paragraph" style:parent-style-name="Heading_20_1">
-   <style:paragraph-properties fo:break-before="page"/>
-  </style:style>
-  <style:style style:name="P34" style:family="paragraph" style:parent-style-name="Standard" style:master-page-name="">
-   <style:paragraph-properties style:page-number="1"/>
-  </style:style>
-  <style:style style:name="P35" style:family="paragraph" style:parent-style-name="Standard">
-   <style:text-properties officeooo:paragraph-rsid="00556b43"/>
-  </style:style>
-  <style:style style:name="P36" style:family="paragraph" style:parent-style-name="Standard">
-   <style:text-properties officeooo:rsid="005bd1e6" officeooo:paragraph-rsid="005bd1e6"/>
-  </style:style>
-  <style:style style:name="P37" style:family="paragraph" style:parent-style-name="Table_20_Contents">
-   <style:text-properties officeooo:rsid="005bd1e6" officeooo:paragraph-rsid="005bd1e6"/>
-  </style:style>
-  <style:style style:name="P38" style:family="paragraph" style:parent-style-name="Standard">
-   <style:text-properties officeooo:paragraph-rsid="005bd1e6"/>
-  </style:style>
-  <style:style style:name="P39" style:family="paragraph" style:parent-style-name="Contents_20_1">
-   <style:paragraph-properties>
-    <style:tab-stops>
-     <style:tab-stop style:position="15.919cm" style:type="right" style:leader-style="dotted" style:leader-text="."/>
-    </style:tab-stops>
-   </style:paragraph-properties>
-  </style:style>
-  <style:style style:name="P40" style:family="paragraph" style:parent-style-name="Standard">
-   <style:text-properties officeooo:rsid="0062ace2" officeooo:paragraph-rsid="0062ace2"/>
-  </style:style>
-  <style:style style:name="P41" style:family="paragraph" style:parent-style-name="Standard" style:master-page-name="">
-   <style:paragraph-properties style:page-number="1"/>
    <style:text-properties officeooo:rsid="006836b0" officeooo:paragraph-rsid="006836b0"/>
   </style:style>
-  <style:style style:name="P42" style:family="paragraph" style:parent-style-name="Standard">
-   <style:text-properties officeooo:rsid="006836b0" officeooo:paragraph-rsid="006836b0"/>
-  </style:style>
-  <style:style style:name="P43" style:family="paragraph" style:parent-style-name="Standard">
+  <style:style style:name="P6" style:family="paragraph" style:parent-style-name="Standard">
    <style:text-properties officeooo:rsid="006836b0" officeooo:paragraph-rsid="006942a1"/>
   </style:style>
-  <style:style style:name="P44" style:family="paragraph" style:parent-style-name="Standard">
+  <style:style style:name="P7" style:family="paragraph" style:parent-style-name="Standard">
    <style:text-properties officeooo:rsid="006942a1" officeooo:paragraph-rsid="006942a1"/>
-  </style:style>
-  <style:style style:name="P45" style:family="paragraph" style:parent-style-name="Footer">
-   <style:paragraph-properties fo:text-align="end" style:justify-single-word="false"/>
-  </style:style>
-  <style:style style:name="P46" style:family="paragraph" style:parent-style-name="Standard" style:master-page-name="Standard">
-   <style:paragraph-properties style:page-number="1"/>
-   <style:text-properties officeooo:rsid="006836b0" officeooo:paragraph-rsid="006836b0"/>
   </style:style>
   <style:style style:name="T1" style:family="text">
    <style:text-properties fo:font-size="10pt" fo:font-weight="normal" officeooo:rsid="0062ace2" style:font-size-asian="10pt" style:font-weight-asian="normal" style:font-size-complex="10pt" style:font-weight-complex="normal"/>
@@ -905,63 +761,12 @@
    <style:text-properties fo:font-size="10pt" fo:font-weight="normal" officeooo:rsid="006836b0" style:font-size-asian="10pt" style:font-weight-asian="normal" style:font-size-complex="10pt" style:font-weight-complex="normal"/>
   </style:style>
   <style:style style:name="T3" style:family="text">
-   <style:text-properties fo:font-size="10pt" fo:font-weight="normal" officeooo:rsid="0062ace2" style:font-size-asian="10pt" style:font-weight-asian="normal" style:font-size-complex="10pt" style:font-weight-complex="normal"/>
+   <style:text-properties officeooo:rsid="006b43e2"/>
   </style:style>
   <style:style style:name="T4" style:family="text">
-   <style:text-properties fo:font-size="10pt" fo:font-weight="normal" officeooo:rsid="006836b0" style:font-size-asian="10pt" style:font-weight-asian="normal" style:font-size-complex="10pt" style:font-weight-complex="normal"/>
-  </style:style>
-  <style:style style:name="T5" style:family="text">
-   <style:text-properties fo:font-size="10pt" style:font-size-asian="10pt" style:font-size-complex="10pt"/>
-  </style:style>
-  <style:style style:name="T6" style:family="text">
-   <style:text-properties fo:font-size="10pt" officeooo:rsid="0062ace2" style:font-size-asian="10pt" style:font-size-complex="10pt"/>
-  </style:style>
-  <style:style style:name="T7" style:family="text">
-   <style:text-properties fo:font-size="10pt" officeooo:rsid="00550461" style:font-size-asian="10pt" style:font-size-complex="10pt"/>
-  </style:style>
-  <style:style style:name="T8" style:family="text">
-   <style:text-properties fo:font-size="10pt" fo:font-weight="bold" style:font-size-asian="10pt" style:font-weight-asian="bold" style:font-size-complex="10pt"/>
-  </style:style>
-  <style:style style:name="T9" style:family="text">
-   <style:text-properties officeooo:rsid="004599e2" loext:padding="0cm" loext:border="none"/>
-  </style:style>
-  <style:style style:name="T10" style:family="text">
-   <style:text-properties officeooo:rsid="005d4464"/>
-  </style:style>
-  <style:style style:name="T11" style:family="text">
-   <style:text-properties officeooo:rsid="005bd1e6"/>
-  </style:style>
-  <style:style style:name="T12" style:family="text">
-   <style:text-properties officeooo:rsid="00567813"/>
-  </style:style>
-  <style:style style:name="T13" style:family="text">
-   <style:text-properties officeooo:rsid="00081914"/>
-  </style:style>
-  <style:style style:name="T14" style:family="text">
-   <style:text-properties loext:padding="0cm" loext:border="none"/>
-  </style:style>
-  <style:style style:name="T15" style:family="text">
-   <style:text-properties officeooo:rsid="0042d7c0"/>
-  </style:style>
-  <style:style style:name="T16" style:family="text">
-   <style:text-properties officeooo:rsid="00550461"/>
-  </style:style>
-  <style:style style:name="T17" style:family="text">
-   <style:text-properties officeooo:rsid="00556b43"/>
-  </style:style>
-  <style:style style:name="T18" style:family="text">
-   <style:text-properties officeooo:rsid="0057cea6"/>
-  </style:style>
-  <style:style style:name="T19" style:family="text">
-   <style:text-properties officeooo:rsid="0060f915"/>
-  </style:style>
-  <style:style style:name="T20" style:family="text">
-   <style:text-properties officeooo:rsid="0062ace2"/>
-  </style:style>
-  <style:style style:name="T21" style:family="text">
    <style:text-properties officeooo:rsid="006942a1"/>
   </style:style>
-  <style:style style:name="T22" style:family="text">
+  <style:style style:name="T5" style:family="text">
    <style:text-properties officeooo:rsid="006adbc9"/>
   </style:style>
   <style:style style:name="fr1" style:family="graphic" style:parent-style-name="Graphics">
@@ -1111,22 +916,22 @@
     <text:sequence-decl text:display-outline-level="0" text:name="Drawing"/>
     <text:sequence-decl text:display-outline-level="0" text:name="Figure"/>
    </text:sequence-decls>
-   <text:p text:style-name="P46"/>
-   <text:p text:style-name="P42"/>
-   <text:p text:style-name="P42"/>
-   <text:p text:style-name="P42">Madame,</text:p>
-   <text:p text:style-name="P42">Monsieur,</text:p>
-   <text:p text:style-name="P42"/>
-   <text:p text:style-name="P43">Je suis passé aujourd’hui chez vous pour vous présenter une solution de gestion de l’énergie à domicile (Home Energy Management <text:span text:style-name="T21">System</text:span>). Le principe est de démarrer les appareils pilotable<text:span text:style-name="T21">s</text:span> au moment o<text:span text:style-name="T22">ù</text:span> l’électricité est la moins chère. Cela peut être pendant les heures-creuses si votre contrat en dispose ou lorsque la production des panneaux solaires est suffisante si vous en avez.</text:p>
-   <text:p text:style-name="P43"/>
-   <text:p text:style-name="P42">Et justement, si je m’intéresse à vous c’est parce qu’il me semble que vous avez <text:span text:style-name="T21">des panneaux photovoltaïques</text:span>. <text:span text:style-name="T21">Or j’aimerais tester et éprouver ma solution dans ce cas de figure. Soyez rassuré</text:span><text:span text:style-name="T22">s</text:span><text:span text:style-name="T21">, il n’y a aucun risque pour la sécurité de votre installation puisqu’il s’agit simplement d’arrêter et de démarrer des appareils auquel je ne touche pas. </text:span>Je voudrais donc vous proposer de vous installer mon système pour le seul coût du produit, en vous offrant la configuration, la main d’œuvre et la maintenance. Cela vous reviendrait à 100 euros pour le boîtier principal et éventuellement à une centaine d’euros supplémentaires suivant les appareil<text:span text:style-name="T22">s</text:span> pilotable<text:span text:style-name="T22">s</text:span> dont vous disposez.</text:p>
-   <text:p text:style-name="P42"/>
-   <text:p text:style-name="P44">Si vous disposez d’appareils connectés, c’est simple, on peut les piloter directement. Si vous disposez d’appareils qui se mettent en fonction dès la mise sous tension, il faut un boîtier intermédiaire d’une vingtaine d’euros. Cela concerne certaines machines généralement un peu anciennes (lave-linge, lave-vaisselle...), ou des appareils à batterie comme des voitures électrique<text:span text:style-name="T22">s</text:span>, aspirateurs et tondeuses autonomes ou des chargeurs de piles, mais il peut y avoir d’autres appareils.</text:p>
-   <text:p text:style-name="P44"/>
-   <text:p text:style-name="P44">Si vous pourriez être intéressé, n’hésitez pas à me contacter pour en savoir plus (mes coordonnées sont en entête). Mais si vous n’êtes pas intéressé, j’aimerai aussi savoir pourquoi de manière à m’améliorer.</text:p>
-   <text:p text:style-name="P44"/>
-   <text:p text:style-name="P44">Cordialement,</text:p>
-   <text:p text:style-name="P44">Albéric de la Crochais</text:p>
+   <text:p text:style-name="P4"/>
+   <text:p text:style-name="P5"/>
+   <text:p text:style-name="P5"/>
+   <text:p text:style-name="P5">Madame,</text:p>
+   <text:p text:style-name="P5">Monsieur,</text:p>
+   <text:p text:style-name="P5"/>
+   <text:p text:style-name="P6">Je suis passé aujourd’hui chez vous pour vous <text:span text:style-name="T3">proposer de tester gratuitement</text:span> une solution de gestion de l’énergie à domicile (Home Energy Management <text:span text:style-name="T4">System</text:span>). Le principe est de démarrer les appareils pilotable<text:span text:style-name="T4">s</text:span> au moment o<text:span text:style-name="T5">ù</text:span> l’électricité est la moins chère. Cela peut être pendant les heures-creuses si votre contrat en dispose ou lorsque la production des panneaux solaires est suffisante.</text:p>
+   <text:p text:style-name="P6"/>
+   <text:p text:style-name="P5">Et justement, si je m’intéresse à vous c’est parce qu’il me semble que vous avez <text:span text:style-name="T4">des panneaux photovoltaïques</text:span>. <text:span text:style-name="T4">Or j’aimerais tester et éprouver ma solution dans ce cas de figure. Soyez rassuré</text:span><text:span text:style-name="T5">s</text:span><text:span text:style-name="T4">, il n’y a aucun risque pour la sécurité de votre installation puisqu’il s’agit simplement d’arrêter et de démarrer des appareils auquel je ne touche pas. </text:span>Je voudrais donc vous proposer de vous installer mon système <text:span text:style-name="T3">gratuitement</text:span>, en vous offrant la configuration, la main d’œuvre et la maintenance. <text:span text:style-name="T3">Aucun travaux ne sont à prévoir il s’agit simplement de poser un boîtier relié à internet</text:span>.</text:p>
+   <text:p text:style-name="P5"/>
+   <text:p text:style-name="P7">Si vous disposez d’appareils connectés, c’est simple, on peut les piloter directement. Si vous disposez d’appareils qui se mettent en fonction dès la mise sous tension, <text:span text:style-name="T3">j’y ajouterai une <text:s/>prise intermédiaire connectée</text:span>. Cela concerne certaines machines généralement un peu anciennes (lave-linge, lave-vaisselle...), ou des appareils à batterie comme des voitures électrique<text:span text:style-name="T5">s</text:span>, aspirateurs et tondeuses autonomes ou des chargeurs de piles, mais il peut y avoir d’autres appareils.</text:p>
+   <text:p text:style-name="P7"/>
+   <text:p text:style-name="P7">Si vous pouviez être intéressé, n’hésitez pas à me contacter pour en savoir plus (mes coordonnées sont en entête). Mais si vous n’êtes pas intéressé, j’aimerais aussi savoir pourquoi de manière à m’améliorer.</text:p>
+   <text:p text:style-name="P7"/>
+   <text:p text:style-name="P7">Cordialement,</text:p>
+   <text:p text:style-name="P7">Albéric de la Crochais</text:p>
   </office:text>
  </office:body>
 </office:document>

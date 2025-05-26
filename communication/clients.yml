@@ -1,4 +1,20 @@
 
+client:
+	- name: "François"
+	  phone: "0644740330"
+	  devices:
+		- name: "Prise télécommandée - Blanc - Zenitech"
+		  url: "https://www.amazon.fr/Otio-Prise-t%C3%A9l%C3%A9command%C3%A9e/dp/B005MYTASM#productDetails"
+		- name: "Pompe à Chaleur"
+		  url: "https://www.arkteos.com/index.php/accueil/nos-solutions/geothermie/gamme-geothermie/"
+		- name: "Volets roulants AvosDim.com"
+		  url: "https://avosdim.com/volet-roulant-sur-mesure-renovation.html"
+		- name: "Juno Lave-vaisselle JGVX605E1"
+		  url: "https://www.juno.de/fr-de/kitchen/dishwashing/dishwashers/dishwasher-60-cm/jgvx605e1/"
+	  devis:
+		- name: "Sonoff | RF Bridge R2 | 433MHz | Contrôleur"
+		  url: "https://www.sonoff.be/a-52550339/accessoires/sonoff-rf-bridge-r2-433mhz-controleur/#description"
+
 prospects:
   - fauche:
 		email: mhulaud@fauche.com
@@ -12,10 +28,6 @@ prospects:
     	email: ndecouze@yahoo.fr
   - Tricobat:
   		email: geoffrey.lebris@tricobat.fr
-  - alvea-solaire:
-	    email: accueil@alvea-solaire.com
-	    web: https://www.alvea-solaire.com
-	    phone: 0299390840
   - ArtiPro:
 		email: contact.artipro@icloud.com
 		phone: 0685666076
@@ -28,20 +40,90 @@ contact:
     linked: /in/fr%C3%A9d%C3%A9ric-bazantay-62a11165/
 
 partenaire:
-  email: 
-  name: David CAPRON
-  function: Directeur technique & S.A.V.
-  address: 2, La Mornaye
-  city: BEGANNE
-  postcode: 56350
-  tel: (+33)06 64 92 57 18
-  company: DOMETHIC SYSTEM S.A.S.
+  - email: "contact@domethic-system.com"
+    name: David CAPRON
+    function: Directeur technique & S.A.V.
+    address: 2, La Mornaye
+    city: BEGANNE
+    postcode: 56350
+    tel: (+33)06 64 92 57 18
+    company: DOMETHIC SYSTEM S.A.S.
 
 
+installateurPV:
+  - name: "tregor-energethiques"
+    web : "https://www.tregor-energethiques.org/"
+    mail: "contact@alec-saint-brieuc.org"
+  - name: "Alvea"
+    tel: "0255996474"
+	phone: 0299390840
+	web: https://www.alvea-solaire.com
+	mail: accueil@alvea-solaire.com
+  - name: "Solewa"
+    tel: "0255996474"
+    mail: "solewa@solewa.com"
+    contact: 
+      mail: 1
+  - name: "Emeraude Solaire"
+    tel: "0299817850"
+    web: "https://www.emeraude-solaire.com/"
+    mail: ""
+  - name: "adekwatts"
+    tel: "0299807554"?
+    web: "https://www.adekwatts.fr/secteurs/bretagne-saint-malo/"
+    mail: ""
+  - name: "Soleil de L'Ouest"
+    tel: "0786099690"
+    web: "https://www.soleildelouest.fr/"
+    address: "3 rue des enclos, 35350 La Gouesnière"
+    mail: ""
+    note: "Forte puissance pour les centrales solaire en revente totale."
+    contact: 
+      mail: "1"
+  - name: "Armor Bio Energies"
+    tel: "0296302518"?
+    web: "https://www.armor-bio.fr/"
+    address: "4 Rue Fulgence Bienvenue, 22120 Pommeret"
+    mail: ""
+  - name: "Groupe IEL - Initiatives & Energies Locales"
+    tel: "0230960221"
+    web: "https://www.iel-energie.com/"
+    address: "41 Bd Carnot, 22000 Saint-Brieuc"
+    mail: ""
+  - name: "Groupe IEL - Etude & installation"
+    tel: "0240744028"
+    mail: "contact@iel-energie.com"
+    contact: 
+      mail: "1"
+  - name: "Solaire D"
+    tel: "0296424303"
+    web: "https://solaired.fr/"
+    address: "1 Rue Jean Kerisel, 22950 Trégueux"
+    mail: "accueil@guenod.fr"
+    mail: ""
+  - name: "SOS Solaire"
+    tel: "0659842824"
+    web: "http://www.sossolaire.fr"
+    address: "7 Rue Lavoisier, 22590 Pordic"
+    mail: "sos.solaire22@gmail.com"
+  - name: "Avel Thor Solaire"
+    tel: "0296743340"
+    address: "ZA des 4 Voies Sud, 22170 Plélo"
+    mail: ""
+  - name: "Soleil de L'Ouest"
+    tel: "0786099690"?
+    address: "3 rue des enclos, 35350 La Gouesnière"
+    mail: ""
+    contact: 
+      mail: "0"
+  - name: "Golfe Eco Energie"
+    tel: "0786099690"?
+    address: "3 rue des enclos, 35350 La Gouesnière"
+    mail: "auffray.p@gee.bzh"
+    tel: "0765286288"
+    phone: "0297609545"
+    notes: "Rencontre salon de la Maison à Vannes"
+    adress: "ZA de Kerovel, 2 rue de l'industrie, 56390 Grand-Champ"
+    contact:
+      name: "Pierrick Auffray, Technicien conseil"
 
-    Le salon Viving Habitat et immobilier se déroule du 16 au 18 mars 2024, au parc Chorus, à Vannes (Morbihan).
-    
-    https://www.tregor-energethiques.org/ ?
-    contact@alec-saint-brieuc.org
-    
-clb_prlgllsrgl_o-twxs-q26-3f2cb9400433eb9d409884d6e0ea9ed7@optout-feedback.com

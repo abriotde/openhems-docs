@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <office:document xmlns:css3t="http://www.w3.org/TR/css3-text/" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:rpt="http://openoffice.org/2005/report" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:officeooo="http://openoffice.org/2009/office" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" office:version="1.3" office:mimetype="application/vnd.oasis.opendocument.text">
- <office:meta><meta:generator>LibreOffice/24.8.5.2$Linux_X86_64 LibreOffice_project/480$Build-2</meta:generator><meta:editing-duration>P2DT4H30M10S</meta:editing-duration><meta:editing-cycles>384</meta:editing-cycles><dc:title>Albéric - BusinessPlan</dc:title><meta:creation-date>2023-11-25T14:29:40.386157803</meta:creation-date><dc:date>2025-04-21T11:56:38.333517277</dc:date><meta:print-date>2024-09-05T10:31:32.381608360</meta:print-date><meta:printed-by>Fichiers PDF</meta:printed-by><meta:document-statistic meta:table-count="2" meta:image-count="1" meta:object-count="0" meta:page-count="9" meta:paragraph-count="197" meta:word-count="1933" meta:character-count="11949" meta:non-whitespace-character-count="10319"/><meta:template xlink:type="simple" xlink:actuate="onRequest" xlink:title="Albéric - BusinessPlan" xlink:href="../../.config/libreoffice/4/user/template/Albéric%20-%20BusinessPlan.ott" meta:date="2023-11-25T14:29:39.768590378"/></office:meta>
+ <office:meta><meta:generator>LibreOffice/24.8.5.2$Linux_X86_64 LibreOffice_project/480$Build-2</meta:generator><meta:editing-duration>P2DT11H3M34S</meta:editing-duration><meta:editing-cycles>385</meta:editing-cycles><dc:title>Albéric - BusinessPlan</dc:title><meta:creation-date>2023-11-25T14:29:40.386157803</meta:creation-date><dc:date>2025-04-28T21:27:04.353532782</dc:date><meta:print-date>2024-09-05T10:31:32.381608360</meta:print-date><meta:printed-by>Fichiers PDF</meta:printed-by><meta:document-statistic meta:table-count="2" meta:image-count="1" meta:object-count="0" meta:page-count="9" meta:paragraph-count="197" meta:word-count="1935" meta:character-count="11960" meta:non-whitespace-character-count="10328"/><meta:template xlink:type="simple" xlink:actuate="onRequest" xlink:title="Albéric - BusinessPlan" xlink:href="../../.config/libreoffice/4/user/template/Albéric%20-%20BusinessPlan.ott" meta:date="2023-11-25T14:29:39.768590378"/></office:meta>
  <office:settings>
   <config:config-item-set config:name="ooo:view-settings">
-   <config:config-item config:name="ViewAreaTop" config:type="long">0</config:config-item>
+   <config:config-item config:name="ViewAreaTop" config:type="long">127000</config:config-item>
    <config:config-item config:name="ViewAreaLeft" config:type="long">0</config:config-item>
-   <config:config-item config:name="ViewAreaWidth" config:type="long">19052</config:config-item>
-   <config:config-item config:name="ViewAreaHeight" config:type="long">16847</config:config-item>
+   <config:config-item config:name="ViewAreaWidth" config:type="long">18964</config:config-item>
+   <config:config-item config:name="ViewAreaHeight" config:type="long">15988</config:config-item>
    <config:config-item config:name="ShowRedlineChanges" config:type="boolean">true</config:config-item>
    <config:config-item config:name="InBrowseMode" config:type="boolean">false</config:config-item>
    <config:config-item-map-indexed config:name="Views">
     <config:config-item-map-entry>
      <config:config-item config:name="ViewId" config:type="string">view2</config:config-item>
-     <config:config-item config:name="ViewLeft" config:type="long">3041</config:config-item>
-     <config:config-item config:name="ViewTop" config:type="long">3134</config:config-item>
+     <config:config-item config:name="ViewLeft" config:type="long">15702</config:config-item>
+     <config:config-item config:name="ViewTop" config:type="long">132636</config:config-item>
      <config:config-item config:name="VisibleLeft" config:type="long">0</config:config-item>
-     <config:config-item config:name="VisibleTop" config:type="long">0</config:config-item>
-     <config:config-item config:name="VisibleRight" config:type="long">19050</config:config-item>
-     <config:config-item config:name="VisibleBottom" config:type="long">16845</config:config-item>
+     <config:config-item config:name="VisibleTop" config:type="long">127000</config:config-item>
+     <config:config-item config:name="VisibleRight" config:type="long">18962</config:config-item>
+     <config:config-item config:name="VisibleBottom" config:type="long">142986</config:config-item>
      <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
      <config:config-item config:name="ViewLayoutColumns" config:type="short">1</config:config-item>
      <config:config-item config:name="ViewLayoutBookMode" config:type="boolean">false</config:config-item>
@@ -113,7 +113,7 @@
    <config:config-item config:name="CharacterCompressionType" config:type="short">0</config:config-item>
    <config:config-item config:name="IsLabelDocument" config:type="boolean">false</config:config-item>
    <config:config-item config:name="EmbedLatinScriptFonts" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="PrinterSetup" config:type="base64Binary">yAH+/0hMTDIzMTBEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQ1VQUzpITEwyMzEwRAAAAAAAAAAAAAAAAAAAAAAAAAAWAAMAtQAAAAAAAQAEAAhSAAAEdAAASm9iRGF0YSAxCnByaW50ZXI9SExMMjMxMEQKb3JpZW50YXRpb249UG9ydHJhaXQKY29waWVzPTEKY29sbGF0ZT1mYWxzZQptYXJnaW5hZGp1c3RtZW50PTAsMCwnMCwwCmNvbG9yZGVwdGg9MjQKY29sb3JkZXZpY2U9MApQUERDb250ZXh0RGF0YQpJbnB1dFNsb3Q6VFJBWTEARHVwbGV4Ok5vbmUAUGFnZVNpemU6QTQAABIAQ09NUEFUX0RVUExFWF9NT0RFDwBEdXBsZXhNb2RlOjpPZmYMAFBSSU5URVJfTkFNRQgASExMMjMxMEQLAERSSVZFUl9OQU1FDQBDVVBTOkhMTDIzMTBE</config:config-item>
+   <config:config-item config:name="PrinterSetup" config:type="base64Binary">yAH+/0hMTDIzMTBEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQ1VQUzpITEwyMzEwRAAAAAAAAAAAAAAAAAAAAAAAAAAWAAMAtQAAAAAAAQAEAAhSAAAEdAAASm9iRGF0YSAxCnByaW50ZXI9SExMMjMxMEQKb3JpZW50YXRpb249UG9ydHJhaXQKY29waWVzPTEKY29sbGF0ZT1mYWxzZQptYXJnaW5hZGp1c3RtZW50PTAsMCwnMCwwCmNvbG9yZGVwdGg9MjQKY29sb3JkZXZpY2U9MApQUERDb250ZXh0RGF0YQpQYWdlU2l6ZTpBNABEdXBsZXg6Tm9uZQBJbnB1dFNsb3Q6VFJBWTEAABIAQ09NUEFUX0RVUExFWF9NT0RFDwBEdXBsZXhNb2RlOjpPZmYMAFBSSU5URVJfTkFNRQgASExMMjMxMEQLAERSSVZFUl9OQU1FDQBDVVBTOkhMTDIzMTBE</config:config-item>
    <config:config-item config:name="UseVariableWidthNBSP" config:type="boolean">false</config:config-item>
    <config:config-item config:name="EmbedOnlyUsedFonts" config:type="boolean">false</config:config-item>
    <config:config-item config:name="ApplyUserData" config:type="boolean">true</config:config-item>
@@ -141,7 +141,7 @@
    <config:config-item config:name="UseOldPrinterMetrics" config:type="boolean">false</config:config-item>
    <config:config-item config:name="RedlineProtectionKey" config:type="base64Binary"/>
    <config:config-item config:name="TabsRelativeToIndent" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="Rsid" config:type="int">7468625</config:config-item>
+   <config:config-item config:name="Rsid" config:type="int">7610146</config:config-item>
    <config:config-item config:name="UpdateFromTemplate" config:type="boolean">true</config:config-item>
    <config:config-item config:name="ProtectForm" config:type="boolean">false</config:config-item>
    <config:config-item config:name="MsWordCompMinLineHeightByFly" config:type="boolean">false</config:config-item>
@@ -166,7 +166,7 @@
  <office:styles>
   <style:default-style style:family="graphic">
    <style:graphic-properties svg:stroke-color="#3465a4" draw:fill-color="#729fcf" fo:wrap-option="no-wrap" draw:shadow-offset-x="0.3cm" draw:shadow-offset-y="0.3cm" draw:start-line-spacing-horizontal="0.283cm" draw:start-line-spacing-vertical="0.283cm" draw:end-line-spacing-horizontal="0.283cm" draw:end-line-spacing-vertical="0.283cm" style:writing-mode="lr-tb" style:flow-with-text="false"/>
-   <style:paragraph-properties style:text-autospace="ideograph-alpha" style:line-break="strict" loext:tab-stop-distance="0cm" style:writing-mode="lr-tb" style:font-independent-line-spacing="false">
+   <style:paragraph-properties style:text-autospace="ideograph-alpha" style:line-break="strict" loext:tab-stop-distance="0cm" style:font-independent-line-spacing="false">
     <style:tab-stops/>
    </style:paragraph-properties>
    <style:text-properties style:use-window-font-color="true" loext:opacity="0%" style:font-name="Arial" fo:font-size="11pt" fo:language="fr" fo:country="FR" style:letter-kerning="false" style:font-name-asian="Arial1" style:font-size-asian="11pt" style:language-asian="zh" style:country-asian="CN" style:font-name-complex="Arial1" style:font-size-complex="11pt" style:language-complex="hi" style:country-complex="IN"/>
@@ -1147,72 +1147,75 @@
    <style:text-properties officeooo:rsid="00672942"/>
   </style:style>
   <style:style style:name="T23" style:family="text">
-   <style:text-properties officeooo:rsid="00695c05"/>
+   <style:text-properties officeooo:rsid="00737699"/>
   </style:style>
   <style:style style:name="T24" style:family="text">
-   <style:text-properties officeooo:rsid="0057de14"/>
+   <style:text-properties officeooo:rsid="00695c05"/>
   </style:style>
   <style:style style:name="T25" style:family="text">
-   <style:text-properties officeooo:rsid="005a4614"/>
+   <style:text-properties officeooo:rsid="0057de14"/>
   </style:style>
   <style:style style:name="T26" style:family="text">
-   <style:text-properties officeooo:rsid="005b4f77"/>
+   <style:text-properties officeooo:rsid="005a4614"/>
   </style:style>
   <style:style style:name="T27" style:family="text">
-   <style:text-properties officeooo:rsid="005b591b"/>
+   <style:text-properties officeooo:rsid="005b4f77"/>
   </style:style>
   <style:style style:name="T28" style:family="text">
-   <style:text-properties officeooo:rsid="00486075"/>
+   <style:text-properties officeooo:rsid="005b591b"/>
   </style:style>
   <style:style style:name="T29" style:family="text">
-   <style:text-properties officeooo:rsid="005d5cb1"/>
+   <style:text-properties officeooo:rsid="00486075"/>
   </style:style>
   <style:style style:name="T30" style:family="text">
-   <style:text-properties officeooo:rsid="004b28c3"/>
+   <style:text-properties officeooo:rsid="005d5cb1"/>
   </style:style>
   <style:style style:name="T31" style:family="text">
-   <style:text-properties officeooo:rsid="004ef5d4"/>
+   <style:text-properties officeooo:rsid="004b28c3"/>
   </style:style>
   <style:style style:name="T32" style:family="text">
-   <style:text-properties officeooo:rsid="005de92a"/>
+   <style:text-properties officeooo:rsid="004ef5d4"/>
   </style:style>
   <style:style style:name="T33" style:family="text">
-   <style:text-properties officeooo:rsid="00618c40"/>
+   <style:text-properties officeooo:rsid="005de92a"/>
   </style:style>
   <style:style style:name="T34" style:family="text">
-   <style:text-properties officeooo:rsid="005fa503"/>
+   <style:text-properties officeooo:rsid="00618c40"/>
   </style:style>
   <style:style style:name="T35" style:family="text">
-   <style:text-properties officeooo:rsid="004463df"/>
+   <style:text-properties officeooo:rsid="005fa503"/>
   </style:style>
   <style:style style:name="T36" style:family="text">
-   <style:text-properties officeooo:rsid="0050523e"/>
+   <style:text-properties officeooo:rsid="004463df"/>
   </style:style>
   <style:style style:name="T37" style:family="text">
-   <style:text-properties officeooo:rsid="004599e2" loext:padding="0cm" loext:border="none"/>
+   <style:text-properties officeooo:rsid="0050523e"/>
   </style:style>
   <style:style style:name="T38" style:family="text">
-   <style:text-properties officeooo:rsid="003af0eb"/>
+   <style:text-properties officeooo:rsid="004599e2" loext:padding="0cm" loext:border="none"/>
   </style:style>
   <style:style style:name="T39" style:family="text">
-   <style:text-properties officeooo:rsid="003ace25"/>
+   <style:text-properties officeooo:rsid="003af0eb"/>
   </style:style>
   <style:style style:name="T40" style:family="text">
-   <style:text-properties officeooo:rsid="003ace25" loext:padding="0cm" loext:border="none"/>
+   <style:text-properties officeooo:rsid="003ace25"/>
   </style:style>
   <style:style style:name="T41" style:family="text">
-   <style:text-properties officeooo:rsid="00486075" loext:padding="0cm" loext:border="none"/>
+   <style:text-properties officeooo:rsid="003ace25" loext:padding="0cm" loext:border="none"/>
   </style:style>
   <style:style style:name="T42" style:family="text">
-   <style:text-properties style:use-window-font-color="true" loext:opacity="0%" loext:padding="0cm" loext:border="none"/>
+   <style:text-properties officeooo:rsid="00486075" loext:padding="0cm" loext:border="none"/>
   </style:style>
   <style:style style:name="T43" style:family="text">
-   <style:text-properties officeooo:rsid="003cf853"/>
+   <style:text-properties style:use-window-font-color="true" loext:opacity="0%" loext:padding="0cm" loext:border="none"/>
   </style:style>
   <style:style style:name="T44" style:family="text">
-   <style:text-properties style:text-position="super 58%"/>
+   <style:text-properties officeooo:rsid="003cf853"/>
   </style:style>
   <style:style style:name="T45" style:family="text">
+   <style:text-properties style:text-position="super 58%"/>
+  </style:style>
+  <style:style style:name="T46" style:family="text">
    <style:text-properties officeooo:rsid="00718b8c"/>
   </style:style>
   <style:style style:name="fr1" style:family="graphic" style:parent-style-name="Graphics">
@@ -2220,7 +2223,7 @@
    <text:p text:style-name="P23"><text:span text:style-name="T7">Cette gestion s’appelle le </text:span>Smart Energy Manager. <text:span text:style-name="T7">L’idée est de faire un système Open-Source et résilient, indépendant, au besoin d’internet et de ses services.</text:span></text:p>
    <text:p text:style-name="P23"/>
    <text:h text:style-name="Heading_20_1" text:outline-level="1"><text:bookmark-start text:name="__RefHeading___Toc424_1008203239"/>Besoins et contraintes du projet<text:bookmark-end text:name="__RefHeading___Toc424_1008203239"/></text:h>
-   <text:list xml:id="list3976790073" text:style-name="List_20_1">
+   <text:list xml:id="list3776936612" text:style-name="List_20_1">
     <text:list-item>
      <text:p text:style-name="P24">Internet-free</text:p>
     </text:list-item>
@@ -2258,7 +2261,7 @@
    <text:h text:style-name="P28" text:outline-level="1"><text:bookmark-start text:name="__RefHeading___Toc1006_2840653975"/><text:soft-page-break/>Solution existantes<text:bookmark-end text:name="__RefHeading___Toc1006_2840653975"/></text:h>
    <text:p text:style-name="P29"/>
    <text:h text:style-name="P30" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc1008_2840653975"/>Solutions <text:span text:style-name="T10">p</text:span>ropriétaires<text:bookmark-end text:name="__RefHeading___Toc1008_2840653975"/></text:h>
-   <text:list xml:id="list5363529" text:style-name="Numbering_20_123">
+   <text:list xml:id="list410996952" text:style-name="Numbering_20_123">
     <text:list-item>
      <text:p text:style-name="P31"><text:a xlink:type="simple" xlink:href="https://www.gridx.ai/knowledge/home-energy-management-system-hems" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="T11">GridX</text:span></text:a></text:p>
     </text:list-item>
@@ -2330,7 +2333,7 @@
    </text:list>
    <text:h text:style-name="P45" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc1016_2840653975"/><text:span text:style-name="T12">Solutions </text:span>Libre<text:bookmark-end text:name="__RefHeading___Toc1016_2840653975"/></text:h>
    <text:p text:style-name="P46"><text:a xlink:type="simple" xlink:href="https://github.com/topics/energy-management" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link">https://github.com/topics/energy-management</text:a></text:p>
-   <text:list text:continue-list="list5363529" text:style-name="Numbering_20_123">
+   <text:list text:continue-list="list410996952" text:style-name="Numbering_20_123">
     <text:list-item>
      <text:p text:style-name="P47"><text:a xlink:type="simple" xlink:href="https://openems.github.io/openems.io/openems/latest/introduction.html" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link">Open Energy Management System</text:a> <text:span text:style-name="T12">(Java)</text:span> : <text:span text:style-name="T12">Orienté réseau « public » ?</text:span></text:p>
     </text:list-item>
@@ -2387,7 +2390,7 @@
        <text:p text:style-name="P53"><text:a xlink:type="simple" xlink:href="https://mosquitto.org/" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="T21">Mosquito</text:span></text:a><text:span text:style-name="T21"> </text:span>(EPL/EDL licensed)</text:p>
       </text:list-item>
       <text:list-item>
-       <text:p text:style-name="P54"><text:span text:style-name="T22">Routeur solaire </text:span><text:a xlink:type="simple" xlink:href="https://f1atb.fr/fr/" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="T21">F1ATB</text:span></text:a><text:span text:style-name="T21"> </text:span><text:span text:style-name="T22">OU </text:span><text:bookmark text:name="Presentation_du_PVROUTEUR_de_Cyril"/><text:a xlink:type="simple" xlink:href="https://domo.rem81.com/" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link">PVROUTEUR de Cyril</text:a></text:p>
+       <text:p text:style-name="P54"><text:span text:style-name="T22">Routeur solaire </text:span><text:a xlink:type="simple" xlink:href="https://f1atb.fr/fr/" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="T21">F1ATB</text:span></text:a><text:span text:style-name="T21"> </text:span><text:span text:style-name="T22">OU </text:span><text:bookmark text:name="Presentation_du_PVROUTEUR_de_Cyril"/><text:a xlink:type="simple" xlink:href="https://domo.rem81.com/" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link">PVROUTEUR de Cyril</text:a> <text:span text:style-name="T23">OU </text:span><text:a xlink:type="simple" xlink:href="https://www.hacf.fr/realisation-routeur-solaire/" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="T23">routeur</text:span></text:a></text:p>
       </text:list-item>
      </text:list>
     </text:list-item>
@@ -2398,7 +2401,7 @@
      <text:p text:style-name="P56"><text:a xlink:type="simple" xlink:href="https://www.openhab.org/" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link">OpenHAB</text:a></text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P57"><text:a xlink:type="simple" xlink:href="https://openevse.com/index.html" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="T23">O</text:span>pen<text:span text:style-name="T23">EVSE</text:span></text:a><text:span text:style-name="T23"> : Wallbox</text:span></text:p>
+     <text:p text:style-name="P57"><text:a xlink:type="simple" xlink:href="https://openevse.com/index.html" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="T24">O</text:span>pen<text:span text:style-name="T24">EVSE</text:span></text:a><text:span text:style-name="T24"> : Wallbox</text:span></text:p>
     </text:list-item>
     <text:list-item>
      <text:p text:style-name="P58"><text:a xlink:type="simple" xlink:href="https://esphome.io/" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link">ESPHome</text:a> : Build simple ESP system for Home-Assistant</text:p>
@@ -2438,7 +2441,7 @@
    <text:h text:style-name="P66" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc1470_3884095374"/>Solution pour dual-source avec onduleur hybride<text:bookmark-end text:name="__RefHeading___Toc1470_3884095374"/></text:h>
    <text:list text:style-name="L8">
     <text:list-item>
-     <text:p text:style-name="P67">Onduleur hybride avec mode de secours : Un onduleur hybride est spécialement conçu pour gérer la combinaison de plusieurs sources d&apos;énergie, y compris l&apos;énergie solaire, les batteries, et le réseau public. Ce type d&apos;onduleur peut synchroniser la phase et la fréquence de la production solaire/batterie avec celles du réseau public. Cela permet une transition fluide et sûre entre les deux sources sans risque de conflit <text:soft-page-break/>de phase. <text:span text:style-name="T24">Les onduleurs avec mode de secours</text:span> peuvent fonctionner de manière autonome (off-grid) lorsqu&apos;il y a une coupure de courant. Ils déconnectent automatiquement la maison du réseau public et alimentent les appareils essentiels à partir des batteries et des panneaux solaires. Cela empêche tout retour de courant vers le réseau, assurant la sécurité des équipes de maintenance et évitant les conflits de phase.</text:p>
+     <text:p text:style-name="P67">Onduleur hybride avec mode de secours : Un onduleur hybride est spécialement conçu pour gérer la combinaison de plusieurs sources d&apos;énergie, y compris l&apos;énergie solaire, les batteries, et le réseau public. Ce type d&apos;onduleur peut synchroniser la phase et la fréquence de la production solaire/batterie avec celles du réseau public. Cela permet une transition fluide et sûre entre les deux sources sans risque de conflit <text:soft-page-break/>de phase. <text:span text:style-name="T25">Les onduleurs avec mode de secours</text:span> peuvent fonctionner de manière autonome (off-grid) lorsqu&apos;il y a une coupure de courant. Ils déconnectent automatiquement la maison du réseau public et alimentent les appareils essentiels à partir des batteries et des panneaux solaires. Cela empêche tout retour de courant vers le réseau, assurant la sécurité des équipes de maintenance et évitant les conflits de phase.</text:p>
     </text:list-item>
     <text:list-item>
      <text:p text:style-name="P67">Assurez-vous que l&apos;onduleur hybride peut communiquer avec votre EMS, soit via des protocoles standards (comme Modbus, HTTP, MQTT), soit via des API spécifiques.</text:p>
@@ -2450,7 +2453,7 @@
        <text:p text:style-name="P67">Fronius Symo Hybrid</text:p>
       </text:list-item>
       <text:list-item>
-       <text:p text:style-name="P67">Victron MultiPlus-II <text:span text:style-name="T24">(</text:span>triphasé<text:span text:style-name="T24">)</text:span></text:p>
+       <text:p text:style-name="P67">Victron MultiPlus-II <text:span text:style-name="T25">(</text:span>triphasé<text:span text:style-name="T25">)</text:span></text:p>
       </text:list-item>
       <text:list-item>
        <text:p text:style-name="P67">Huawei SUN2000L</text:p>
@@ -2463,33 +2466,33 @@
    </text:list>
    <text:p text:style-name="P68"/>
    <text:h text:style-name="P66" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc430_1008203239"/>Solution pour dual-source avec switch<text:bookmark-end text:name="__RefHeading___Toc430_1008203239"/></text:h>
-   <text:p text:style-name="P68"><text:span text:style-name="T25">Selon la norme </text:span>ATX, les alimentations doivent supporter des microcoupures d’au moins 16 ms.</text:p>
+   <text:p text:style-name="P68"><text:span text:style-name="T26">Selon la norme </text:span>ATX, les alimentations doivent supporter des microcoupures d’au moins 16 ms.</text:p>
    <text:list text:style-name="L9">
     <text:list-item>
      <text:p text:style-name="P69">MPPT</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P69"><text:span text:style-name="T26">Inverseur de source</text:span> piloté par OpenHEMS-sample</text:p>
+     <text:p text:style-name="P69"><text:span text:style-name="T27">Inverseur de source</text:span> piloté par OpenHEMS-sample</text:p>
      <text:list>
       <text:list-item>
-       <text:p text:style-name="P70"><text:a xlink:type="simple" xlink:href="https://www.socomec.fr/fr/c/inverseurs-de-sources-manoeuvres-a-distance-rts" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link">Inverseur de source piloté par RTS</text:a> <text:span text:style-name="T27">+ </text:span><text:a xlink:type="simple" xlink:href="https://www.gce-electronics.com/fr/produits-radio/1777-rf-player-3770008041004.html" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="T27">RFPLayer</text:span></text:a></text:p>
+       <text:p text:style-name="P70"><text:a xlink:type="simple" xlink:href="https://www.socomec.fr/fr/c/inverseurs-de-sources-manoeuvres-a-distance-rts" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link">Inverseur de source piloté par RTS</text:a> <text:span text:style-name="T28">+ </text:span><text:a xlink:type="simple" xlink:href="https://www.gce-electronics.com/fr/produits-radio/1777-rf-player-3770008041004.html" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="T28">RFPLayer</text:span></text:a></text:p>
       </text:list-item>
      </text:list>
     </text:list-item>
    </text:list>
    <text:h text:style-name="P71" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc1472_3884095374"/>Composants<text:bookmark-end text:name="__RefHeading___Toc1472_3884095374"/></text:h>
    <text:h text:style-name="P62" text:outline-level="3"><text:bookmark-start text:name="__RefHeading___Toc1022_2840653975"/>Module Core<text:bookmark-end text:name="__RefHeading___Toc1022_2840653975"/></text:h>
-   <text:p text:style-name="P72">Il s’agit d’un <text:span text:style-name="T28">programme « </text:span><text:span text:style-name="T29">intelligent »</text:span><text:span text:style-name="T28"> </text:span><text:span text:style-name="T29">(à terme </text:span><text:span text:style-name="T28">doté d’une IA, </text:span><text:span text:style-name="T29">si celle-ci peut avoir une consommation maîtrisé)</text:span><text:span text:style-name="T28"> capable de remont</text:span><text:span text:style-name="T29">er (via Home-Assistant) l’ensemble des informations disponible des composants mais aussi d’internet (Prévisions météo)</text:span><text:span text:style-name="T28"> </text:span><text:span text:style-name="T29">de les intégrer et de commander en conséquences au mieux les composants pilotables (via Home-Assistant)</text:span><text:span text:style-name="T28">.</text:span></text:p>
-   <text:p text:style-name="P73"><text:span text:style-name="T30">Il comprend une «</text:span><text:a xlink:type="simple" xlink:href="https://github.com/ChesnoiuCatalin/Python-Backdoor/tree/main" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="T30"> backdoor </text:span></text:a><text:span text:style-name="T30">» dont le but est de permettre la maintenance à distance </text:span><text:span text:style-name="T29">sur validation de l’utilisateur</text:span><text:span text:style-name="T30">.</text:span></text:p>
+   <text:p text:style-name="P72">Il s’agit d’un <text:span text:style-name="T29">programme « </text:span><text:span text:style-name="T30">intelligent »</text:span><text:span text:style-name="T29"> </text:span><text:span text:style-name="T30">(à terme </text:span><text:span text:style-name="T29">doté d’une IA, </text:span><text:span text:style-name="T30">si celle-ci peut avoir une consommation maîtrisé)</text:span><text:span text:style-name="T29"> capable de remont</text:span><text:span text:style-name="T30">er (via Home-Assistant) l’ensemble des informations disponible des composants mais aussi d’internet (Prévisions météo)</text:span><text:span text:style-name="T29"> </text:span><text:span text:style-name="T30">de les intégrer et de commander en conséquences au mieux les composants pilotables (via Home-Assistant)</text:span><text:span text:style-name="T29">.</text:span></text:p>
+   <text:p text:style-name="P73"><text:span text:style-name="T31">Il comprend une «</text:span><text:a xlink:type="simple" xlink:href="https://github.com/ChesnoiuCatalin/Python-Backdoor/tree/main" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="T31"> backdoor </text:span></text:a><text:span text:style-name="T31">» dont le but est de permettre la maintenance à distance </text:span><text:span text:style-name="T30">sur validation de l’utilisateur</text:span><text:span text:style-name="T31">.</text:span></text:p>
    <text:p text:style-name="P74">Il est capable de se mettre à jour.</text:p>
-   <text:p text:style-name="P75"><text:span text:style-name="T29">On appel</text:span> composant<text:span text:style-name="T29">s tous les autres appareils connecté de la maison utile pour OpenHEMS.</text:span></text:p>
-   <text:p text:style-name="P75">Chaque composant est identifié par <text:span text:style-name="T29">un identifiant donné par Home-Assistant.</text:span></text:p>
-   <text:p text:style-name="P75">La configuration du module core se fait par un fichier Yaml. Ainsi la configuration est exportable simplement et une IHM web ou non pourra <text:span text:style-name="T29">à terme</text:span> l’éditer.</text:p>
+   <text:p text:style-name="P75"><text:span text:style-name="T30">On appel</text:span> composant<text:span text:style-name="T30">s tous les autres appareils connecté de la maison utile pour OpenHEMS.</text:span></text:p>
+   <text:p text:style-name="P75">Chaque composant est identifié par <text:span text:style-name="T30">un identifiant donné par Home-Assistant.</text:span></text:p>
+   <text:p text:style-name="P75">La configuration du module core se fait par un fichier Yaml. Ainsi la configuration est exportable simplement et une IHM web ou non pourra <text:span text:style-name="T30">à terme</text:span> l’éditer.</text:p>
    <text:p text:style-name="P75"/>
-   <text:p text:style-name="P76">Compos<text:span text:style-name="T29">ition du module core</text:span> :</text:p>
-   <text:list xml:id="list253452795" text:style-name="L10">
+   <text:p text:style-name="P76">Compos<text:span text:style-name="T30">ition du module core</text:span> :</text:p>
+   <text:list xml:id="list212932030" text:style-name="L10">
     <text:list-item>
-     <text:p text:style-name="P77"><text:a xlink:type="simple" xlink:href="https://www.banana-pi.org/en/banana-pi-sbcs/167.html" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="T31">Banana Pi M</text:span><text:span text:style-name="T32">1</text:span></text:a><text:span text:style-name="T31"> (</text:span><text:a xlink:type="simple" xlink:href="https://fr.aliexpress.com/item/1005003665545158.html?spm=a2g0o.productlist.main.1.4fad7e8brsyO5Q&amp;algo_pvid=94cdc4d5-ed1f-4ffc-812b-23b88a6579fb&amp;algo_exp_id=94cdc4d5-ed1f-4ffc-812b-23b88a6579fb-0&amp;pdp_npi=4%40dis%21EUR%2143.58%2121.79%21%21%2147.16%2123.58%21%40210385bb17255507860252946e358d%2112000026711647985%21sea%21FR%210%21ABX&amp;curPageLogUid=VYUEh9Pt4Zrg&amp;utparam-url=scene%3Asearch%7Cquery_from%3A" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="T32">26 euros</text:span></text:a><text:span text:style-name="T31">) </text:span><text:span text:style-name="T32">OR </text:span><text:a xlink:type="simple" xlink:href="https://www.olimex.com/Products/OLinuXino/A20/A20-OLinuXino-LIME2/open-source-hardware" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="T32">A20-OlinuXino-LIME2</text:span></text:a><text:span text:style-name="T32"> (40 euros) OR Banana </text:span><text:bookmark text:name="pro_name"/>StarFive VisionFive <text:span text:style-name="T32">(100 euros)</text:span></text:p>
+     <text:p text:style-name="P77"><text:a xlink:type="simple" xlink:href="https://www.banana-pi.org/en/banana-pi-sbcs/167.html" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="T32">Banana Pi M</text:span><text:span text:style-name="T33">1</text:span></text:a><text:span text:style-name="T32"> (</text:span><text:a xlink:type="simple" xlink:href="https://fr.aliexpress.com/item/1005003665545158.html?spm=a2g0o.productlist.main.1.4fad7e8brsyO5Q&amp;algo_pvid=94cdc4d5-ed1f-4ffc-812b-23b88a6579fb&amp;algo_exp_id=94cdc4d5-ed1f-4ffc-812b-23b88a6579fb-0&amp;pdp_npi=4%40dis%21EUR%2143.58%2121.79%21%21%2147.16%2123.58%21%40210385bb17255507860252946e358d%2112000026711647985%21sea%21FR%210%21ABX&amp;curPageLogUid=VYUEh9Pt4Zrg&amp;utparam-url=scene%3Asearch%7Cquery_from%3A" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="T33">26 euros</text:span></text:a><text:span text:style-name="T32">) </text:span><text:span text:style-name="T33">OR </text:span><text:a xlink:type="simple" xlink:href="https://www.olimex.com/Products/OLinuXino/A20/A20-OLinuXino-LIME2/open-source-hardware" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="T33">A20-OlinuXino-LIME2</text:span></text:a><text:span text:style-name="T33"> (40 euros) OR Banana </text:span><text:bookmark text:name="pro_name"/>StarFive VisionFive <text:span text:style-name="T33">(100 euros)</text:span></text:p>
      <text:list>
       <text:list-item>
        <text:p text:style-name="P78">1Go RAM (1Go ?)</text:p>
@@ -2509,48 +2512,48 @@
      <text:p text:style-name="P78">Alimentation 5V 2A micro-USB (<text:a xlink:type="simple" xlink:href="https://fr.aliexpress.com/item/32609373407.html?spm=a2g0o.productlist.main.21.6c537c19ukeXgH&amp;algo_pvid=4bc6ca6d-ac73-4432-876c-632e69c76780&amp;algo_exp_id=4bc6ca6d-ac73-4432-876c-632e69c76780-10&amp;pdp_npi=4%40dis%21EUR%215.13%213.59%21%21%215.55%213.88%21%40211b618e17255523130214825e4250%2112000021434556508%21sea%21FR%210%21ABX&amp;curPageLogUid=LzPIYpUEnd7V&amp;utparam-url=scene%3Asearch%7Cquery_from%3A" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link">4 euros</text:a>)</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P79">Carte micro-SD 16Go (<text:span text:style-name="T33">20 euros</text:span>)</text:p>
+     <text:p text:style-name="P79">Carte micro-SD 16Go (<text:span text:style-name="T34">20 euros</text:span>)</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P80"><text:a xlink:type="simple" xlink:href="https://www.thingiverse.com/thing:1323875" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link">Box</text:a> <text:span text:style-name="T33">Impresssion 3D de la box </text:span><text:a xlink:type="simple" xlink:href="https://craftcloud3d.com/cart" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="T33">Craftcloud</text:span></text:a><text:span text:style-name="T33"> (15 euros)</text:span></text:p>
+     <text:p text:style-name="P80"><text:a xlink:type="simple" xlink:href="https://www.thingiverse.com/thing:1323875" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link">Box</text:a> <text:span text:style-name="T34">Impresssion 3D de la box </text:span><text:a xlink:type="simple" xlink:href="https://craftcloud3d.com/cart" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="T34">Craftcloud</text:span></text:a><text:span text:style-name="T34"> (15 euros)</text:span></text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P81"><text:a xlink:type="simple" xlink:href="https://www.amazon.fr/SONOFF-Coordinator-Universelle-Passerelle-Assistant/dp/B09KXTCMSC/ref=sr_1_9?dib=eyJ2IjoiMSJ9.2sbbRMc_RLtJUaulHubdoONuEAz2tBDGh13Y3Lq5JQtEWFQHN5pM50lszAMqc9W9vYYOUa_za-lh_-xarpe_pSOahCAYqYkFEQ66d48JfZnGMyzrnGiU9GVsG_ZbN5E2g-QhqJdEEskP3jrsxoXSLqzKIZ7OZ8DP5CV7NuHniR3fWW6vliDx0GrpKS3rVsOjP4s07VbtvvkVXxASQDqcKLvxQURwiCNPutA9RBhVhrI08VeEIayeSX2ltXRS-6-hpX0YjWGU7bSgoUtZfd4Jsxa9q0f20A0Soghd5_7B7Rk.1LyNLbm3qcXtHqMbK0IEpYGKAS7RAvWDAYw7D9mI1zI&amp;dib_tag=se&amp;keywords=Arduino+Zigbee&amp;qid=1715247772&amp;sr=8-9" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link">SONOFF ZigBee 3.0 USB Dongle Plus</text:a> <text:span text:style-name="T34">OR </text:span><text:a xlink:type="simple" xlink:href="https://www.domo-blog.fr/passerelle-zigbee-gpio-raspberrypi-popp-zb-shield-jeedom-home-assistant/" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="T34">ModuleZigBee GPIO</text:span></text:a><text:span text:style-name="T34"> </text:span></text:p>
+     <text:p text:style-name="P81"><text:a xlink:type="simple" xlink:href="https://www.amazon.fr/SONOFF-Coordinator-Universelle-Passerelle-Assistant/dp/B09KXTCMSC/ref=sr_1_9?dib=eyJ2IjoiMSJ9.2sbbRMc_RLtJUaulHubdoONuEAz2tBDGh13Y3Lq5JQtEWFQHN5pM50lszAMqc9W9vYYOUa_za-lh_-xarpe_pSOahCAYqYkFEQ66d48JfZnGMyzrnGiU9GVsG_ZbN5E2g-QhqJdEEskP3jrsxoXSLqzKIZ7OZ8DP5CV7NuHniR3fWW6vliDx0GrpKS3rVsOjP4s07VbtvvkVXxASQDqcKLvxQURwiCNPutA9RBhVhrI08VeEIayeSX2ltXRS-6-hpX0YjWGU7bSgoUtZfd4Jsxa9q0f20A0Soghd5_7B7Rk.1LyNLbm3qcXtHqMbK0IEpYGKAS7RAvWDAYw7D9mI1zI&amp;dib_tag=se&amp;keywords=Arduino+Zigbee&amp;qid=1715247772&amp;sr=8-9" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link">SONOFF ZigBee 3.0 USB Dongle Plus</text:a> <text:span text:style-name="T35">OR </text:span><text:a xlink:type="simple" xlink:href="https://www.domo-blog.fr/passerelle-zigbee-gpio-raspberrypi-popp-zb-shield-jeedom-home-assistant/" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="T35">ModuleZigBee GPIO</text:span></text:a><text:span text:style-name="T35"> </text:span></text:p>
     </text:list-item>
    </text:list>
    <text:p text:style-name="P82">=&gt; Coût de revient de 60 euros =&gt; 100 euros.</text:p>
    <text:h text:style-name="Heading_20_3" text:outline-level="3"><text:bookmark-start text:name="__RefHeading___Toc1024_2840653975"/>Module<text:span text:style-name="T10">s périphériques</text:span><text:bookmark-end text:name="__RefHeading___Toc1024_2840653975"/></text:h>
    <text:list text:style-name="L11">
     <text:list-item>
-     <text:p text:style-name="P83"><text:span text:style-name="T9">Commande</text:span> par alimentation/coupure <text:span text:style-name="T28">avec ou sans mesure</text:span></text:p>
+     <text:p text:style-name="P83"><text:span text:style-name="T9">Commande</text:span> par alimentation/coupure <text:span text:style-name="T29">avec ou sans mesure</text:span></text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P83"><text:span text:style-name="T9">Commande</text:span> par <text:span text:style-name="T9">modulation</text:span><text:span text:style-name="T35"> </text:span><text:a xlink:type="simple" xlink:href="https://f1atb.fr/fr/" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="T21">F1ATB</text:span></text:a></text:p>
+     <text:p text:style-name="P83"><text:span text:style-name="T9">Commande</text:span> par <text:span text:style-name="T9">modulation</text:span><text:span text:style-name="T36"> </text:span><text:a xlink:type="simple" xlink:href="https://f1atb.fr/fr/" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="T21">F1ATB</text:span></text:a></text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P84"><text:a xlink:type="simple" xlink:href="https://www.domotique-store.fr/domotique/usages/mesure-de-consommation-energetique-domotique/mesure-de-consommation-via-teleinfo-edf/1611-lixee-zlinkytic-transmetteur-de-teleinformations-linky-vers-zigbee.html" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link">Module Linky</text:a> <text:span text:style-name="T36">OR </text:span><text:a xlink:type="simple" xlink:href="https://f1atb.fr/fr/capteur-linky-pour-routeur-photovoltaique/" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="T36">LTV-814 + Plaque à trou</text:span></text:a></text:p>
+     <text:p text:style-name="P84"><text:a xlink:type="simple" xlink:href="https://www.domotique-store.fr/domotique/usages/mesure-de-consommation-energetique-domotique/mesure-de-consommation-via-teleinfo-edf/1611-lixee-zlinkytic-transmetteur-de-teleinformations-linky-vers-zigbee.html" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link">Module Linky</text:a> <text:span text:style-name="T37">OR </text:span><text:a xlink:type="simple" xlink:href="https://f1atb.fr/fr/capteur-linky-pour-routeur-photovoltaique/" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="T37">LTV-814 + Plaque à trou</text:span></text:a></text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P85"><text:span text:style-name="T37">Mesure courant (panneaux solaire, n</text:span><text:span text:style-name="T6">on pilotable</text:span><text:span text:style-name="T37">)</text:span></text:p>
+     <text:p text:style-name="P85"><text:span text:style-name="T38">Mesure courant (panneaux solaire, n</text:span><text:span text:style-name="T6">on pilotable</text:span><text:span text:style-name="T38">)</text:span></text:p>
      <text:list>
       <text:list-item>
-       <text:p text:style-name="P83"><text:a xlink:type="simple" xlink:href="https://www.temu.com/ul/kuiper/un9.html?subj=coupon-un&amp;_bg_fs=1&amp;_p_jump_id=895&amp;_x_vst_scene=adg&amp;goods_id=601099529838536&amp;sku_id=17592274255553&amp;adg_ctx=a-34ad9494~c-4ea20a79~f-e9c9c93c&amp;_x_ads_sub_channel=shopping&amp;_p_rfs=1&amp;_x_ns_prz_type=-1&amp;_x_ns_sku_id=17592274255553&amp;mrk_rec=1&amp;_x_ads_channel=google&amp;_x_gmc_account=742384653&amp;_x_login_type=Google&amp;_x_ads_account=5198328713&amp;_x_ads_set=20285719810&amp;_x_ads_id=151419349418&amp;_x_ads_creative_id=662685061432&amp;_x_ns_source=g&amp;_x_ns_gclid=CjwKCAiA04arBhAkEiwAuNOsIl5ZTRIz634M79VPROXHcKbP5ts5mBNQZTMMBtO-YUFxutVqxAEMxxoC3ogQAvD_BwE&amp;_x_ns_placement=&amp;_x_ns_match_type=&amp;_x_ns_ad_position=&amp;_x_ns_product_id=17592274255553&amp;_x_ns_target=&amp;_x_ns_devicemodel=&amp;_x_ns_wbraid=CjgKCAiAsIGrBhA1EigA_9xWn_kk8sHeg3QPAjEDMXIOdCNOY9_svL8poobNSKD7xagKs7RTGgKvqA&amp;_x_ns_gbraid=0AAAAAo4mICFM0WbfSabqaqhyBL_T07T1w&amp;_x_ns_targetid=pla-2087129004693&amp;gad_source=1&amp;gclid=CjwKCAiA04arBhAkEiwAuNOsIl5ZTRIz634M79VPROXHcKbP5ts5mBNQZTMMBtO-YUFxutVqxAEMxxoC3ogQAvD_BwE" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="T38">Capteur de courant</text:span></text:a></text:p>
+       <text:p text:style-name="P83"><text:a xlink:type="simple" xlink:href="https://www.temu.com/ul/kuiper/un9.html?subj=coupon-un&amp;_bg_fs=1&amp;_p_jump_id=895&amp;_x_vst_scene=adg&amp;goods_id=601099529838536&amp;sku_id=17592274255553&amp;adg_ctx=a-34ad9494~c-4ea20a79~f-e9c9c93c&amp;_x_ads_sub_channel=shopping&amp;_p_rfs=1&amp;_x_ns_prz_type=-1&amp;_x_ns_sku_id=17592274255553&amp;mrk_rec=1&amp;_x_ads_channel=google&amp;_x_gmc_account=742384653&amp;_x_login_type=Google&amp;_x_ads_account=5198328713&amp;_x_ads_set=20285719810&amp;_x_ads_id=151419349418&amp;_x_ads_creative_id=662685061432&amp;_x_ns_source=g&amp;_x_ns_gclid=CjwKCAiA04arBhAkEiwAuNOsIl5ZTRIz634M79VPROXHcKbP5ts5mBNQZTMMBtO-YUFxutVqxAEMxxoC3ogQAvD_BwE&amp;_x_ns_placement=&amp;_x_ns_match_type=&amp;_x_ns_ad_position=&amp;_x_ns_product_id=17592274255553&amp;_x_ns_target=&amp;_x_ns_devicemodel=&amp;_x_ns_wbraid=CjgKCAiAsIGrBhA1EigA_9xWn_kk8sHeg3QPAjEDMXIOdCNOY9_svL8poobNSKD7xagKs7RTGgKvqA&amp;_x_ns_gbraid=0AAAAAo4mICFM0WbfSabqaqhyBL_T07T1w&amp;_x_ns_targetid=pla-2087129004693&amp;gad_source=1&amp;gclid=CjwKCAiA04arBhAkEiwAuNOsIl5ZTRIz634M79VPROXHcKbP5ts5mBNQZTMMBtO-YUFxutVqxAEMxxoC3ogQAvD_BwE" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="T39">Capteur de courant</text:span></text:a></text:p>
       </text:list-item>
       <text:list-item>
-       <text:p text:style-name="P83"><text:span text:style-name="T39">+ Mesure de courant alternatif <text:s/>ou pas </text:span>ACS712 : <text:span text:style-name="T39">5 à 30 A</text:span></text:p>
+       <text:p text:style-name="P83"><text:span text:style-name="T40">+ Mesure de courant alternatif <text:s/>ou pas </text:span>ACS712 : <text:span text:style-name="T40">5 à 30 A</text:span></text:p>
       </text:list-item>
       <text:list-item>
-       <text:p text:style-name="P83"><text:span text:style-name="T39">Mesure de courant alternatif </text:span>TA12-100 : 0<text:span text:style-name="T39"> à 5 A</text:span></text:p>
+       <text:p text:style-name="P83"><text:span text:style-name="T40">Mesure de courant alternatif </text:span>TA12-100 : 0<text:span text:style-name="T40"> à 5 A</text:span></text:p>
       </text:list-item>
      </text:list>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P85"><text:span text:style-name="T40">M</text:span><text:span text:style-name="T41">odule de commande pour appareils « pilotable »</text:span></text:p>
+     <text:p text:style-name="P85"><text:span text:style-name="T41">M</text:span><text:span text:style-name="T42">odule de commande pour appareils « pilotable »</text:span></text:p>
     </text:list-item>
    </text:list>
-   <text:p text:style-name="P86"><text:span text:style-name="T42"/></text:p>
+   <text:p text:style-name="P86"><text:span text:style-name="T43"/></text:p>
    <text:p text:style-name="P86"><text:span text:style-name="T6"/></text:p>
-   <text:h text:style-name="Heading_20_2" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc432_1008203239"/><text:span text:style-name="T43">Type de m</text:span>odule périphériques<text:bookmark-end text:name="__RefHeading___Toc432_1008203239"/></text:h>
+   <text:h text:style-name="Heading_20_2" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc432_1008203239"/><text:span text:style-name="T44">Type de m</text:span>odule périphériques<text:bookmark-end text:name="__RefHeading___Toc432_1008203239"/></text:h>
    <text:p text:style-name="P87">Pilotage</text:p>
    <text:list text:style-name="L12">
     <text:list-item>
@@ -2560,10 +2563,10 @@
      <text:p text:style-name="P88">Non pilotable (N) =&gt; alerte smartphone (Électroménager commercial) : <text:span text:style-name="T9">Certains appareil ne sont pas pilotable automatiquement mais on peut signaler à l’utilisateur les marges de consommation de façon à ce qu’il les lance au temps approprié. Cela peut consister en un cycle de lavage ou en un aspirateur.</text:span></text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P89"><text:span text:style-name="T43">Pilotable par alimentation/coupure (A) (</text:span><text:span text:style-name="T38">Voiture</text:span><text:span text:style-name="T43">). </text:span><text:span text:style-name="T9">Ce sont les appareil qui se mettent en marche seul dès que le courant arrive et s’éteigne sans dommage en coupant le courant. On pense à la charge de la voiture électrique ou à une pompe à eau pour remplir un réservoir. Une version pourrait se brancher directement sur le disjoncteur.</text:span></text:p>
+     <text:p text:style-name="P89"><text:span text:style-name="T44">Pilotable par alimentation/coupure (A) (</text:span><text:span text:style-name="T39">Voiture</text:span><text:span text:style-name="T44">). </text:span><text:span text:style-name="T9">Ce sont les appareil qui se mettent en marche seul dès que le courant arrive et s’éteigne sans dommage en coupant le courant. On pense à la charge de la voiture électrique ou à une pompe à eau pour remplir un réservoir. Une version pourrait se brancher directement sur le disjoncteur.</text:span></text:p>
     </text:list-item>
    </text:list>
-   <text:list text:continue-list="list253452795" text:style-name="L10">
+   <text:list text:continue-list="list212932030" text:style-name="L10">
     <text:list-item>
      <text:list>
       <text:list-item>
@@ -2578,7 +2581,7 @@
      </text:list>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P92">Pilotable par <text:span text:style-name="T35">modulation</text:span> (<text:span text:style-name="T35">Chauffe-eau résistifs </text:span><text:a xlink:type="simple" xlink:href="https://f1atb.fr/fr/" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="T21">F1ATB</text:span></text:a><text:span text:style-name="T21">, </text:span><text:span text:style-name="T35">batteries</text:span>) : <text:span text:style-name="T35">Ce sont les appareils ou l’on peut envoyer des courants saccadé ou du moins non standard. <text:s/></text:span><text:span text:style-name="T9">Typiquement les appareil chauffant par le biais d’une résistance. Une version amélioré</text:span><text:span text:style-name="T29">e</text:span><text:span text:style-name="T9"> du système pourrait simplement limiter le courant ou la tension.</text:span></text:p>
+     <text:p text:style-name="P92">Pilotable par <text:span text:style-name="T36">modulation</text:span> (<text:span text:style-name="T36">Chauffe-eau résistifs </text:span><text:a xlink:type="simple" xlink:href="https://f1atb.fr/fr/" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="T21">F1ATB</text:span></text:a><text:span text:style-name="T21">, </text:span><text:span text:style-name="T36">batteries</text:span>) : <text:span text:style-name="T36">Ce sont les appareils ou l’on peut envoyer des courants saccadé ou du moins non standard. <text:s/></text:span><text:span text:style-name="T9">Typiquement les appareil chauffant par le biais d’une résistance. Une version amélioré</text:span><text:span text:style-name="T30">e</text:span><text:span text:style-name="T9"> du système pourrait simplement limiter le courant ou la tension.</text:span></text:p>
      <text:list>
       <text:list-item>
        <text:p text:style-name="P93">Arduino Nano</text:p>
@@ -2592,11 +2595,11 @@
      </text:list>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P95"><text:soft-page-break/>Pilotable (A) : arrêtable (Électroménager « <text:span text:style-name="T35">connecté »</text:span>) <text:span text:style-name="T9">Ce sont les appareil dont on peut commander l’arrêt et le démarrage voir plus. Idéalement un appareil entièrement pilotable pourrait moduler la vitesse d’exécution (lave-linge, sèche-linge… ).</text:span></text:p>
+     <text:p text:style-name="P95"><text:soft-page-break/>Pilotable (A) : arrêtable (Électroménager « <text:span text:style-name="T36">connecté »</text:span>) <text:span text:style-name="T9">Ce sont les appareil dont on peut commander l’arrêt et le démarrage voir plus. Idéalement un appareil entièrement pilotable pourrait moduler la vitesse d’exécution (lave-linge, sèche-linge… ).</text:span></text:p>
     </text:list-item>
    </text:list>
    <text:p text:style-name="P87">Entré/Sortie</text:p>
-   <text:list text:continue-list="list3976790073" text:style-name="List_20_1">
+   <text:list text:continue-list="list3776936612" text:style-name="List_20_1">
     <text:list-item>
      <text:list>
       <text:list-item>
@@ -2659,7 +2662,7 @@
    <text:p text:style-name="P74"/>
    <text:h text:style-name="P102" text:outline-level="1"><text:bookmark-start text:name="__RefHeading___Toc1662_1349131328"/>Législation<text:bookmark-end text:name="__RefHeading___Toc1662_1349131328"/></text:h>
    <text:p text:style-name="Standard"/>
-   <text:p text:style-name="P103">A partir de 1<text:span text:style-name="T44">er</text:span> octobre 2025, obligation légale d’avoir un EMS <text:span text:style-name="T45">(ou batteries) pour bénéficier TVA 5.5</text:span>. Possibilité de certification <text:a xlink:type="simple" xlink:href="https://www.iso.org/iso-50001-energy-management.html" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link">ISO-50001</text:a> non contraignante.</text:p>
+   <text:p text:style-name="P103">A partir de 1<text:span text:style-name="T45">er</text:span> octobre 2025, obligation légale d’avoir un EMS <text:span text:style-name="T46">(ou batteries) pour bénéficier TVA 5.5</text:span>. Possibilité de certification <text:a xlink:type="simple" xlink:href="https://www.iso.org/iso-50001-energy-management.html" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link">ISO-50001</text:a> non contraignante.</text:p>
    <text:p text:style-name="Standard"/>
    <text:p text:style-name="Standard"><text:a xlink:type="simple" xlink:href="https://www.apave-certification.com/en/certification/energy-management-system-certification-iso-50001" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link">https://www.apave-certification.com/en/certification/energy-management-system-certification-iso-50001</text:a></text:p>
    <text:p text:style-name="Standard"><text:a xlink:type="simple" xlink:href="https://www.les-energies-renouvelables.eu/tva-reduite-panneau-solaire-photovoltaique/" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link">https://www.les-energies-renouvelables.eu/tva-reduite-panneau-solaire-photovoltaique/</text:a></text:p>
